@@ -41,7 +41,7 @@ This also applies to historical _n_ where Gheg dropped the sound entirely but To
 
 ### Syllable-final _j_ often replaced by _nj_
 
-Old Gheg & Old Tosk both used medial & final _nj_ in verbs. Modern Gheg and a few Tosk dialects dropped this, but most other Tosk dialects retain this. Also, this often helps mark Gheg nasalisation.
+Old Gheg & Old Tosk both used medial & final _nj_ in verbs. Gheg and a few Tosk dialects dropped this, but most other Tosk dialects retain this. Also, this often helps mark Gheg nasalisation.
 *	_nda**j**_ (\~_dâ**j**_\~_nda**nj**_) → _da**nj**_
 *	_gje**j**_ (\~_gjê**j**_\~_gjë**nj**_) → _gje**nj**_
 *	_mbi**j**_ (\~_m(b)î**j**_\~_mbi**nj**_) → _mbi**nj**_
@@ -84,7 +84,7 @@ In a few words where Old Gheg _n_ has been lost, this is reintroduced to mark Gh
 
 ### Initial _va_ occasionally replaced by _vo_
 
-In a few words, Gheg initial _vo_ is likely more conservative than Tosk & Modern _va_.
+In a few words, Gheg initial _vo_ is likely more conservative than Tosk & Standard _va_.
 *	_**va**tër_ (\~_**vo**tër_) → _**vo**tër_
 *	_**va**rfën_ (\~_**vo**rfën_) → _**vo**rfën_
 
