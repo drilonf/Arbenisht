@@ -33,7 +33,7 @@ Old Gheg & Old Tosk _gl_ is is preserved as /gl\~gʎ/ in some Tosk dialects, rea
 
 ### _q_ replaced by _kj_, _kȷ_
 
-Matches with -j pattern: _g_ → _gj_, _n_ → _nj_. _k_ → _kj_ logically follows. _kj_ also matches with historical spellings (_ci_, _chi_, _ki_, _kj_).<br>
+Matches with _-j_ pattern: _g_ → _gj_, _n_ → _nj_. _k_ → _kj_ logically follows. _kj_ also matches with historical spellings (_ci_, _chi_, _ki_, _kj_).<br>
 Old Gheg & Old Tosk _kl_ is preserved as /kl\~kʎ/ in some Tosk dialects, realised as /kʲ\~k/ in some Gheg dialects, and merged with /tɕ/ (and similar) in the rest. This is differentiated as _kȷ_.
 *	_**q**en_ → _**kj**en_
 *	_**q**ep_ (\~_**k**ep_\~_**kl**ep_) → _**kȷ**ep_
