@@ -21,7 +21,9 @@ The Arbëƞisht alphabet.
 * Aa Bb Cc Chch Dd Dhdh Ee Eë Ff Gg Gjgj Gȷgȷ Hh Ii Jj Kk Kjkj Kȷkȷ Ll Llll Mm Nn Njnj Oo Pp Rr Rrrr Ss Shsh Tt Thth Uu Vv Xx Xhxh Yy Zz Zhzh
 * Ɉȷ Ŋƞ
 
-Since all 4 of these new letters are merged in Standard Elbasanisht pronunciation with other letters, they will be distinguished by being named as follows:
+_Ɉ_ and _Ŋ_ are not considered part of the alphabet as they cannot occur word-initially.
+
+Since all 4 of the new letters are merged in Standard Elbasanisht pronunciation with other letters, they will be distinguished by being named as follows:
 * J,j as /jə/; Ɉ,ȷ as /ʎə/
 * Gj,gj as /dʑə/; Gȷ,gȷ as /gʎə/
 * Kj,kj as /tɕə/; Kȷ,kȷ as /kʎə/
