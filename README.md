@@ -10,7 +10,7 @@ With that said, this reform has been designed with the principle of "one spellin
 
 
 ## Alphabet
-<img src="https://github.com/drilonf/Arbenisht/blob/main/2%20-%20Alphabet.jpg?raw=true" width="600"/>
+<img src="https://github.com/drilonf/Arbenisht/blob/main/Alphabet.jpg?raw=true"/>
 The Arbëƞisht alphabet.
 
 * Changes to spelling and/or usage are in Light Green.
@@ -18,7 +18,7 @@ The Arbëƞisht alphabet.
 * Pronunciation is (mostly) that of Elbasanisht
 
 38 alphabetic letters, 2 additional letters:
-* Aa Bb Cc Chch Dd Dhdh Ee Eë Ff Gg Gjgj Gȷgȷ Hh Ii J̇j Kk Kjkj Kȷkȷ Ll Llll Mm Nn Njnj Oo Pp Rr Rrrr Ss Shsh Tt Thth Uu Vv Xx Xhxh Yy Zz Zhzh
+* Aa Bb Cc Chch Dd Dhdh Ee Eë Ff Gg Gjgj Gȷgȷ Hh Ii Jj Kk Kjkj Kȷkȷ Ll Llll Mm Nn Njnj Oo Pp Rr Rrrr Ss Shsh Tt Thth Uu Vv Xx Xhxh Yy Zz Zhzh
 * Ɉȷ Ŋƞ
 
 ## Changes
