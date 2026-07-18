@@ -19,7 +19,7 @@ The Arbëƞisht alphabet.
 
 38 alphabetic letters, 2 additional letters:
 * Aa Bb Cc Chch Dd Dhdh Ee Eë Ff Gg Gjgj Gȷgȷ Hh Ii J̇j Kk Kjkj Kȷkȷ Ll Llll Mm Nn Njnj Oo Pp Rr Rrrr Ss Shsh Tt Thth Uu Vv Xx Xhxh Yy Zz Zhzh
-* Ʝȷ Иƞ
+* Ɉȷ Ŋƞ
 
 ## Changes
 ### _ç_ replaced by _ch_
