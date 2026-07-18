@@ -1,3 +1,4 @@
+<img width="731" height="408" alt="image" src="https://github.com/user-attachments/assets/e2469232-4fd0-4a99-adf3-6141144f9bb2" />
 # Arbëƞisht
 Arbëƞisht is a language reform proposal for the Albanian language. It aims to produce a standard language which is etymological and pan-dialectal.
 <br>
@@ -64,13 +65,16 @@ This has already been preserved in some Standard words (that aren't verbs).
 *	_mëdhe**nj**_ (\~_mëdhê**j**_) → _mëdhe**nj**_
 *	_bri**nj**ë_ (\~_brî**j**ë_) → _bri**nj**ë_
 
-### Medial _j_ occasionally replaced by _lj_
+### Medial _j_ occasionally replaced by _ȷ_; capital J respelled J̇
 
 In a few words, Old Albanian /l/ evolved via a historical /ʎ/ intermediary to /j/. However, some Gheg & Tosk dialects retained the original /l/ or intermediary /ʎ/. These cases are marked _lj_.
 *	_u**j**k_ (\~_u**l**k_\~_uk_) → _u**lj**k_
 *	_go**j**ë_ (\~_go**l**ë_) → _go**lj**ë_
 *	_bi**j**ë_ (\~_bi**l**ë_) → _bi**lj**ë_
 
+Because of this change, /j/ will now be spelled _J̇ j_, and historic /ʎ/ will be spelled _J ȷ_.
+
+<br>
 Note - this does not include cases where some dialects have /ʎ/ in place of /l/. In these cases, /ʎ/ is considered an alternative pronunciation of _l_ and is not marked. e.g. _lule_ is /lulɛ/ in most Gheg & Tosk dialects, but /ʎuʎɛ/ in some Northwestern Gheg and Southern Tosk dialects.
 
 ### _ua_ usually replaced by _uo_
