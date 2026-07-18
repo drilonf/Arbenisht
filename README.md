@@ -31,7 +31,7 @@ Tosk _r_ often corresponds to Gheg _n_ medially and finally. The Gheg form is mo
 *	_a**r**mik_ (\~_â**n**mik_) → _a**ƞ**ëmik_
 *	_emë**r**_ (\~_êmë**n**_) → _emë**ƞ**_
 
-This also applies to historical n where Gheg dropped the sound entirely but Tosk retained a rhoticised form.
+This also applies to historical _n_ where Gheg dropped the sound entirely but Tosk retained a rhoticised form.
 *	_krye**r**_ (\~_krye_) → _krye**ƞ**_
 *	_pa**r**ë_ (\~_pa_) → _pa**ƞ**ë_
 
