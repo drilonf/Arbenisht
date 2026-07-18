@@ -45,7 +45,7 @@ Matches with _-h_ pattern: _d_ → _dh_, _s_ → _sh_, _t_ → _th_, _x_ → _xh
 In a few words, Old Albanian medial /l/ evolved via a historical /ʎ/ intermediary to /j/. However, some Gheg & Tosk dialects retained the original /l/ or intermediary /ʎ/. These cases are marked _ȷ_.
 *	_u**j**k_ (\~_u**l**k_\~_uk_) → _u**ȷ**k_
 *	_go**j**ë_ (\~_go**l**ë_) → _go**ȷ**ë_
-*	_bi**j**ë_ (\~_bi**l**ë_) → _bi**ȷ**ë_
+*	_bi**j**ë_ (\~_bi**l**ë_\~biljë) → _bi**ȷ**ë_
 
 Note - this does not include cases where some dialects have /ʎ/ in place of /l/. In these cases, /ʎ/ is considered an alternative pronunciation of _l_ and is not marked. e.g. _lule_ is /lulɛ/ in most Gheg & Tosk dialects, but /ʎuʎɛ/ in some Northwestern Gheg and Southern Tosk dialects.
 
