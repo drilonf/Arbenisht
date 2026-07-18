@@ -1,5 +1,8 @@
 # Arbëƞisht
 A language reform proposal for Albanian.
+## Alphabet
+<img src="https://github.com/drilonf/Arbenisht/blob/main/2%20-%20Alphabet.jpg?raw=true" width="600"/>
+Arbëƞisht alphabet. Changes highlighted in Light Green. New letters in Dark Green. New spellings (that are not considered letters) in blue.
 
 ## Changes
 ### _ç_ replaced by _ch_
@@ -19,7 +22,7 @@ Old Gheg & Old Tosk _gl_ is is preserved as /gl\~gʎ/ in some Tosk dialects, rea
 
 Matches with -j pattern: _g_ → _gj_, _n_ → _nj_. _k_ → _kj_ logically follows. _kj_ also matches with historical spellings (_ci_, _chi_, _ki_, _kj_).<br>
 Old Gheg & Old Tosk _kl_ is preserved as /kl\~kʎ/ in some Tosk dialects, realised as /kʲ\~k/ in some Gheg dialects, and merged with /tɕ/ (and similar) in the rest. This is differentiated as _kȷ_.
-*	_**q**en_ → _**k**jen_
+*	_**q**en_ → _**kj**en_
 *	_**q**ep_ (\~_**k**ep_\~_**k**lep_) → _**kȷ**ep_
 
 ### Non-initial _r_ often replaced by _ƞ_
