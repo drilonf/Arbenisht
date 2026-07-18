@@ -33,7 +33,7 @@ The capital form of /nəɾə/ should be **N** with a vertical descending line fr
 
 Overall, this proposal contains 24 of the 26 ISO Latin characters (_Qq_ and _Ww_ are not used) and 3 additional characters (_Ëë_, _Ɉȷ_, and _Ŋƞ_). In regards to keyboard typing, I propose replacing _W_ with _Ë_ on Albanian keyboards, as _W_ is not used in Albanian, besides in recent unassimilated loanwords, whilst _Ë_ is extremely common. Additional characters could then be produced by pressing Alt and selecting _V_ (for _W_), _J_ (for _Ɉ_), or _N_ (for _Ŋ_). Alternatively, and for mobiles, _W_, _Ɉ_, and _Ŋ_ can be placed at the top-right corner of the keyboard, as Albanian currently does (for _Ç_ and _Ë_), and many other languages currently do for their own non-standard letters.
 
-## Changes
+## Spelling Changes
 ### _ç_ replaced by _ch_
 
 Matches with _-h_ pattern: _d_ → _dh_, _s_ → _sh_, _t_ → _th_, _x_ → _xh_, _z_ → _zh_. _c_ → _ch_ logically follows. This eliminates a diacritic letter, which is frequently incorrectly typed as _c_.
@@ -45,7 +45,9 @@ Matches with _-h_ pattern: _d_ → _dh_, _s_ → _sh_, _t_ → _th_, _x_ → _xh
 In a few words, Old Albanian medial /l/ evolved via a historical /ʎ/ intermediary to /j/. However, some Gheg & Tosk dialects retained the original /l/ or intermediary /ʎ/. These cases are marked _ȷ_.
 *	_u**j**k_ (\~_u**l**k_\~_uk_) → _u**ȷ**k_
 *	_go**j**ë_ (\~_go**l**ë_) → _go**ȷ**ë_
-*	_bi**j**ë_ (\~_bi**l**ë_\~biljë) → _bi**ȷ**ë_
+*	_bi**j**ë_ (\~_bi**l**ë_\~_bi**lj**ë_) → _bi**ȷ**ë_
+
+This historic /ʎ/ is theorised by Dedvukaj & Ndoci (2023) to be the precursor of the _l_ in Old Albanian _gl_ and _kl_, which developed to modern _gj_ and _q_, respectively, in most dialects.
 
 Note - this does not include cases where some dialects have /ʎ/ in place of /l/. In these cases, /ʎ/ is considered an alternative pronunciation of _l_ and is not marked. e.g. _lule_ is /lulɛ/ in most Gheg & Tosk dialects, but /ʎuʎɛ/ in some Northwestern Gheg and Southern Tosk dialects.
 
@@ -129,9 +131,9 @@ In a few words where Old Gheg _n_ has been lost, this is reintroduced to mark Gh
 In a few words, Gheg initial _vo_ is likely more conservative than Tosk & Standard _va_.
 *	_**va**tër_ (\~_**vo**tër_) → _**vo**tër_
 *	_**va**rfën_ (\~_**vo**rfën_) → _**vo**rfën_
-* varrë (~vorrë) → vorrë
+* _**va**rrë_ (~_**vo**rrë_) → _**vo**rrë_
 
-## Retentions
+## Spelling Retentions
 
 ### Syllable-final _h_ preserved
 
