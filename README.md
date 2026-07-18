@@ -40,6 +40,15 @@ Matches with _-h_ pattern: _d_ → _dh_, _s_ → _sh_, _t_ → _th_, _x_ → _xh
 *	_**ç**farë_ (~_**sh**farë_) → _**ch**farë_
 *	_**ç**aj_ → _**ch**aj_
 
+### _ȷ_ introduced
+
+In a few words, Old Albanian medial /l/ evolved via a historical /ʎ/ intermediary to /j/. However, some Gheg & Tosk dialects retained the original /l/ or intermediary /ʎ/. These cases are marked _ȷ_.
+*	_u**j**k_ (\~_u**l**k_\~_uk_) → _u**ȷ**k_
+*	_go**j**ë_ (\~_go**l**ë_) → _go**ȷ**ë_
+*	_bi**j**ë_ (\~_bi**l**ë_) → _bi**ȷ**ë_
+
+Note - this does not include cases where some dialects have /ʎ/ in place of /l/. In these cases, /ʎ/ is considered an alternative pronunciation of _l_ and is not marked. e.g. _lule_ is /lulɛ/ in most Gheg & Tosk dialects, but /ʎuʎɛ/ in some Northwestern Gheg and Southern Tosk dialects.
+
 ### _gj_ replaced by _gj_, _gȷ_
 
 Old Gheg & Old Tosk _gl_ is is preserved as /gl\~gʎ/ in some Tosk dialects, realised as /gʲ\~g/ in some Gheg dialects, and merged with /dʑ/ (and similar) in the rest. This is differentiated as _gȷ_.
@@ -54,7 +63,7 @@ Old Gheg & Old Tosk _kl_ is preserved as /kl\~kʎ/ in some Tosk dialects, realis
 *	_**q**en_ → _**kj**en_
 *	_**q**ep_ (\~_**k**ep_\~_**kl**ep_) → _**kȷ**ep_
 
-### Non-initial _r_ often replaced by _ƞ_
+### _ƞ_ introduced
 
 Tosk _r_ often corresponds to Gheg _n_ medially and finally. The Gheg form is more conservative, observable from Latin loans; although, Tosk rhoticisation is very old, predating written works. In these cases, _ƞ_ will be used instead of Standard _r_. This new letter helps unify the dialects, and often helps mark Gheg nasalisation.
 *	_a**r**mik_ (\~_â**n**mik_) → _a**ƞ**ëmik_
@@ -76,18 +85,9 @@ This has already been preserved in some Standard words (that aren't verbs).
 *	_mëdhe**nj**_ (\~_mëdhê**j**_) → _mëdhe**nj**_
 *	_bri**nj**ë_ (\~_brî**j**ë_) → _bri**nj**ë_
 
-### Medial _j_ occasionally replaced by _ȷ_
-
-In a few words, Old Albanian /l/ evolved via a historical /ʎ/ intermediary to /j/. However, some Gheg & Tosk dialects retained the original /l/ or intermediary /ʎ/. These cases are marked _ȷ_.
-*	_u**j**k_ (\~_u**l**k_\~_uk_) → _u**ȷ**k_
-*	_go**j**ë_ (\~_go**l**ë_) → _go**ȷ**ë_
-*	_bi**j**ë_ (\~_bi**l**ë_) → _bi**ȷ**ë_
-
-Note - this does not include cases where some dialects have /ʎ/ in place of /l/. In these cases, /ʎ/ is considered an alternative pronunciation of _l_ and is not marked. e.g. _lule_ is /lulɛ/ in most Gheg & Tosk dialects, but /ʎuʎɛ/ in some Northwestern Gheg and Southern Tosk dialects.
-
 ### _ua_ usually replaced by _uo_
 
-Old Gheg used _uo_, and Old Tosk _ua_. Both are theorised to descend from Proto-Albanian *_uo_ ← *_ō_. Although _uo_ is largely extinct today, in this proposal it serves to unify Gheg _ue_, _ū_, and Tosk _ua_.
+Modern _ua_ often corresponds to Old Gheg _uo_ and Old Tosk _ua_. Both are theorised to descend from Proto-Albanian *_uo_ ← *_ō_. Although _uo_ is largely extinct today, in this proposal it serves to unify Gheg _ue_, _ū_, and Tosk _ua_.
 *	_m**ua**_ (\~_m**ue**_\~_m**ū**_) → _m**uo**_
 *	_mës**ua**r_ (\~_mës**ue**_\~_mës**ū**_) → _mës**uo**_
 *	_mës**ue**s_ (\~_mës**ū**s_\~_mës**ua**s_\~_mësonjës_) → _mës**uo**s_
