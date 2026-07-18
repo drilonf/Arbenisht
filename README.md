@@ -19,7 +19,7 @@ The Arbëƞisht alphabet.
 
 38 alphabetic letters, 2 additional letters:
 * Aa Bb Cc Chch Dd Dhdh Ee Eë Ff Gg Gjgj Gȷgȷ Hh Ii J̇j Kk Kjkj Kȷkȷ Ll Llll Mm Nn Njnj Oo Pp Rr Rrrr Ss Shsh Tt Thth Uu Vv Xx Xhxh Yy Zz Zhzh
-* Ljlj Иƞ
+* Ʝȷ Иƞ
 
 ## Changes
 ### _ç_ replaced by _ch_
@@ -64,16 +64,13 @@ This has already been preserved in some Standard words (that aren't verbs).
 *	_mëdhe**nj**_ (\~_mëdhê**j**_) → _mëdhe**nj**_
 *	_bri**nj**ë_ (\~_brî**j**ë_) → _bri**nj**ë_
 
-### Medial _j_ occasionally replaced by _ȷ_; capital J respelled J̇
+### Medial _j_ occasionally replaced by _ȷ_
 
-In a few words, Old Albanian /l/ evolved via a historical /ʎ/ intermediary to /j/. However, some Gheg & Tosk dialects retained the original /l/ or intermediary /ʎ/. These cases are marked _lj_.
-*	_u**j**k_ (\~_u**l**k_\~_uk_) → _u**lj**k_
-*	_go**j**ë_ (\~_go**l**ë_) → _go**lj**ë_
-*	_bi**j**ë_ (\~_bi**l**ë_) → _bi**lj**ë_
+In a few words, Old Albanian /l/ evolved via a historical /ʎ/ intermediary to /j/. However, some Gheg & Tosk dialects retained the original /l/ or intermediary /ʎ/. These cases are marked _ȷ_.
+*	_u**j**k_ (\~_u**l**k_\~_uk_) → _u**ȷ**k_
+*	_go**j**ë_ (\~_go**l**ë_) → _go**ȷ**ë_
+*	_bi**j**ë_ (\~_bi**l**ë_) → _bi**ȷ**ë_
 
-Because of this change, /j/ will now be spelled _J̇ j_, and historic /ʎ/ will be spelled _J ȷ_.
-
-<br>
 Note - this does not include cases where some dialects have /ʎ/ in place of /l/. In these cases, /ʎ/ is considered an alternative pronunciation of _l_ and is not marked. e.g. _lule_ is /lulɛ/ in most Gheg & Tosk dialects, but /ʎuʎɛ/ in some Northwestern Gheg and Southern Tosk dialects.
 
 ### _ua_ usually replaced by _uo_
