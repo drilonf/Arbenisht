@@ -15,7 +15,11 @@ The Arbëƞisht alphabet.
 
 * Changes to spelling and/or usage are in Light Green.
 * New letters in Dark Green
-* Pronunciation is (mostly) that of Elbasanisht, the new proposed Standard dialect
+* Pronunciation is (mostly) that of Elbasanisht
+
+38 alphabetic letters, 2 additional letters:
+* Aa Bb Cc Chch Dd Dhdh Ee Eë Ff Gg Gjgj Gȷgȷ Hh Ii J̇j Kk Kjkj Kȷkȷ Ll Llll Mm Nn Njnj Oo Pp Rr Rrrr Ss Shsh Tt Thth Uu Vv Xx Xhxh Yy Zz Zhzh
+* Ljlj Иƞ
 
 ## Changes
 ### _ç_ replaced by _ch_
