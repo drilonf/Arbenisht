@@ -54,7 +54,7 @@ Note - this does not include cases where some dialects have /ʎ/ in place of /l/
 Old Gheg & Old Tosk _gl_ is is preserved as /gl\~gʎ/ in some Tosk dialects, realised as /gʲ\~g/ in some Gheg dialects, and merged with /dʑ/ (and similar) in the rest. This is differentiated as _gȷ_.
 
 * _**gj**eth_ → _**gj**eth_
-* _**gj**uhë_ (\~_**g**uhë_\~_**gl**uhë_) → _**gȷ**uhë_
+* _**gj**uhë_ (\~_**g**uhë_\~_**gl**uhë_\~gljuhë) → _**gȷ**uhë_
 
 ### _q_ replaced by _kj_, _kȷ_
 
