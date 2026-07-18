@@ -27,7 +27,7 @@ Old Gheg & Old Tosk _kl_ is preserved as /kl\~kʎ/ in some Tosk dialects, realis
 
 ### Non-initial _r_ often replaced by _ƞ_
 
-Tosk & Standard _r_ often corresponds to Gheg _n_ medially and finally. The Gheg form is more conservative, observable from Latin loans; although, Tosk rhoticisation predates written works. In thse cases, _ƞ_ will be used instead. This new letter helps unify the dialects, and often helps mark Gheg nasalisation.
+Tosk _r_ often corresponds to Gheg _n_ medially and finally. The Gheg form is more conservative, observable from Latin loans; although, Tosk rhoticisation is very old, predating written works. In these cases, _ƞ_ will be used instead of Standard _r_. This new letter helps unify the dialects, and often helps mark Gheg nasalisation.
 *	_a**r**mik_ (\~_â**n**mik_) → _a**ƞ**ëmik_
 *	_emë**r**_ (\~_êmë**n**_) → _emë**ƞ**_
 
