@@ -29,6 +29,8 @@ Since all 4 of these new letters are merged in Standard Elbasanisht pronunciatio
 
 The capital form of /nəɾə/, should be **N** with a vertical descending line from its right leg, rather than a leftward descending hook. However, there is no Unicode symbol for such a symbol, so the similar **Ŋ** has been used.
 
+Overall, this proposal contains 24 of the 26 ISO Latin characters (_Qq_ and _Ww_ are not used) and 3 additional characters (_Ëë_, _Ɉȷ_, and _Ŋƞ_). In regards to keyboard typing, I propose replacing _W_ with _Ë_ on Albanian keyboards, as _W_ is not used in Albanian, besides in recent unassimilated loanwords, whilst _Ë_ is extremely common. Additional characters could then be produced by pressing Alt and selecting _V_ (for _W_), _J_ (for _Ɉ_), or _N_ (for _Ŋ_). Alternatively, and for mobiles, _W_, _Ɉ_, and _Ŋ_ can be placed at the top-right corner of the keyboard, as Albanian currently does (for _Ç_ and _Ë_), and many other languages currently do for their own non-standard letters.
+
 ## Changes
 ### _ç_ replaced by _ch_
 
