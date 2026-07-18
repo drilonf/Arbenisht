@@ -88,6 +88,20 @@ Gheg nasals are likely more conservative than Tosk oral equivalents. Literary Gh
 *	_h**u**ndë_ (\~_h**û**n(d)ë_) → _h**u**ndë_
 *	_s**y**_ (\~_s**ŷ**_) → _s**y**_
 
+
+Vowel pronunciation guide:
+
+| Vowel | Oral form <br> (Gheg , Tosk) | Nasal form <br> (Gheg) | De-nasalised form <br> (Tosk)
+| :---: | :---: | :---: | :---: |
+| a | ä\~æ , ä | ɑ̃\~ɒ̃\~ɔ̃ | ä, ə |
+| e | ɛ\~e\~æ , ɛ | ɛ̃\~æ̃ | ɛ, ə |
+| ë | ə\~ɜ | ~~~ | ~~~ |
+| i | i\~ɪ , i | ĩ | i |
+| o | ɔ\~o , ɔ | ~~~ | ~~~ |
+| u | u | ũ | u |
+| y | y\~i , y\~i\~u | ỹ\~ĩ | y\~i\~u |
+
+
 ### Silent _n_ introduced
 
 In a few words where Old Gheg _n_ has been lost, this is reintroduced to mark Gheg nasal vowels.
