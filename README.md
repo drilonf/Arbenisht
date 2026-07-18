@@ -79,7 +79,7 @@ Old Gheg used _uo_, and Old Tosk _ua_. Both are theorised to descend from Proto-
 
 ### Nasal pronunciations introduced
 
-Gheg nasals are likely more conservative than Tosk oral equivalents. Literary Gheg’s 5 nasal vowels (_â_/_ô_, _ê_, _î_, _û_, _ŷ_) are adopted without diacritics (_a_, _e_, _i_, _u_, _y_). Nasal pronunciation in Gheg is not written but implied by appearing before _m_, _n_, _ƞ_, _nj_, and word-finally. Gheg nasal vowels correspond to Tosk oral (and sometimes reduced) vowels.
+Gheg nasals are likely more conservative than Tosk's oral equivalents. Literary Gheg’s 5 nasal vowels (_â_/_ô_, _ê_, _î_, _û_, _ŷ_) are adopted without diacritics (_a_, _e_, _i_, _u_, _y_). Nasal forms in this proposal are not written but implied by appearing before _m_, _n_, _ƞ_, _nj_, and word-finally. Gheg nasal vowels correspond to Tosk oral (and sometimes reduced) vowels.
 *	_**a**në_ (\~_**â**në_) → _**a**në_
 *	_v**e**nd_ (\~_v**ê**n(d)_\~_v**ë**nd_) → _v**e**nd_
 *	_br**e**j_ (\~_br**ê**j_\~_br**e**nj_) → _br**e**nj_
