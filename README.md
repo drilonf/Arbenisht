@@ -21,6 +21,14 @@ The Arbëƞisht alphabet.
 * Aa Bb Cc Chch Dd Dhdh Ee Eë Ff Gg Gjgj Gȷgȷ Hh Ii Jj Kk Kjkj Kȷkȷ Ll Llll Mm Nn Njnj Oo Pp Rr Rrrr Ss Shsh Tt Thth Uu Vv Xx Xhxh Yy Zz Zhzh
 * Ɉȷ Ŋƞ
 
+Since all 4 of these new letters are merged in Standard Elbasanisht pronunciation with other letters, they will be distinguished by being named as follows:
+* J,j as /jə/; Ɉ,ȷ as /ʎə/
+* Gj,gj as /dʑə/; Gȷ,gȷ as /gʎə/
+* Kj,kj as /tɕə/; Kȷ,kȷ as /kʎə/
+* N,n as /nə/; Ŋ,ƞ as /nəɾə/
+
+The capital form of /nəɾə/, should be **N** with a vertical descending line from its right leg, rather than a leftward descending hook. However, there is no Unicode symbol for such a symbol, so the similar **Ŋ** has been used.
+
 ## Changes
 ### _ç_ replaced by _ch_
 
