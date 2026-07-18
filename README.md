@@ -41,7 +41,7 @@ Old Gheg & Old Tosk both used medial & final _nj_. Modern Gheg and a few Tosk di
 *	_nda**j**_ (\~_dâ**j**_\~_nda**nj**_) → _da**nj**_
 *	_gje**j**_ (\~_gjê**j**_\~_gjë**nj**_) → _gje**nj**_
 *	_mbi**j**_ (\~_m(b)î**j**_\~_mbi**nj**_) → _mbi**nj**_
-*	shko**j** (\~_shkon**j**_) → _shko**nj**_
+*	shko**j** (\~_shko**nj**_) → _shko**nj**_
 
 This has already been preserved in some Standard words.
 *	_mëdhe**nj**_ (\~_mëdhê**j**_) → _mëdhe**nj**_
