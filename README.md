@@ -62,9 +62,12 @@ This has already been preserved in some Standard words (that aren't verbs).
 
 ### Medial _j_ occasionally replaced by _lj_
 
-In a few words, Old Albanian _l_ evolved via a historical /ʎ/ intermediary to _j_. However, some dialects retained the original _l_. These cases are marked _lj_.
+In a few words, Old Albanian /l/ evolved via a historical /ʎ/ intermediary to /j/. However, some Gheg & Tosk dialects retained the original /l/ or intermediary /ʎ/. These cases are marked _lj_.
 *	_u**j**k_ (\~_u**l**k_\~_uk_) → _u**lj**k_
 *	_go**j**ë_ (\~_go**l**ë_) → _go**lj**ë_
+*	_bi**j**ë_ (\~_bi**l**ë_) → _bi**lj**ë_
+
+Note - this does not include cases where some dialects have /ʎ/ in place of /l/. In these cases, /ʎ/ is considered an alternative pronunciation of _l_ and is not marked. e.g. _lule_ is /lulɛ/ in most Gheg & Tosk dialects, but /ʎuʎɛ/ in some Northwestern Gheg and Southern Tosk dialects.
 
 ### _ua_ usually replaced by _uo_
 
