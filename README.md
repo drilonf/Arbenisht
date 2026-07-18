@@ -1,4 +1,3 @@
-<img width="731" height="408" alt="image" src="https://github.com/user-attachments/assets/e2469232-4fd0-4a99-adf3-6141144f9bb2" />
 # Arbëƞisht
 Arbëƞisht is a language reform proposal for the Albanian language. It aims to produce a standard language which is etymological and pan-dialectal.
 <br>
