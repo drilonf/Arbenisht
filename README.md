@@ -36,20 +36,20 @@ Overall, this proposal contains 24 of the 26 ISO Latin characters (_Qq_ and _Ww_
 # Spelling Changes
 ## _ç_ replaced by _ch_
 
-Matches with _-h_ pattern: _d_ → _dh_, _s_ → _sh_, _t_ → _th_, _x_ → _xh_, _z_ → _zh_. _c_ → _ch_ logically follows. This eliminates a diacritic letter, which is frequently incorrectly typed as _c_.
+Matches with _-h_ pattern: _d_ → _dh_, _s_ → _sh_, _t_ → _th_, _x_ → _xh_, _z_ → _zh_. So, _c_ → _ch_ logically follows. This eliminates a diacritic letter, which is beneficial as _ç_ is frequently incorrectly typed as _c_.
 *	_**ç**farë_ (~_**sh**farë_) → _**ch**farë_
 *	_**ç**aj_ → _**ch**aj_
 
 ## _ȷ_ introduced
 
-In a few words, Old Albanian medial /l/ evolved via a historical /ʎ/ intermediary to /j/. However, some Gheg & Tosk dialects retained the original /l/ or intermediary /ʎ/. These cases are marked _ȷ_.
+In a few words, Proto-Albanian and Old Albanian medial /l/ evolved via a historical /ʎ/ intermediary to /j/. However, some Gheg & Tosk dialects retained the original /l/ or intermediary /ʎ/. These cases are marked _ȷ_.
 *	_u**j**k_ (\~_u**l**k_\~_uk_) → _u**ȷ**k_
 *	_go**j**ë_ (\~_go**l**ë_) → _go**ȷ**ë_
 *	_bi**j**ë_ (\~_bi**l**ë_\~_bi**lj**ë_) → _bi**ȷ**ë_
 
 This historic /ʎ/ is theorised by Dedvukaj & Ndoci (2023) to be the precursor of the _l_ in Old Albanian _gl_ and _kl_, which developed to modern _gj_ and _q_, respectively, in most dialects.
 
-Note - this does not include cases where some dialects have /ʎ/ in place of /l/. In these cases, /ʎ/ is considered an alternative pronunciation of _l_ and is not marked. e.g. _lule_ is /lulɛ/ in most Gheg & Tosk dialects, but /ʎuʎɛ/ in some Northwestern Gheg and Southern Tosk dialects.
+Note - this respelling does not include cases where some dialects have /ʎ/ in place of /l/. In these cases, /ʎ/ is considered an alternative pronunciation of _l_ and is not marked. e.g. _lule_ is /lulɛ/ in most Gheg & Tosk dialects, but /ʎuʎɛ/ in some Northwestern Gheg and Southern Tosk dialects.
 
 ## _gj_ replaced by _gj_, _gȷ_
 
