@@ -2,7 +2,9 @@
 A language reform proposal for Albanian.
 ## Alphabet
 <img src="https://github.com/drilonf/Arbenisht/blob/main/2%20-%20Alphabet.jpg?raw=true" width="600"/>
-Arbëƞisht alphabet. Changes highlighted in Light Green. New letters in Dark Green. New spellings (that are not considered letters) in blue.
+The Arbëƞisht alphabet.
+* Changes to spelling and/or usage are in Light Green.
+* New letters in Dark Green
 
 ## Changes
 ### _ç_ replaced by _ch_
