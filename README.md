@@ -93,15 +93,15 @@ Note - this respelling does not include cases where some dialects have /ʎ/ in p
 
 ## _gj_ replaced by _gj_, _gȷ_
 
-Old Gheg & Old Tosk _gl_ is is preserved as /gl\~gʎ/ in some Tosk dialects, realised as /gʲ\~g/ in some Gheg dialects, and merged with /dʑ/ (and similar) in the rest. This is differentiated as _gȷ_.
+Old Gheg & Old Tosk _gl_ is is preserved as _gl\~glj_ /gl\~gʎ/ in some Tosk dialects, realised as _gi\~g_ /gʲ\~g/ in some Gheg dialects, and merged with _gj_ /dʑ/ (and similar) in the rest. Standard Albanian also merges this sound with _gj_. This reform proposes replacing these cases, where _gj_ descends from _gl_, with _gȷ_, which can be pronounced as /ɟ\~dʑ\~ɟʝ\~dʒ/, /gʲ\~g/, or /gl\~gʎ/, depending on the dialect.
 
 * _**gj**eth_ → _**gj**eth_
 * _**gj**uhë_ (\~_**g**uhë_\~_**gl**uhë_\~_**glj**uhë_) → _**gȷ**uhë_
 
 ## _q_ replaced by _kj_, _kȷ_
 
-Matches with _-j_ pattern: _g_ → _gj_, _n_ → _nj_. _k_ → _kj_ logically follows. _kj_ also matches with historical spellings (_ci_, _chi_, _ki_, _kj_).<br>
-Old Gheg & Old Tosk _kl_ is preserved as /kl\~kʎ/ in some Tosk dialects, realised as /kʲ\~k/ in some Gheg dialects, and merged with /tɕ/ (and similar) in the rest. This is differentiated as _kȷ_.
+This reform proposes replacing _q_ with _kj_, This matches with the existing _-j_ pattern to mark palatal consonants: _g_ → _gj_, _n_ → _nj_. So, _k_ → _kj_ logically follows, moreso than the existing _k_ → _q_. _kj_ also matches with historical spellings of this phoneme (_ci_, _chi_, _ki_, _kj_ in Old Albanian).<br>
+Old Gheg & Old Tosk _kl_ is preserved as _kl\~klj_ /kl\~kʎ/ in some Tosk dialects, realised as _ki\~k_ /kʲ\~k/ in some Gheg dialects, and merged with _q_ /tɕ/ (and similar) in the rest. Standard Albanian also merges this sound with _q_. This reform proposes replacing these cases, where _q_ descends from _kl_, with _kȷ_, which can be pronounced as /c\~tɕ\~cç\~tʃ/, /kʲ\~k/, or /kl\~kʎ/, depending on the dialect.
 *	_**q**en_ → _**kj**en_
 *	_**q**ep_ (\~_**k**ep_\~_**kl**ep_) → _**kȷ**ep_
 
