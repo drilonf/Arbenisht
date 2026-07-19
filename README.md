@@ -1,4 +1,4 @@
-# Arbëƞisht introduction
+# Introduction
 Arbëƞisht is a language reform proposal for the Albanian language. It aims to produce a standard language which is etymological and pan-dialectal.
 <br>
 
@@ -13,36 +13,72 @@ With that said, this reform has been designed with the principle of "one spellin
 <img src="https://github.com/drilonf/Arbenisht/blob/main/Alphabet.jpg?raw=true"/>
 The Arbëƞisht alphabet.
 
-* Changes to spelling and/or usage are in Light Green.
-* New letters in Dark Green
-* Pronunciation is (mostly) that of Elbasanisht
+* Letters with changes to usage are in Light Green
+* Letters with changes to usage & spelling are in Dark Green
+* Pronunciation shown is (mostly) that of Elbasanisht
 
-38 alphabetic letters, 2 additional letters:
-* Aa Bb Cc Chch Dd Dhdh Ee Eë Ff Gg Gjgj Gȷgȷ Hh Ii Jj Kk Kjkj Kȷkȷ Ll Llll Mm Nn Njnj Oo Pp Rr Rrrr Ss Shsh Tt Thth Uu Vv Xx Xhxh Yy Zz Zhzh
-* Ɉȷ Ŋƞ
+This is largely the same as the current alphabet, consisting of 36 letters:
+36 alphabetic letters, 2 additional letters:
+1. A a /ä, ɑ̃/
+2. B b /b/
+3. C c /ts/
+4. Ch ch /tʃ/
+5. D d /d/
+6. Dh dh /ð/
+7. E e /ɛ, ɛ̃/
+8. Ë ë /ə/
+9. F f /f/
+10. G g /g/
+11. Gj gj /dʑ/
+12. H h /h/
+13. I i /i, ĩ/
+14. J j /j/
+15. K k /k/
+16. Kj kj /tɕ/
+17. L l /l/
+18. Ll ll /ɫ/
+19. M m /m/
+20. N n /n, ŋ/
+21. Nj nj /ɲ, j/
+22. O o /ɔ/
+23. P p /p/
+24. R r /ɾ/
+25. Rr rr /r/
+26. S s /s/
+27. Sh sh /ʃ/
+28. T t /t/
+29. Th th /θ/
+30. U u /u, ũ/
+31. V v /v/
+32. X x /dz/
+33. Xh xh /dʒ/
+34. Y y /y, ỹ/
+35. Z z /z/
+36. Zh zh /ʒ/
 
-_Ɉ_ and _Ŋ_ are not considered part of the alphabet as they cannot occur word-initially.
+In addition, 4 new spellings have been introduced that are not considered separate letters but variants:
 
-Since all 4 of the new letters are merged in Standard Elbasanisht pronunciation with other letters, they will be distinguished by being named as follows:
-* J,j as /jə/; Ɉ,ȷ as /ʎə/
-* Gj,gj as /dʑə/; Gȷ,gȷ as /gʎə/
-* Kj,kj as /tɕə/; Kȷ,kȷ as /kʎə/
-* N,n as /nə/; Ŋ,ƞ as /nəɾə/
+1. Ɉ ȷ /ʎ/. Variant of J
+2. Gȷ gȷ /gʎ/. Variant of Gj
+3. Kȷ kȷ /kʎ/. Variant of Kj
+4. Ŋ ƞ /n~ɾ/. Variant of N
 
-The capital form of /nəɾə/ should be **N** with a vertical descending line from its right leg, rather than a leftward descending hook. However, there is no Unicode symbol for such a symbol, so the similar **Ŋ** has been chosen.
+Ɉ and Ŋ do not occur word-initially, whilst Gȷ and Kȷ can. In all cases, these letters come alphabetically directly after their parent letter.
+
+The capital form of _Ŋ ƞ_ should be **_N_** with a vertical descending line from its right leg, rather than a leftward descending hook. However, there is no Unicode symbol for such a symbol, so the similar **_Ŋ_** has been chosen.
 
 Overall, this proposal contains 24 of the 26 ISO Latin characters (_Qq_ and _Ww_ are not used) and 3 additional characters (_Ëë_, _Ɉȷ_, and _Ŋƞ_). In regards to keyboard typing, I propose replacing _W_ with _Ë_ on Albanian keyboards, as _W_ is not used in Albanian, besides in recent unassimilated loanwords, whilst _Ë_ is extremely common. Additional characters could then be produced by pressing Alt and selecting _V_ (for _W_), _J_ (for _Ɉ_), or _N_ (for _Ŋ_). Alternatively, and for mobiles, _W_, _Ɉ_, and _Ŋ_ can be placed at the top-right corner of the keyboard, as Albanian currently does (for _Ç_ and _Ë_), and many other languages currently do for their own non-standard letters.
 
 # Spelling Changes
 ## _ç_ replaced by _ch_
 
-Matches with _-h_ pattern: _d_ → _dh_, _s_ → _sh_, _t_ → _th_, _x_ → _xh_, _z_ → _zh_. So, _c_ → _ch_ logically follows. This eliminates a diacritic letter, which is beneficial as _ç_ is frequently incorrectly typed as _c_.
+I propose replacing ç with ch. This matches with existing _-h_ pattern of digraphs in Albanian, such as for: _d_ → _dh_, _s_ → _sh_, _t_ → _th_, _x_ → _xh_, _z_ → _zh_. So, _c_ → _ch_ logically follows, moreso than the existing c → ç. Additionally, this eliminates a diacritic letter, which is beneficial as _ç_ is frequently incorrectly typed as _c_.
 *	_**ç**farë_ (~_**sh**farë_) → _**ch**farë_
 *	_**ç**aj_ → _**ch**aj_
 
 ## _ȷ_ introduced
 
-In a few words, Proto-Albanian and Old Albanian medial /l/ evolved via a historical /ʎ/ intermediary to /j/. However, some Gheg & Tosk dialects retained the original /l/ or intermediary /ʎ/. These cases are marked _ȷ_.
+In a some cases, Proto-Albanian and Old Albanian medial /l/ evolved via a historical /ʎ/ intermediary to /j/. However, some Gheg & Tosk dialects retained the original /l/ or intermediary /ʎ/. These cases are marked _ȷ_.
 *	_u**j**k_ (\~_u**l**k_\~_uk_) → _u**ȷ**k_
 *	_go**j**ë_ (\~_go**l**ë_) → _go**ȷ**ë_
 *	_bi**j**ë_ (\~_bi**l**ë_\~_bi**lj**ë_) → _bi**ȷ**ë_
