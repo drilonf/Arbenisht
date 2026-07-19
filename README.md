@@ -1,5 +1,5 @@
 # Introduction
-Arbëƞisht is a language reform proposal for the Albanian language. It aims to produce a standard language which is etymological and pan-dialectal.
+Arbënisht (Arbɛƞisht) is a language reform proposal for the Albanian language. It aims to produce a standard language which is etymological and pan-dialectal.
 <br>
 
 The current standard language is largely based on Northern Tosk, and as a result excludes many Gheg and Southern Tosk features, even when these features are more conservative. This proposed standard aims to not be biased towards any one dialect (besides to an extent Elbasanisht) but rather favours forms that have been used by Old Albanian writers cross-dialectally for hundreds of years. Conservative forms are chosen regardless of which dialect they are preserved in today. Features lost in all dialects are not re-instituted. <br>
