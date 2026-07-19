@@ -74,18 +74,24 @@ The capital form of _Ŋ ƞ_ should be **_N_** with a vertical descending line fr
 Overall, this proposal contains 24 of the 26 ISO Latin characters (_Qq_ and _Ww_ are not used) and 3 additional characters (_Ëë_, _Ɉȷ_, and _Ŋƞ_). In regards to keyboard typing, it is proposed that _W_ is replaced with _Ë_ on Albanian keyboards, as _W_ is not used in Albanian, besides in recent unassimilated loanwords, whilst _Ë_ is extremely common. Additional characters could then be produced by pressing Alt and selecting _V_ (for _W_), _J_ (for _Ɉ_), or _N_ (for _Ŋ_). Alternatively, and for mobiles, _W_, _Ɉ_, and _Ŋ_ can be placed at the top-right corner of the keyboard, as Albanian currently does (for _Ç_ and _Ë_), and many other languages currently do for their own non-standard characters.
 
 # Spelling Changes
+
+## _ë_ replaced by _ɛ_
+_ë_ was replaced so as to eliminate a diacritic letter, which clutter orthographies, and assign each sound a unique letter (or digraph). _ɛ_ was chosen as I believe it's the best aesthetic choice available, and it has some historical basis, having been previously used by the Stamboll Alphabet. Additionally, since _ë_ is such a commonly occuring letter, its replacement with _ɛ_ would quickly signify to the user that the new spelling standard is being used, even in short text.
+
+Note - unlike the rest of the proposal, this is simply an stylistic choice and is not an important part of the proposal. _ë_ continuing to be used instead would not a problem at all.
+
 ## _ç_ replaced by _ch_
 
 This reform proposes replacing _ç_ with _ch_. This matches with the existing _-h_ pattern of digraphs in Albanian, such as for: _d_ → _dh_, _s_ → _sh_, _t_ → _th_, _x_ → _xh_, _z_ → _zh_. So, _c_ → _ch_ logically follows, moreso than the existing _c_ → _ç_. Additionally, this eliminates a diacritic letter, which is beneficial as _ç_ is frequently incorrectly typed as _c_.
-*	_**ç**farë_ (~_**sh**farë_) → _**ch**farë_
+*	_**ç**farë_ (~_**sh**farë_) → _**ch**farɛ_
 *	_**ç**aj_ → _**ch**aj_
 
 ## _ȷ_ introduced
 
 In some cases, Proto-Albanian and Old Albanian medial /l/ evolved via a historical /ʎ/ intermediary to /j/. However, some Gheg & Tosk dialects retained the original /l/ or intermediary /ʎ/. In these cases, Standard _j_ is replaced by _ȷ_, which can be pronounced /j/, /l/, or /ʎ/, depending on the dialect.
 *	_u**j**k_ (\~_u**l**k_\~_uk_) → _u**ȷ**k_
-*	_go**j**ë_ (\~_go**l**ë_) → _go**ȷ**ë_
-*	_bi**j**ë_ (\~_bi**l**ë_\~_bi**lj**ë_) → _bi**ȷ**ë_
+*	_go**j**ë_ (\~_go**l**ë_) → _go**ȷ**ɛ_
+*	_bi**j**ë_ (\~_bi**l**ë_\~_bi**lj**ë_) → _bi**ȷ**ɛ_
 
 This historic /ʎ/ is theorised by Dedvukaj & Ndoci (2023) to be the precursor of the _l_ in Old Albanian _gl_ and _kl_. Proto-Albanian /gʎ/ and /kʎ/ eventually developed to modern _gj_ and _q_ in most dialects, _g(i)_ and _k(i)_ in Northern Gheg, and _gl(j)_ and _kl(j)_ in Southern Tosk. This is discussed further below.
 
@@ -96,7 +102,7 @@ Note - this respelling does not include cases where some dialects have /ʎ/ in p
 Old Gheg & Old Tosk _gl_ is is preserved as _gl\~glj_ /gl\~gʎ/ in some Tosk dialects, realised as _gi\~g_ /gʲ\~g/ in some Gheg dialects, and merged with _gj_ /dʑ/ (and similar) in the rest. Standard Albanian also merges this sound with _gj_. This reform proposes replacing these cases, where _gj_ descends from _gl_, with _gȷ_, which can be pronounced as /ɟ\~dʑ\~ɟʝ\~dʒ/, /gʲ\~g/, or /gl\~gʎ/, depending on the dialect.
 
 * _**gj**eth_ → _**gj**eth_
-* _**gj**uhë_ (\~_**g**uhë_\~_**gi**uhë_\~_**gl**uhë_\~_**glj**uhë_) → _**gȷ**uhë_
+* _**gj**uhë_ (\~_**g**uhë_\~_**gi**uhë_\~_**gl**uhë_\~_**glj**uhë_) → _**gȷ**uhɛ_
 
 ## _q_ replaced by _kj_, _kȷ_
 
@@ -108,12 +114,12 @@ Old Gheg & Old Tosk _kl_ is preserved as _kl\~klj_ /kl\~kʎ/ in some Tosk dialec
 ## _ƞ_ introduced
 
 Tosk _r_ often corresponds to Gheg _n_ medially and finally. The Gheg form is more conservative, observable from Latin loans; although, Tosk rhoticisation is very old, predating written works. In these cases, _ƞ_ will be used instead of Standard _r_. This new letter helps unify the dialects, and often helps mark Gheg nasalisation.
-*	_a**r**mik_ (\~_â**n**mik_) → _a**ƞ**ëmik_
-*	_emë**r**_ (\~_êmë**n**_) → _emë**ƞ**_
+*	_a**r**mik_ (\~_â**n**mik_) → _a**ƞ**ɛmik_
+*	_emë**r**_ (\~_êmë**n**_) → _emɛ**ƞ**_
 
 This also applies to historical _n_ where Gheg dropped the sound entirely but Tosk retained a rhoticised form.
 *	_krye**r**_ (\~_krye_) → _krye**ƞ**_
-*	_pa**r**ë_ (\~_pa_) → _pa**ƞ**ë_
+*	_pa**r**ë_ (\~_pa_) → _pa**ƞ**ɛ_
 
 ## Syllable-final _j_ often replaced by _nj_
 
@@ -124,26 +130,26 @@ Old Gheg & Old Tosk both used medial & final _nj_ in verbs. Gheg and a few Tosk 
 *	_shko**j**_ (\~_shko**nj**_) → _shko**nj**_
 
 This has already been preserved in some Standard words (that aren't verbs).
-*	_mëdhe**nj**_ (\~_mëdhê**j**_) → _mëdhe**nj**_
-*	_bri**nj**ë_ (\~_brî**j**ë_) → _bri**nj**ë_
+*	_mëdhe**nj**_ (\~_mëdhê**j**_) → _mɛdhe**nj**_
+*	_bri**nj**ë_ (\~_brî**j**ë_) → _bri**nj**ɛ_
 
 ## Most _ua_ replaced by _uo_
 
 Modern _ua_ often corresponds to Old Gheg _uo_ and Old Tosk _ua_. Both are theorised to descend from Proto-Albanian *_uo_ ← *_ō_. Although _uo_ is largely extinct today, in this proposal it serves to unify Gheg _ue_, _ū_, and Tosk _ua_.
 *	_m**ua**_ (\~_m**ue**_\~_m**ū**_) → _m**uo**_
-*	_mës**ua**r_ (\~_mës**ue**_\~_mës**ū**_) → _mës**uo**_
-*	_mës**ue**s_ (\~_mës**ū**s_\~_mës**ua**s_\~_mësonjës_) → _mës**uo**s_
+*	_mës**ua**r_ (\~_mës**ue**_\~_mës**ū**_) → _mɛs**uo**_
+*	_mës**ue**s_ (\~_mës**ū**s_\~_mës**ua**s_\~_mësonjës_) → _mɛs**uo**s_
 *	_fjal**o**r_ (\~_fjal**ue**r_\~_fjal**ū**r_) → _fjal**uo**r_
 
 ## Nasal pronunciations introduced
 
 Gheg nasals are likely more conservative than Tosk's oral equivalents. Literary Gheg’s 5 nasal vowels (_â_/_ô_, _ê_, _î_, _û_, _ŷ_) are adopted without diacritics (_a_, _e_, _i_, _u_, _y_). Nasal forms in this proposal are not written but implied by appearing before _m_, _n_, _ƞ_, _nj_, and word-finally. Gheg nasal vowels correspond to Tosk oral (and sometimes reduced) vowels.
-*	_**a**në_ (\~_**â**në_) → _**a**në_
+*	_**a**në_ (\~_**â**në_) → _**a**nɛ_
 *	_v**e**nd_ (\~_v**ê**n(d)_\~_v**ë**nd_) → _v**e**nd_
 *	_br**e**j_ (\~_br**ê**j_\~_br**e**nj_) → _br**e**nj_
-*	_k**ë**mbë_ (\~_k**â**m(b)ë_\~_k**ô**m(b)ë_) → _k**a**mbë_
+*	_k**ë**mbë_ (\~_k**â**m(b)ë_\~_k**ô**m(b)ë_) → _k**a**mbɛ_
 *	_br**i**_ (\~_br**î**_) → _br**i**_
-*	_h**u**ndë_ (\~_h**û**n(d)ë_) → _h**u**ndë_
+*	_h**u**ndë_ (\~_h**û**n(d)ë_) → _h**u**ndɛ_
 *	_s**y**_ (\~_s**ŷ**_) → _s**y**_
 
 
@@ -153,7 +159,7 @@ Vowel pronunciation guide:
 | :---: | :---: | :---: | :---: |
 | a | ä\~æ , ä | ɑ̃\~ɒ̃\~ɔ̃ | ä, ə |
 | e | ɛ\~e\~æ , ɛ | ɛ̃\~æ̃ | ɛ, ə |
-| ë | ə\~ɜ | ~~~ | ~~~ |
+| ɛ | ə\~ɜ | ~~~ | ~~~ |
 | i | i\~ɪ , i | ĩ | i |
 | o | ɔ\~o , ɔ | ~~~ | ~~~ |
 | u | u | ũ | u |
@@ -164,15 +170,16 @@ A more comprehensive vowel system could have been implemented, such as marking a
 ## Silent _n_ introduced
 
 In a few words where Old Gheg _n_ has been lost, this is reintroduced to mark Gheg nasal vowels.
-*	_është_ (\~_âsht_\~_ôsht_) → _a**n**shtë_
-*	_pesë_ (\~_pêsë_) → _pe**n**së_
+*	_është_ (\~_âsht_\~_ôsht_) → _a**n**shtɛ_
+*	_pesë_ (\~_pêsë_) → _pe**n**sɛ_
+*	_bëftë_ (\~_bâftë_\~_bôftë_) → _ba**n**ftɛ_
 
 ## Initial _va_ occasionally replaced by _vo_
 
 In a few words, Gheg initial _vo_ is likely more conservative than Tosk & Standard _va_.
-*	_**va**tër_ (\~_**vo**tër_) → _**vo**tër_
-*	_**va**rfën_ (\~_**vo**rfën_) → _**vo**rfën_
-* _**va**rrë_ (~_**vo**rrë_) → _**vo**rrë_
+*	_**va**tër_ (\~_**vo**tër_) → _**vo**tɛr_
+*	_**va**rfën_ (\~_**vo**rfën_) → _**vo**rfɛn_
+* _**va**rrë_ (~_**vo**rrë_) → _**vo**rrɛ_
 
 # Spelling Retentions
 
@@ -188,12 +195,8 @@ Old Gheg and Old Tosk both used _mb_, _nd_ clusters. These simplified to _m_, _n
 *	_**mb**ush_ (\~_**m**(**b**)ush_) → _**mb**ush_
 *	_**nd**er_ (\~_**n**(**d**)êr_) → _**nd**er_
 
-## Word-final _ë_ preserved
+## Word-final _ɛ_ preserved
 
 Old Gheg and Old Tosk both used _ë_ word-finally. These were dropped in Gheg but not in Tosk. _ë_ is still useful for Gheg as it indicates noun gender, conjugations & declensions, and lengthening of the penultimate vowel.
-*	_shum**ë**_ (\~_shum(**ë**)_) → _shum**ë**_
-*	_burr**ë**_ (\~_burr(**ë**)_) → _burr**ë**_
-
-# Other Spelling considerations
-
-A change considered was to replace _ë_ with another letter, based on historical forms used in Old Albanian, or other 19th century proposals. _ɛ_ was used by the Istanbul alphabet, and I believe this is the best choice for /ə/ aesthetically, as it is a non-diacritic letter and does not clutter the orthography like _ë_ does. However, I did not implement this change so as to make the proposal easier to read, and because this is simply an aesthetic choice, and so it is a non-essential change. This change could be part of a future reform though.
+*	_shum**ë**_ (\~_shum(**ë**)_) → _shum**ɛ**_
+*	_burr**ë**_ (\~_burr(**ë**)_) → _burr**ɛ**_
