@@ -12,7 +12,7 @@
 
 ## Zanafilla 1 ~ Zaƞafilla 1
 
-| në Shqip | në Arbɛƞisht |
+| në Shqip | nɛ Arbɛƞisht |
 |---|---|
 | 1 Në fillim Perëndia krijoi qiejt dhe tokën. | 1 Nɛ fillim Perɛndia krijoi kjiejt dhe tokɛn. |
 | 2 Toka ishte pa trajtë, e zbrazët dhe errësira mbulonte sipërfaqen e humnerës; dhe Fryma e Perëndisë fluturonte mbi sipërfaqen e ujërave. | 2 Toka ishte pa trajtɛ, e tytɛ dhe errɛsiƞa mbulonte sipɛrfakjen e humnerɛs; dhe Fryma e Perɛndisɛ fluturonte mbi sipɛrfakjen e ujɛƞave. |
@@ -48,7 +48,7 @@
 
 ## Zanafilla 2 ~ Zaƞafilla 2
 
-| në Shqip | në Arbɛƞisht |
+| në Shqip | nɛ Arbɛƞisht |
 |---|---|
 | 1 Kështu përfunduan qielli dhe toka si dhe tërë ushtria e tyre. | 1 Kɛshtu pɛrfunduon kjielli dhe toka si dhe taƞɛ ushtria e tyƞe. |
 | 2 Ndërkaq ditën e shtatë Perëndia mbaroi veprën që kishte kryer dhe ditën e shtatë u çlodh nga gjithë vepra që kishte kryer. | 2 Ndɛrkakj ditɛn e shtatɛ Perɛndia mbaroi veprɛn kjɛ kishte kryeƞ dhe ditɛn e shtatɛ u chlodh nga gjithɛ vepra kjɛ kishte kryeƞ. |
@@ -78,7 +78,7 @@
 
 ## Zanafilla 3 ~ Zaƞafilla 3
 
-| në Shqip | në Arbɛƞisht |
+| në Shqip | nɛ Arbɛƞisht |
 |---|---|
 | 1 Por gjarpri ishte më dinaku ndër të gjitha bishat e fushave që Zoti Perëndi kishte krijuar, dhe i tha gruas: "A ka thënë me të vërtetë Perëndia: Mos hani nga të gjitha pemët e kopshtit??"". | 1 Por gjarpɛƞi ishte ma dinaku ndɛr tɛ gjitha bishat e fushave kjɛ Zoti Perɛndi kishte krijuo, dhe i tha gruos: "A ka thanɛ me tɛ vɛrtetɛ Perɛndia: Mos hani nga tɛ gjitha pemɛt e kopshtit??"". |
 | 2 Dhe gruaja iu përgjegj gjarprit: "Nga fruti i pemëve të kopshtit mund të hamë; | 2 Dhe gruoja iu pɛrgjegj gjarpɛƞit: "Nga fruti i pemɛve tɛ kopshtit mund tɛ hamɛ; |
@@ -107,7 +107,7 @@
 
 ## Zanafilla 4 ~ Zaƞafilla 4
 
-| në Shqip | në Arbɛƞisht |
+| në Shqip | nɛ Arbɛƞisht |
 |---|---|
 | 1 Por Adami njohu Evën, gruan e tij, e cila u ngjiz dhe lindi Kainin, dhe ai tha: "Fitova një burrë nga Zoti". | 1 Por Adami njohi Evɛn, gruon e tij, e cila u ngjiz dhe lindi Kainin, dhe ai tha: "Fitova nji burrɛ nga Zoti". |
 | 2 Pastaj lindi Abeli, vëllai i tij. Dhe Abeli u bë bari kopesh, ndërsa Kaini u bë punonjës i tokës. | 2 Mbasandanj lindi Abeli, vɛllai i tij. Dhe Abeli u ba bari kopesh, ndɛrsa Kaini u ba punuos i tokɛs. |
@@ -138,7 +138,7 @@
 
 ## Zanafilla 5 ~ Zaƞafilla 5
 
-| në Shqip | në Arbɛƞisht |
+| në Shqip | nɛ Arbɛƞisht |
 |---|---|
 | 1 Ky është libri i prejardhjes së Adamit. Ditën që Perëndia krijoi njeriun e bëri të ngjashëm me Perëndinë. | 1 Ky anshtɛ libri i prejardhjes sɛ Adamit. Ditɛn kjɛ Perɛndia krijoi njeriun e baƞi tɛ ngȷashɛm me Perɛndinɛ. |
 | 2 Ai i krijoi mashkull dhe femër, i bekoi dhe u dha emrin njeri, ditën që u krijuan. | 2 Ai i krijoi mashkull dhe femɛƞɛ, i bekoi dhe u dha emɛƞin njeri, ditɛn kjɛ u krijuon. |
@@ -175,7 +175,7 @@
 
 ## Zanafilla 6 ~ Zaƞafilla 6
 
-| në Shqip | në Arbɛƞisht |
+| në Shqip | nɛ Arbɛƞisht |
 |---|---|
 | 1 Kur njerëzit filluan të shumohen mbi faqen e dheut dhe u lindën atyre vajza, | 1 Kur njerɛzit filluon tɛ shumohen mbi fakjen e dheut dhe u lindɛn atyƞe vajza, |
 | 2 djemtë e Perëndisë panë që vajzat e njerëzve ishin të bukura, dhe morën për gra të gjitha ato që i zgjodhën vetë. | 2 djelmtɛ e Perɛndisɛ panɛ kjɛ vajzat e njerɛzve ishin tɛ bukura, dhe morɛn pɛr gra tɛ gjitha ato kjɛ i zgȷodhɛn vetɛ. |
@@ -202,7 +202,7 @@
 
 ## Zanafilla 7 ~ Zaƞafilla 7
 
-| në Shqip | në Arbɛƞisht |
+| në Shqip | nɛ Arbɛƞisht |
 |---|---|
 | 1 Atëherë Zoti i tha Noeut: "Hyrë në arkë bashkë me tërë familjen tënde, sepse pashë se je i drejtë para meje në këtë brez. | 1 Atɛherɛ Zoti i tha Noeut: "Hyƞɛ nɛ arkɛ bashkɛ me taƞɛ tymin tande, sepse pashɛ se je i drejtɛ para meje nɛ kɛtɛ brez. |
 | 2 Nga çdo lloj kafshe të pastër merr shtatë çifte, meshkuj e femra, si dhe nga kafshët jo të pastra një çift, mashkull dhe femër; | 2 Nga chdo lloj kafshe tɛ pastɛr merr shtatɛ dyshe, meshkuj e femɛƞa, si dhe nga kafshɛt jo tɛ pastra njɛ dyshe, mashkull dhe femɛƞɛ; |
@@ -231,7 +231,7 @@
 
 ## Zanafilla 8 ~ Zaƞafilla 8
 
-| në Shqip | në Arbɛƞisht |
+| në Shqip | nɛ Arbɛƞisht |
 |---|---|
 | 1 Pastaj Perëndisë iu kujtua Noeu, të gjitha gjallesat dhe tërë bagëtia që ishte me të në arkë; dhe Perëndia bëri që të fryjë një erë mbi tokë dhe ujërat e ulën lartësinë e tyre. | 1 Mbasandanj Perɛndisɛ iu kujtuo Noeu, tɛ gjitha gjallesat dhe taƞɛ bagɛtia kjɛ ishte me atɛ nɛ arkɛ; dhe Perɛndia baƞi kjɛ tɛ fryjɛ nji erɛ mbi tokɛ dhe ujɛƞat e ulɛn naltɛsinɛ e tyƞe. |
 | 2 Burimet e humnerës dhe kataraktet e qiellit u mbyllën dhe shiu nga qielli pushoi. | 2 Burimet e humnerɛs dhe kataraktet e kjiellit u mbyllɛn dhe shiu nga kjielli pushoi. |
@@ -258,7 +258,7 @@
 
 ## Zanafilla 9 ~ Zaƞafilla 9
 
-| në Shqip | në Arbɛƞisht |
+| në Shqip | nɛ Arbɛƞisht |
 |---|---|
 | 1 Pastaj Perëndia bekoi Noeun dhe bijtë e tij dhe u tha atyre: "Qofshi frytdhënës, shumëzoheni dhe mbusheni tokën. | 1 Mbasandanj Perɛndia bekoi Noeun dhe bijtɛ e tij dhe u tha atyƞe: "Kȷofshi frytdhanɛs, shumɛzoheni dhe mbusheni tokɛn. |
 | 2 Dhe frika dhe tmerri juaj do të ushtrohet mbi të gjitha kafshët e tokës, mbi të gjithë zogjtë e qiellit, mbi gjithçka që lëviz mbi tokë, si edhe mbi të gjithë peshqit e detit. Ata janë lënë në pushtetin tuaj. | 2 Dhe frika dhe tmerri juoj do tɛ ushtrohet mbi tɛ gjitha kafshɛt e tokɛs, mbi tɛ gjithɛ zogjtɛ e kjiellit, mbi gjithɛchka kjɛ lɛviz mbi tokɛ, si edhe mbi tɛ gjithɛ peshkjit e detit. Ata janɛ lanɛ nɛ pushtetin tuoj. |
@@ -292,7 +292,7 @@
 
 ## Zanafilla 10 ~ Zaƞafilla 10
 
-| në Shqip | në Arbɛƞisht |
+| në Shqip | nɛ Arbɛƞisht |
 |---|---|
 | 1 Këta janë pasardhësit e bijve të Noeut: Semit, Kamit dhe Jafetit; mbas përmbytjes, atyre u lindën fëmijë. | 1 Kɛta janɛ mbasardhɛsit e bijve tɛ Noeut: Semit, Kamit dhe Jafetit; mbas pɛrmbytjes, atyƞe u lindɛn cullɛ. |
 | 2 Jafeti pati si bij: Gomerin, Magogun, Madainin, Javanin, Tubalin, Meshekun dhe Tirasin. | 2 Jafeti pati si bij: Gomerin, Magogun, Madainin, Javanin, Tubalin, Meshekun dhe Tirasin. |
@@ -329,7 +329,7 @@
 
 ## Zanafilla 11 ~ Zaƞafilla 11
 
-| në Shqip | në Arbɛƞisht |
+| në Shqip | nɛ Arbɛƞisht |
 |---|---|
 | 1 Por tërë toka fliste të njëjtën gjuhë dhe përdorte të njëjtat fjalë. | 1 Por taƞɛ toka fliste tɛ njanjtɛn gȷuhɛ dhe pɛrdorte tɛ njanjtat fjalɛ. |
 | 2 Dhe ndodhi që, ndërsa po zhvendoseshin në drejtim të jugut, ata gjetën një fushë në vendin e Shinarit dhe u vendosën atje. | 2 Dhe ndodhi kjɛ, ndɛrsa po zhvendoseshin nɛ drejtim tɛ jugut, ata gjetɛn nji fushɛ nɛ vendin e Shinarit dhe u vendosɛn atje. |
@@ -364,7 +364,7 @@
 | 31 Pastaj Terahu mori të birin Abram dhe Lotin, të birin e Haranit, domethënë djali i të birit, dhe Sarajn nusen e tij, gruaja e djalit të tij Abram, dhe dolën bashkë nga Ur i Kaldeasve për të vajtur në vendin e Kanaanëve; por kur arritën në Haran, ata u vendosën aty. | 31 Mbasandanj Terahu mori tɛ birin Abram dhe Lotin, tɛ birin e Haranit, domethanɛ djali i tɛ birit, dhe Sarajn nusen e tij, gruoja e djalit tɛ tij Abram, dhe dolɛn bashkɛ nga Ur i Kaldeasve pɛr me vajtuƞ nɛ vendin e Kana'anɛve; por kur arritɛn nɛ Haran, ata u vendosɛn aty. |
 | 32 Terahu jetoi dyqind e pesë vjet, pastaj Terahu vdiq në Haran. | 32 Terahu jetoi dykjind e pensɛ vjet, mbasandanj Terahu vdikj nɛ Haran. |
 
-# New words
+# Coined words
 
 | Term | Description |
 |---|---|
