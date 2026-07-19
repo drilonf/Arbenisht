@@ -1,12 +1,14 @@
-## Spelling changes
-| | |
-|---|---|
-| ⟨ç⟩ 	→ 	⟨ch⟩<br>⟨ë⟩ 	→ 	⟨ɛ a⟩<br>⟨gj⟩ 	→ 	⟨gj gȷ⟩<br>⟨j⟩ 	→ 	⟨j nj ȷ⟩ | ⟨q⟩ 	→ 	⟨kj kȷ⟩<br>⟨r⟩ 	→ 	⟨r ƞ⟩<br>⟨ua⟩ 	→ 	⟨uo⟩ |
+# Spelling changes
+* ⟨ç⟩ 	→ 	⟨ch⟩
+* ⟨ë⟩ 	→ 	⟨ɛ a⟩
+* ⟨gj⟩ 	→ 	⟨gj gȷ⟩
+* ⟨j⟩ 	→ 	⟨j nj ȷ⟩
+* ⟨q⟩ 	→ 	⟨kj kȷ⟩
+* ⟨r⟩ 	→ 	⟨r ƞ⟩
+* ⟨ua⟩ 	→ 	⟨uo⟩
 
-# Shkrimi i Shenjtë
-*në shqip*
-```diff
-+ Shkrimi i Shenjtɛ
+# Shkrimi i Shenjtë ~ Shkrimi i Shenjtɛ
+në shqip
 + nɛ arbɛƞisht
 ```
 
