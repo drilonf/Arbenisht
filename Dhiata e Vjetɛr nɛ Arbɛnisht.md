@@ -8,15 +8,11 @@
 * ⟨r⟩ 	→ 	⟨r ƞ⟩
 * ⟨ua⟩ 	→ 	⟨uo⟩
 
-# Shkrimi i Shenjtë / Shkrimi i Shenjtɛ
+# Shkrimi i Shenjtë ~ Shkrimi i Shenjtɛ
 
-| Shqip | Arbënisht |
-|---|---|
-| *në shqip* | *nɛ arbɛƞisht* |
+## Zanafilla 1 ~ Zaƞafilla 1
 
-## Zanafilla 1
-
-| Shqip | Arbënisht |
+| në Shqip | në Arbɛƞisht |
 |---|---|
 | 1 Në fillim Perëndia krijoi qiejt dhe tokën. | 1 Nɛ fillim Perɛndia krijoi kjiejt dhe tokɛn. |
 | 2 Toka ishte pa trajtë, e zbrazët dhe errësira mbulonte sipërfaqen e humnerës; dhe Fryma e Perëndisë fluturonte mbi sipërfaqen e ujërave. | 2 Toka ishte pa trajtɛ, e tytɛ dhe errɛsiƞa mbulonte sipɛrfakjen e humnerɛs; dhe Fryma e Perɛndisɛ fluturonte mbi sipɛrfakjen e ujɛƞave. |
@@ -50,9 +46,9 @@
 | 30 Dhe çdo kafshe të tokës, çdo zogu të qiellit dhe çdo gjëje që lëviz mbi tokë dhe ka në vetvete një frymë jete, unë i jap çdo bar të gjelbër si ushqim". Dhe kështu u bë. | 30 Dhe chdo kafshe tɛ tokɛs, chdo zogu tɛ kjiellit dhe chdo gjaje kjɛ lɛviz mbi tokɛ dhe ka nɛ vetvete nji frymɛ jete, unɛ i ap chdo bar tɛ gjelbɛƞ si ushkjim". Dhe kɛshtu u ba. |
 | 31 Atëherë Perëndia shikoi të gjitha ato që kishte bërë, dhe ja, ishte shumë mirë. Kështu erdhi mbrëmja dhe pastaj erdhi mëngjesi: dita e gjashtë. | 31 Atɛherɛ Perɛndia shikoi tɛ gjitha ato kjɛ kishte baƞɛ, dhe ja, ishte shumɛ mirɛ. Kɛshtu erdhi mbramja dhe mbasandanj erdhi mɛngjesi: dita e gjashtɛ. |
 
-## Zanafilla 2
+## Zanafilla 2 ~ Zaƞafilla 2
 
-| Shqip | Arbënisht |
+| në Shqip | në Arbɛƞisht |
 |---|---|
 | 1 Kështu përfunduan qielli dhe toka si dhe tërë ushtria e tyre. | 1 Kɛshtu pɛrfunduon kjielli dhe toka si dhe taƞɛ ushtria e tyƞe. |
 | 2 Ndërkaq ditën e shtatë Perëndia mbaroi veprën që kishte kryer dhe ditën e shtatë u çlodh nga gjithë vepra që kishte kryer. | 2 Ndɛrkakj ditɛn e shtatɛ Perɛndia mbaroi veprɛn kjɛ kishte kryeƞ dhe ditɛn e shtatɛ u chlodh nga gjithɛ vepra kjɛ kishte kryeƞ. |
@@ -80,9 +76,9 @@
 | 24 Për këtë arsye njeriu do të braktisë babanë dhe nënën e tij dhe do të bashkohet me gruan e tij, dhe do të jenë një mish i vetëm. | 24 Pɛr kɛtɛ arsye njeriu do tɛ laƞɛ atin dhe amɛn e tij dhe do tɛ bashkohet me gruon e tij, dhe do tɛ jenɛ njɛ mish i vetɛm. |
 | 25 Dhe burri e gruaja e tij ishin që të dy lakuriq dhe nuk kishin turp prej kësaj. | 25 Dhe burri e gruoja e tij ishin kjɛ tɛ dy lakurikj dhe nuk kishin turp prej kɛsaj. |
 
-## Zanafilla 3
+## Zanafilla 3 ~ Zaƞafilla 3
 
-| Shqip | Arbënisht |
+| në Shqip | në Arbɛƞisht |
 |---|---|
 | 1 Por gjarpri ishte më dinaku ndër të gjitha bishat e fushave që Zoti Perëndi kishte krijuar, dhe i tha gruas: "A ka thënë me të vërtetë Perëndia: Mos hani nga të gjitha pemët e kopshtit??"". | 1 Por gjarpɛƞi ishte ma dinaku ndɛr tɛ gjitha bishat e fushave kjɛ Zoti Perɛndi kishte krijuo, dhe i tha gruos: "A ka thanɛ me tɛ vɛrtetɛ Perɛndia: Mos hani nga tɛ gjitha pemɛt e kopshtit??"". |
 | 2 Dhe gruaja iu përgjegj gjarprit: "Nga fruti i pemëve të kopshtit mund të hamë; | 2 Dhe gruoja iu pɛrgjegj gjarpɛƞit: "Nga fruti i pemɛve tɛ kopshtit mund tɛ hamɛ; |
@@ -109,9 +105,9 @@
 | 23 Prandaj Zoti Perëndi e dëboi njeriun nga kopshti i Edenit, me qëllim, që të punonte tokën nga e cila kishte dalë. | 23 Prandaj Zoti Perɛndi e dɛboi njeriun nga kopshti i Edenit, me kjɛllim, kjɛ tɛ punonte tokɛn nga e cila kishte dalɛ. |
 | 24 Kështu ai e dëboi njeriun; dhe vendosi në lindje të kopshtit të Edenit kerubinët që vërtisnin nga çdo anë një shpatë flakëruese për të ruajtur rrugën e pemës së jetës. | 24 Kɛshtu ai e dɛboi njeriun; dhe vendosi nɛ lindje tɛ kopshtit tɛ Edenit kerubinɛt kjɛ vɛrtisnin nga chdo anɛ nji shpatɛ flakɛƞuose pɛr me ruojtuƞ udhɛn e pemɛs sɛ jetɛs. |
 
-## Zanafilla 4
+## Zanafilla 4 ~ Zaƞafilla 4
 
-| Shqip | Arbënisht |
+| në Shqip | në Arbɛƞisht |
 |---|---|
 | 1 Por Adami njohu Evën, gruan e tij, e cila u ngjiz dhe lindi Kainin, dhe ai tha: "Fitova një burrë nga Zoti". | 1 Por Adami njohi Evɛn, gruon e tij, e cila u ngjiz dhe lindi Kainin, dhe ai tha: "Fitova nji burrɛ nga Zoti". |
 | 2 Pastaj lindi Abeli, vëllai i tij. Dhe Abeli u bë bari kopesh, ndërsa Kaini u bë punonjës i tokës. | 2 Mbasandanj lindi Abeli, vɛllai i tij. Dhe Abeli u ba bari kopesh, ndɛrsa Kaini u ba punuos i tokɛs. |
@@ -140,9 +136,9 @@
 | 25 Pastaj Adami njohu përsëri gruan e tij, që lindi një djalë dhe e quajti Seth, sepse ajo tha: "Perëndia më dha një tjetër pasardhës në vend të Abelit, që u vra nga Kaini". | 25 Mbasandanj Adami njohi pɛrsɛri gruon e tij, kjɛ lindi nji djalɛ dhe e kȷuojti Seth, sepse ajo tha: "Perɛndia mɛ dha nji tjetɛr mbasardhɛs nɛ vend tɛ Abelit, kjɛ u vra nga Kaini". |
 | 26 Edhe Sethit i lindi një djalë, të cilin e quajti Enosh. Atëherë filluan të kërkojnë emrin e Zotit. | 26 Edhe Sethit i lindi nji djalɛ, tɛ cilin e kȷuojti Enosh. Atɛherɛ filluon tɛ kɛrkojnɛ emɛƞin e Zotit. |
 
-## Zanafilla 5
+## Zanafilla 5 ~ Zaƞafilla 5
 
-| Shqip | Arbënisht |
+| në Shqip | në Arbɛƞisht |
 |---|---|
 | 1 Ky është libri i prejardhjes së Adamit. Ditën që Perëndia krijoi njeriun e bëri të ngjashëm me Perëndinë. | 1 Ky anshtɛ libri i prejardhjes sɛ Adamit. Ditɛn kjɛ Perɛndia krijoi njeriun e baƞi tɛ ngȷashɛm me Perɛndinɛ. |
 | 2 Ai i krijoi mashkull dhe femër, i bekoi dhe u dha emrin njeri, ditën që u krijuan. | 2 Ai i krijoi mashkull dhe femɛƞɛ, i bekoi dhe u dha emɛƞin njeri, ditɛn kjɛ u krijuon. |
@@ -177,9 +173,9 @@
 | 31 Kështu Lameku jetoi gjithsej shtatëqind e shtatëdhjetë e shtatë vjet, pastaj ai vdiq. | 31 Kɛshtu Lameku jetoi gjithsej shtatɛkjind e shtatɛdhjetɛ e shtatɛ vjet, mbasandanj ai vdikj. |
 | 32 Noeut, në moshën pesëqind vjeç, i lindi Semi, Kami dhe Jafeti. | 32 Noeut, nɛ moshɛn pensɛkjind vjech, i lindi Semi, Kami dhe Jafeti. |
 
-## Zanafilla 6
+## Zanafilla 6 ~ Zaƞafilla 6
 
-| Shqip | Arbënisht |
+| në Shqip | në Arbɛƞisht |
 |---|---|
 | 1 Kur njerëzit filluan të shumohen mbi faqen e dheut dhe u lindën atyre vajza, | 1 Kur njerɛzit filluon tɛ shumohen mbi fakjen e dheut dhe u lindɛn atyƞe vajza, |
 | 2 djemtë e Perëndisë panë që vajzat e njerëzve ishin të bukura, dhe morën për gra të gjitha ato që i zgjodhën vetë. | 2 djelmtɛ e Perɛndisɛ panɛ kjɛ vajzat e njerɛzve ishin tɛ bukura, dhe morɛn pɛr gra tɛ gjitha ato kjɛ i zgȷodhɛn vetɛ. |
@@ -204,9 +200,9 @@
 | 21 Dhe merr për vete nga çdo ushqim që hahet, grumbulloje dhe ruaje, në mënyrë që të shërbejë si ushqim për ty dhe për ata". | 21 Dhe merr pɛr vete nga chdo ushkjim kjɛ hahet, grumbullonje dhe ruonje, nɛ mɛnyrɛ  |
 | 22 Dhe Noeu veproi ashtu, bëri pikërisht të gjitha ato që Perëndia i kishte urdhëruar. | 22 Dhe Noeu veproi ashtu, baƞi pikɛƞisht tɛ gjitha ato kjɛ Perɛndia i kishte urdhɛƞuo. |
 
-## Zanafilla 7
+## Zanafilla 7 ~ Zaƞafilla 7
 
-| Shqip | Arbënisht |
+| në Shqip | në Arbɛƞisht |
 |---|---|
 | 1 Atëherë Zoti i tha Noeut: "Hyrë në arkë bashkë me tërë familjen tënde, sepse pashë se je i drejtë para meje në këtë brez. | 1 Atɛherɛ Zoti i tha Noeut: "Hyƞɛ nɛ arkɛ bashkɛ me taƞɛ tymin tande, sepse pashɛ se je i drejtɛ para meje nɛ kɛtɛ brez. |
 | 2 Nga çdo lloj kafshe të pastër merr shtatë çifte, meshkuj e femra, si dhe nga kafshët jo të pastra një çift, mashkull dhe femër; | 2 Nga chdo lloj kafshe tɛ pastɛr merr shtatɛ dyshe, meshkuj e femɛƞa, si dhe nga kafshɛt jo tɛ pastra njɛ dyshe, mashkull dhe femɛƞɛ; |
@@ -233,9 +229,9 @@
 | 23 Dhe të gjitha gjallesat që ishin mbi faqen e dheut u shfarosën: duke filluar nga njeriu deri te bagëtia, te gjarpërinjtë dhe zogjtë e qiellit; ato u shfarosën nga toka dhe shpëtoi vetëm Noeu bashkë me ata që ishin me të në arkë. | 23 Dhe tɛ gjitha gjallesat kjɛ ishin mbi fakjen e dheut u shfarosɛn: duke filluo nga njeriu deri te bagɛtia, te gjarpɛƞinjtɛ dhe zogjtɛ e kjiellit; ato u shfarosɛn nga toka dhe shpɛtoi vetɛm Noeu bashkɛ me atɛ kjɛ ishin me atɛ nɛ arkɛ. |
 | 24 Dhe ujërat mbuluan tokën për njëqind e pesëdhjetë ditë. | 24 Dhe ujɛƞat mbuluon tokɛn pɛr njɛkjind e pensɛdhjetɛ ditɛ. |
 
-## Zanafilla 8
+## Zanafilla 8 ~ Zaƞafilla 8
 
-| Shqip | Arbënisht |
+| në Shqip | në Arbɛƞisht |
 |---|---|
 | 1 Pastaj Perëndisë iu kujtua Noeu, të gjitha gjallesat dhe tërë bagëtia që ishte me të në arkë; dhe Perëndia bëri që të fryjë një erë mbi tokë dhe ujërat e ulën lartësinë e tyre. | 1 Mbasandanj Perɛndisɛ iu kujtuo Noeu, tɛ gjitha gjallesat dhe taƞɛ bagɛtia kjɛ ishte me atɛ nɛ arkɛ; dhe Perɛndia baƞi kjɛ tɛ fryjɛ nji erɛ mbi tokɛ dhe ujɛƞat e ulɛn naltɛsinɛ e tyƞe. |
 | 2 Burimet e humnerës dhe kataraktet e qiellit u mbyllën dhe shiu nga qielli pushoi. | 2 Burimet e humnerɛs dhe kataraktet e kjiellit u mbyllɛn dhe shiu nga kjielli pushoi. |
@@ -260,9 +256,9 @@
 | 21 Dhe Zoti ndjeu një erë të këndshme dhe ai tha në zemër të vet: "Unë nuk do ta mallkoj më tokën për shkak të njeriut, sepse synimet e zemrës së njeriut janë të këqija qysh në fëmijërinë e tij; dhe nuk do të godas më çdo gjallesë, siç kam bërë. | 21 Dhe Zoti ndjeu nji erɛ tɛ kandshme dhe ai tha nɛ zemɛr tɛ vet: "Unɛ nuk do ta mallkonj ma tokɛn pɛr shkak tɛ njeriut, sepse synimet e zemrɛs sɛ njeriut janɛ tɛ kɛkjija kjysh nɛ fɛmijɛƞinɛ e tij; dhe nuk do tɛ shkatɛrronj ma chdo gjallesɛ, sich kam baƞɛ. |
 | 22 Deri sa të jetë toka, nuk do të pushojnë kurrë së ekzistuari mbjellja dhe korrja, të ftohtit dhe të nxehtit, vera dhe dimri, dita dhe nata. | 22 Deri sa tɛ jetɛ toka, nuk do tɛ pushojnɛ kurrɛ sɛ kȷenuoni\* mbjellja dhe korrja, tɛ ftohit dhe tɛ nxehtit, vera dhe dimɛƞi, dita dhe nata. |
 
-## Zanafilla 9
+## Zanafilla 9 ~ Zaƞafilla 9
 
-| Shqip | Arbënisht |
+| në Shqip | në Arbɛƞisht |
 |---|---|
 | 1 Pastaj Perëndia bekoi Noeun dhe bijtë e tij dhe u tha atyre: "Qofshi frytdhënës, shumëzoheni dhe mbusheni tokën. | 1 Mbasandanj Perɛndia bekoi Noeun dhe bijtɛ e tij dhe u tha atyƞe: "Kȷofshi frytdhanɛs, shumɛzoheni dhe mbusheni tokɛn. |
 | 2 Dhe frika dhe tmerri juaj do të ushtrohet mbi të gjitha kafshët e tokës, mbi të gjithë zogjtë e qiellit, mbi gjithçka që lëviz mbi tokë, si edhe mbi të gjithë peshqit e detit. Ata janë lënë në pushtetin tuaj. | 2 Dhe frika dhe tmerri juoj do tɛ ushtrohet mbi tɛ gjitha kafshɛt e tokɛs, mbi tɛ gjithɛ zogjtɛ e kjiellit, mbi gjithɛchka kjɛ lɛviz mbi tokɛ, si edhe mbi tɛ gjithɛ peshkjit e detit. Ata janɛ lanɛ nɛ pushtetin tuoj. |
@@ -294,9 +290,9 @@
 | 28 Mbas përmbytjes, Noeu jetoi treqind e pesëdhjetë vjet. | 28 Mbas pɛrmbytjes, Noeu jetoi trekjind e pensɛdhjetɛ vjet. |
 | 29 Kështu Noeu jetoi gjithsejt nëntëqind e pesëdhjetë vjet; pastaj vdiq. | 29 Kɛshtu Noeu jetoi gjithsejt nantɛkjind e pensɛdhjetɛ vjet; mbasandanj vdikj. |
 
-## Zanafilla 10
+## Zanafilla 10 ~ Zaƞafilla 10
 
-| Shqip | Arbënisht |
+| në Shqip | në Arbɛƞisht |
 |---|---|
 | 1 Këta janë pasardhësit e bijve të Noeut: Semit, Kamit dhe Jafetit; mbas përmbytjes, atyre u lindën fëmijë. | 1 Kɛta janɛ mbasardhɛsit e bijve tɛ Noeut: Semit, Kamit dhe Jafetit; mbas pɛrmbytjes, atyƞe u lindɛn cullɛ. |
 | 2 Jafeti pati si bij: Gomerin, Magogun, Madainin, Javanin, Tubalin, Meshekun dhe Tirasin. | 2 Jafeti pati si bij: Gomerin, Magogun, Madainin, Javanin, Tubalin, Meshekun dhe Tirasin. |
@@ -331,9 +327,9 @@
 | 31 Këta janë bijtë e Semit, simbas familjeve të tyre, simbas gjuhëve të tyre, në vendet e tyre simbas kombëve të tyre. | 31 Kɛta janɛ bijtɛ e Semit, simbas tymɛƞave tɛ tyƞe, simbas gȷuhɛve tɛ tyƞe, nɛ vendet e tyƞe simbas kombɛve tɛ tyƞe. |
 | 32 Këto janë familjet e bijve të Noeut, simbas brezave të tyre, në kombet e tyre; dhe prej tyre dolën kombet që u shpërndanë në tokë mbas përmbytjes. | 32 Kɛto janɛ tymɛƞat e bijve tɛ Noeut, simbas brezave tɛ tyƞe, nɛ kombet e tyƞe; dhe prej tyƞe dolɛn kombet kjɛ u shpɛrndanɛ nɛ tokɛ mbas pɛrmbytjes. |
 
-## Zanafilla 11
+## Zanafilla 11 ~ Zaƞafilla 11
 
-| Shqip | Arbënisht |
+| në Shqip | në Arbɛƞisht |
 |---|---|
 | 1 Por tërë toka fliste të njëjtën gjuhë dhe përdorte të njëjtat fjalë. | 1 Por taƞɛ toka fliste tɛ njanjtɛn gȷuhɛ dhe pɛrdorte tɛ njanjtat fjalɛ. |
 | 2 Dhe ndodhi që, ndërsa po zhvendoseshin në drejtim të jugut, ata gjetën një fushë në vendin e Shinarit dhe u vendosën atje. | 2 Dhe ndodhi kjɛ, ndɛrsa po zhvendoseshin nɛ drejtim tɛ jugut, ata gjetɛn nji fushɛ nɛ vendin e Shinarit dhe u vendosɛn atje. |
@@ -368,7 +364,7 @@
 | 31 Pastaj Terahu mori të birin Abram dhe Lotin, të birin e Haranit, domethënë djali i të birit, dhe Sarajn nusen e tij, gruaja e djalit të tij Abram, dhe dolën bashkë nga Ur i Kaldeasve për të vajtur në vendin e Kanaanëve; por kur arritën në Haran, ata u vendosën aty. | 31 Mbasandanj Terahu mori tɛ birin Abram dhe Lotin, tɛ birin e Haranit, domethanɛ djali i tɛ birit, dhe Sarajn nusen e tij, gruoja e djalit tɛ tij Abram, dhe dolɛn bashkɛ nga Ur i Kaldeasve pɛr me vajtuƞ nɛ vendin e Kana'anɛve; por kur arritɛn nɛ Haran, ata u vendosɛn aty. |
 | 32 Terahu jetoi dyqind e pesë vjet, pastaj Terahu vdiq në Haran. | 32 Terahu jetoi dykjind e pensɛ vjet, mbasandanj Terahu vdikj nɛ Haran. |
 
-## New words
+# New words
 
 | Term | Description |
 |---|---|
