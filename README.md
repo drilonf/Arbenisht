@@ -114,6 +114,7 @@ Old Gheg & Old Tosk _gl_ is is preserved as _gl\~glj_ /gl\~gʎ/ in some Tosk dia
 This reform proposes replacing _q_ with _kj_. This matches with the existing _-j_ pattern to mark palatal consonants: _g_ → _gj_, _n_ → _nj_. So, _k_ → _kj_ logically follows, moreso than the existing _k_ → _q_. _kj_ also matches with historical spellings of this phoneme (_ci_, _chi_, _ki_, _kj_ in Old Albanian).<br>
 Old Gheg & Old Tosk _kl_ is preserved as _kl\~klj_ /kl\~kʎ/ in some Tosk dialects, realised as _ki\~k_ /kʲ\~k/ in some Gheg dialects, and merged with _q_ /tɕ/ (and similar) in the rest. Standard Albanian also merges this sound with _q_. This reform proposes replacing these cases, where _q_ descends from _kl_, with _kȷ_, which can be pronounced as /c\~tɕ\~cç\~tʃ/, /kʲ\~k/, or /kl\~kʎ/, depending on the dialect.
 *	_**q**en_ → _**kj**en_
+*	_**q**enë_ (\~_**k**ânë_\~_**k**ênë_\~_**q**ânë_\~_**q**ënë_\~_**kl**ënë_) → _**kȷ**anɛ_
 *	_**q**ep_ (\~_**k**ep_\~_**kl**ep_) → _**kȷ**ep_
 
 ## _ƞ_ introduced
