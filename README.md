@@ -193,3 +193,7 @@ Old Gheg and Old Tosk both used _mb_, _nd_ clusters. These simplified to _m_, _n
 Old Gheg and Old Tosk both used _ë_ word-finally. These were dropped in Gheg but not in Tosk. _ë_ is still useful for Gheg as it indicates noun gender, conjugations & declensions, and lengthening of the penultimate vowel.
 *	_shum**ë**_ (\~_shum(**ë**)_) → _shum**ë**_
 *	_burr**ë**_ (\~_burr(**ë**)_) → _burr**ë**_
+
+# Other Spelling considerations
+
+A change considered was to replace _ë_ with another letter, based on historical forms used in Old Albanian, or other 19th century proposals. _ɛ_ was used by the Istanbul alphabet, and I believe this is the best choice for /ə/ aesthetically, as it is a non-diacritic letter and does not clutter the orthography like _ë_ does. However, I did not implement this change so as to make the proposal easier to read, and because this is simply an aesthetic choice, and so it is a non-essential change. This change could be part of a future reform though.
