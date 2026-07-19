@@ -71,7 +71,7 @@ _Ɉ_ and _Ŋ_ do not occur word-initially, whilst _Gȷ_ and _Kȷ_ can. In all ca
 
 The capital form of _Ŋ ƞ_ should be **_N_** with a vertical descending line from its right leg, rather than a leftward descending hook. However, there is no Unicode symbol for such a symbol, so the similar **_Ŋ_** has been chosen.
 
-Overall, this proposal contains 24 of the 26 ISO Latin characters (_Qq_ and _Ww_ are not used) and 3 additional characters (_Ëë_, _Ɉȷ_, and _Ŋƞ_). In regards to keyboard typing, it is proposed that _W_ is replaced with _Ë_ on Albanian keyboards, as _W_ is not used in Albanian, besides in recent unassimilated loanwords, whilst _Ë_ is extremely common. Additional characters could then be produced by pressing Alt and selecting _V_ (for _W_), _J_ (for _Ɉ_), or _N_ (for _Ŋ_). Alternatively, and for mobiles, _W_, _Ɉ_, and _Ŋ_ can be placed at the top-right corner of the keyboard, as Albanian currently does (for _Ç_ and _Ë_), and many other languages currently do for their own non-standard characters.
+Overall, this proposal contains 24 of the 26 ISO Latin characters (_Qq_ and _Ww_ are not used) and 3 additional characters (_Ɛɛ_, _Ɉȷ_, and _Ŋƞ_).
 
 # Spelling Changes
 
@@ -202,3 +202,6 @@ Old Gheg and Old Tosk both used _mb_, _nd_ clusters. These simplified to _m_, _n
 Old Gheg and Old Tosk both used _ë_ word-finally. These were dropped in Gheg but not in Tosk. _ë_ is still useful for Gheg as it indicates noun gender, conjugations & declensions, and lengthening of the penultimate vowel.
 *	_shum**ë**_ (\~_shum**ë̆**_) → _shum**ɛ**_
 *	_burr**ë**_ (\~_burr**ë̆**_) → _burr**ɛ**_
+
+# Suggestions for typing
+In regards to keyboard typing, it is proposed that _W_ is replaced with _Ɛ_ on Albanian keyboards, as _W_ is not used in Albanian, besides in recent unassimilated loanwords, whilst _Ɛ_ is extremely common. Additional characters could then be produced by pressing Alt and selecting _V_ (for _W_), _J_ (for _Ɉ_), or _N_ (for _Ŋ_). Alternatively, and for mobiles, _W_, _Ɉ_, and _Ŋ_ can be placed at the top-right corner of the keyboard, as Albanian currently does (for _Ç_ and _Ë_), and many other languages currently do for their own non-standard characters.
