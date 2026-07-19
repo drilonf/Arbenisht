@@ -187,7 +187,7 @@ In a few words, Gheg initial _vo_ is likely more conservative than Tosk & Standa
 
 Old Gheg and Old Tosk both used syllable-final _h_. This changed to _f_ in Gheg but not in Tosk.
 *	_fto**h**_ (\~_fto**f**_) → _fto**h**_
-*	_ngro**h**_ (\~_ngro**f**_\~_ngro**ft**_) → _ngro**h**_
+*	_ngro**h**_ (\~_ngro**f**_) → _ngro**h**_
 *	_njo**h**_ (\~_njo**f**_) → _njo**h**_
 *	_sho**h**_ (\~_sho**f**_) → _sho**h**_
 
