@@ -145,7 +145,7 @@ Modern _ua_ often corresponds to Old Gheg _uo_ and Old Tosk _ua_. Both are theor
 
 Gheg nasals are likely more conservative than Tosk's oral equivalents. Literary Gheg’s 5 nasal vowels (_â_/_ô_, _ê_, _î_, _û_, _ŷ_) are adopted without diacritics (_a_, _e_, _i_, _u_, _y_). Nasal forms in this proposal are not written but implied by appearing before _m_, _n_, _ƞ_, _nj_, and word-finally. Gheg nasal vowels correspond to Tosk oral (and sometimes reduced) vowels.
 *	_**a**në_ (\~_**â**në_) → _**a**nɛ_
-*	_v**e**nd_ (\~_v**ê**n(d)_\~_v**ë**nd_) → _v**e**nd_
+*	_v**e**nd_ (\~_v**ê**nd_\~_v**ë**nd_) → _v**e**nd_
 *	_br**e**j_ (\~_br**ê**j_\~_br**e**nj_) → _br**e**nj_
 *	_k**ë**mbë_ (\~_k**â**m(b)ë_\~_k**ô**m(b)ë_) → _k**a**mbɛ_
 *	_br**i**_ (\~_br**î**_) → _br**i**_
@@ -187,16 +187,18 @@ In a few words, Gheg initial _vo_ is likely more conservative than Tosk & Standa
 
 Old Gheg and Old Tosk both used syllable-final _h_. This changed to _f_ in Gheg but not in Tosk.
 *	_fto**h**_ (\~_fto**f**_) → _fto**h**_
+*	_ngro**h**_ (\~_ngro**f**_\~_ngro**ft**_) → _ngro**h**_
+*	_njo**h**_ (\~_njo**f**_) → _njo**h**_
 *	_sho**h**_ (\~_sho**f**_) → _sho**h**_
 
 ## _mb_, _nd_ clusters preserved
 
 Old Gheg and Old Tosk both used _mb_, _nd_ clusters. These simplified to _m_, _n_ in Gheg but not in Tosk.
-*	_**mb**ush_ (\~_**m**(**b**)ush_) → _**mb**ush_
-*	_**nd**er_ (\~_**n**(**d**)êr_) → _**nd**er_
+*	_**mb**ush_ (\~_**mb̆**ush_) → _**mb**ush_
+*	_**nd**er_ (\~_**nd̆**êr_) → _**nd**er_
 
 ## Word-final _ɛ_ preserved
 
 Old Gheg and Old Tosk both used _ë_ word-finally. These were dropped in Gheg but not in Tosk. _ë_ is still useful for Gheg as it indicates noun gender, conjugations & declensions, and lengthening of the penultimate vowel.
-*	_shum**ë**_ (\~_shum(**ë**)_) → _shum**ɛ**_
-*	_burr**ë**_ (\~_burr(**ë**)_) → _burr**ɛ**_
+*	_shum**ë**_ (\~_shum**ë̆**_) → _shum**ɛ**_
+*	_burr**ë**_ (\~_burr**ë̆**_) → _burr**ɛ**_
