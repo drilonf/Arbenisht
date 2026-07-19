@@ -17,43 +17,48 @@ The Arbëƞisht alphabet.
 * Letters with changes to usage & spelling are in Dark Green
 * Pronunciation shown is (mostly) that of Elbasanisht
 
-This is largely the same as the current alphabet, consisting of 36 letters:
-1. A a /ä, ɑ̃/
-2. B b /b/
-3. C c /ts/
-4. Ch ch /tʃ/
-5. D d /d/
-6. Dh dh /ð/
-7. E e /ɛ, ɛ̃/
-8. Ë ë /ə/
-9. F f /f/
-10. G g /g/
-11. Gj gj /dʑ/
-12. H h /h/
-13. I i /i, ĩ/
-14. J j /j/
-15. K k /k/
-16. Kj kj /tɕ/
-17. L l /l/
-18. Ll ll /ɫ/
-19. M m /m/
-20. N n /n, ŋ/
-21. Nj nj /ɲ, j/
-22. O o /ɔ/
-23. P p /p/
-24. R r /ɾ/
-25. Rr rr /r/
-26. S s /s/
-27. Sh sh /ʃ/
-28. T t /t/
-29. Th th /θ/
-30. U u /u, ũ/
-31. V v /v/
-32. X x /dz/
-33. Xh xh /dʒ/
-34. Y y /y, ỹ/
-35. Z z /z/
-36. Zh zh /ʒ/
+This is largely the same as the current alphabet, consisting of 36 letters.
+<details>
+  <summary>Letter list</summary>
+
+  1. A a /ä, ɑ̃/
+  2. B b /b/
+  3. C c /ts/
+  4. Ch ch /tʃ/
+  5. D d /d/
+  6. Dh dh /ð/
+  7. E e /ɛ, ɛ̃/
+  8. Ë ë /ə/
+  9. F f /f/
+  10. G g /g/
+  11. Gj gj /dʑ/
+  12. H h /h/
+  13. I i /i, ĩ/
+  14. J j /j/
+  15. K k /k/
+  16. Kj kj /tɕ/
+  17. L l /l/
+  18. Ll ll /ɫ/
+  19. M m /m/
+  20. N n /n, ŋ/
+  21. Nj nj /ɲ, j/
+  22. O o /ɔ/
+  23. P p /p/
+  24. R r /ɾ/
+  25. Rr rr /r/
+  26. S s /s/
+  27. Sh sh /ʃ/
+  28. T t /t/
+  29. Th th /θ/
+  30. U u /u, ũ/
+  31. V v /v/
+  32. X x /dz/
+  33. Xh xh /dʒ/
+  34. Y y /y, ỹ/
+  35. Z z /z/
+  36. Zh zh /ʒ/
+
+</details>
 
 In addition, 4 new spellings have been introduced that are not considered separate letters but variants:
 
