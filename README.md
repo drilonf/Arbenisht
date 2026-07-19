@@ -76,7 +76,7 @@ Overall, this proposal contains 24 of the 26 ISO Latin characters (_Qq_ and _Ww_
 # Spelling Changes
 
 ## _ë_ replaced by _ɛ_
-_ë_ was replaced so as to eliminate a diacritic letter, which clutter orthographies, and assign each sound a unique letter (or digraph). _ɛ_ was chosen as I believe it's the best aesthetic choice available, and it has some historical basis, having been previously used by the Stamboll Alphabet. Additionally, since _ë_ is such a commonly occuring letter, its replacement with _ɛ_ would quickly signify to the user that the new spelling standard is being used, even in short text.
+This reform proposes replacing _ë_ with _ɛ_ so as to eliminate a diacritic letter, which clutter orthographies, and rather assign each sound a unique letter (or digraph) without diacritics. _ɛ_ was chosen as I believe it's the best aesthetic choice available, and it has some historical basis, having been previously used by the Stamboll Alphabet. Additionally, since _ë_ is such a commonly occuring letter, its replacement with _ɛ_ would quickly signify to the user that the new spelling standard is being used, even in short text.
 
 Note - unlike the rest of the proposal, this is simply an stylistic choice and is not an important part of the proposal. _ë_ continuing to be used instead would not a problem at all.
 
