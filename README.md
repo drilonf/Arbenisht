@@ -96,7 +96,7 @@ Note - this respelling does not include cases where some dialects have /ʎ/ in p
 Old Gheg & Old Tosk _gl_ is is preserved as _gl\~glj_ /gl\~gʎ/ in some Tosk dialects, realised as _gi\~g_ /gʲ\~g/ in some Gheg dialects, and merged with _gj_ /dʑ/ (and similar) in the rest. Standard Albanian also merges this sound with _gj_. This reform proposes replacing these cases, where _gj_ descends from _gl_, with _gȷ_, which can be pronounced as /ɟ\~dʑ\~ɟʝ\~dʒ/, /gʲ\~g/, or /gl\~gʎ/, depending on the dialect.
 
 * _**gj**eth_ → _**gj**eth_
-* _**gj**uhë_ (\~_**g**uhë_\~_**gl**uhë_\~_**glj**uhë_) → _**gȷ**uhë_
+* _**gj**uhë_ (\~_**g**uhë_\~_**gi**uhë_\~_**gl**uhë_\~_**glj**uhë_) → _**gȷ**uhë_
 
 ## _q_ replaced by _kj_, _kȷ_
 
