@@ -104,7 +104,8 @@ Old Gheg & Old Tosk _gl_ is is preserved as _gl\~glj_ /gl\~gʎ/ in some Tosk dia
 * _**gj**eth_ → _**gj**eth_
 * _**gj**erë_ (\~_**gj**ânë_\~_**gj**ërë_) → _**gj**anɛ_
 * _**gj**ak_ → _**gj**ak_
-* _**gj**u_ (~\_**g**û_\~_**gi**û_\~_**gl**u_) → _**gȷ**u_
+* _**gj**i_ (\~_**gj**î_) → _**gj**i_
+* _**gj**u_ (\~_**g**û_\~_**gi**û_\~_**gl**u_) → _**gȷ**u_
 * _**gj**atë_ (\~**g**âtë\~**g**ôtë\~**gl**atë) → _**gȷ**atɛ_
 * _**gj**uhë_ (\~_**g**uhë_\~_**gi**uhë_\~_**gl**uhë_\~_**glj**uhë_) → _**gȷ**uhɛ_
 
