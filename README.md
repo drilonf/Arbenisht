@@ -62,10 +62,10 @@ This is mostly the same as the current alphabet, consisting of 36 letters.
 
 In addition, 4 new spellings have been introduced that are not considered separate letters but variants:
 
-1. Ɉ ȷ /ʎ/. Variant of J
-2. Gȷ gȷ /gʎ/. Variant of Gj
-3. Kȷ kȷ /kʎ/. Variant of Kj
-4. Ŋ ƞ /n~ɾ/. Variant of N
+1. Ɉ ȷ /ʎ/. Variant of J j /j/
+2. Gȷ gȷ /gʎ/. Variant of Gj gj /dʑ/
+3. Kȷ kȷ /kʎ/. Variant of Kj kj /tɕ/
+4. Ŋ ƞ /n~ɾ/. Variant of N n /n/
 
 _Ɉ_ and _Ŋ_ do not occur word-initially, whilst _Gȷ_ and _Kȷ_ can. In all cases, these letters come alphabetically directly after their parent letter.
 
