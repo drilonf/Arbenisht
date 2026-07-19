@@ -18,7 +18,6 @@ The Arbëƞisht alphabet.
 * Pronunciation shown is (mostly) that of Elbasanisht
 
 This is largely the same as the current alphabet, consisting of 36 letters:
-36 alphabetic letters, 2 additional letters:
 1. A a /ä, ɑ̃/
 2. B b /b/
 3. C c /ts/
