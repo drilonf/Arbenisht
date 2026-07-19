@@ -9,9 +9,9 @@ In cases where competing Old Albanian forms of words exist, then the form used b
 With that said, this reform has been designed with the principle of "one spellings, many pronunciations" - meaning that it aims to encourage speakers to write uniformly but pronunce words as they would in their own dialect. This is a similar approach to Nynorsk for Norwegian. Such a pan-dialectal language reform would be able to better integrate Gheg & Southern Tosk speakers (including the Arbëresh of Greece & Italy) without eroding their dialects.
 
 
-# Arbëƞisht Alphabet
+# Arbɛƞisht Alphabet
 <img src="https://github.com/drilonf/Arbenisht/blob/main/Alphabet.jpg?raw=true"/>
-The Arbëƞisht alphabet.
+The Arbɛƞisht alphabet.
 
 * Letters with changes to usage only are in Light Green
 * Letters with changes to spelling are in Dark Green
