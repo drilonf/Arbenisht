@@ -13,11 +13,11 @@ With that said, this reform has been designed with the principle of "one spellin
 <img src="https://github.com/drilonf/Arbenisht/blob/main/Alphabet.jpg?raw=true"/>
 The Arbëƞisht alphabet.
 
-* Letters with changes to usage are in Light Green
+* Letters with changes to usage only are in Light Green
 * Letters with changes to spelling are in Dark Green
 * Pronunciation shown is (mostly) that of Elbasanisht
 
-This is largely the same as the current alphabet, consisting of 36 letters.
+This is mostly the same as the current alphabet, consisting of 36 letters.
 <details>
   <summary>Letter list</summary>
 
@@ -28,7 +28,7 @@ This is largely the same as the current alphabet, consisting of 36 letters.
   5. D d /d/
   6. Dh dh /ð/
   7. E e /ɛ, ɛ̃/
-  8. Ë ë /ə/
+  8. Ɛ ɛ /ə/
   9. F f /f/
   10. G g /g/
   11. Gj gj /dʑ/
