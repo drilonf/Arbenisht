@@ -1,4 +1,4 @@
-## Spelling changes
+# Spelling changes
 
 * ⟨ç⟩ 	→ 	⟨ch⟩
 * ⟨ë⟩ 	→ 	⟨ɛ a⟩
