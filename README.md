@@ -82,7 +82,7 @@ This reform proposes replacing _ç_ with _ch_. This matches with the existing _-
 
 ## _ȷ_ introduced
 
-In a some cases, Proto-Albanian and Old Albanian medial /l/ evolved via a historical /ʎ/ intermediary to /j/. However, some Gheg & Tosk dialects retained the original /l/ or intermediary /ʎ/. In these cases, Standard _j_ is replaced by _ȷ_, which can be pronounced /j/, /l/, or /ʎ/, depending on the dialect.
+In some cases, Proto-Albanian and Old Albanian medial /l/ evolved via a historical /ʎ/ intermediary to /j/. However, some Gheg & Tosk dialects retained the original /l/ or intermediary /ʎ/. In these cases, Standard _j_ is replaced by _ȷ_, which can be pronounced /j/, /l/, or /ʎ/, depending on the dialect.
 *	_u**j**k_ (\~_u**l**k_\~_uk_) → _u**ȷ**k_
 *	_go**j**ë_ (\~_go**l**ë_) → _go**ȷ**ë_
 *	_bi**j**ë_ (\~_bi**l**ë_\~_bi**lj**ë_) → _bi**ȷ**ë_
@@ -100,7 +100,7 @@ Old Gheg & Old Tosk _gl_ is is preserved as _gl\~glj_ /gl\~gʎ/ in some Tosk dia
 
 ## _q_ replaced by _kj_, _kȷ_
 
-This reform proposes replacing _q_ with _kj_, This matches with the existing _-j_ pattern to mark palatal consonants: _g_ → _gj_, _n_ → _nj_. So, _k_ → _kj_ logically follows, moreso than the existing _k_ → _q_. _kj_ also matches with historical spellings of this phoneme (_ci_, _chi_, _ki_, _kj_ in Old Albanian).<br>
+This reform proposes replacing _q_ with _kj_. This matches with the existing _-j_ pattern to mark palatal consonants: _g_ → _gj_, _n_ → _nj_. So, _k_ → _kj_ logically follows, moreso than the existing _k_ → _q_. _kj_ also matches with historical spellings of this phoneme (_ci_, _chi_, _ki_, _kj_ in Old Albanian).<br>
 Old Gheg & Old Tosk _kl_ is preserved as _kl\~klj_ /kl\~kʎ/ in some Tosk dialects, realised as _ki\~k_ /kʲ\~k/ in some Gheg dialects, and merged with _q_ /tɕ/ (and similar) in the rest. Standard Albanian also merges this sound with _q_. This reform proposes replacing these cases, where _q_ descends from _kl_, with _kȷ_, which can be pronounced as /c\~tɕ\~cç\~tʃ/, /kʲ\~k/, or /kl\~kʎ/, depending on the dialect.
 *	_**q**en_ → _**kj**en_
 *	_**q**ep_ (\~_**k**ep_\~_**kl**ep_) → _**kȷ**ep_
