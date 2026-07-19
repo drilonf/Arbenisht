@@ -83,7 +83,7 @@ Note - unlike the rest of the proposal, this is simply an stylistic choice and i
 ## _ç_ replaced by _ch_
 
 This reform proposes replacing _ç_ with _ch_. This matches with the existing _-h_ pattern of digraphs in Albanian, such as for: _d_ → _dh_, _s_ → _sh_, _t_ → _th_, _x_ → _xh_, _z_ → _zh_. So, _c_ → _ch_ logically follows, moreso than the existing _c_ → _ç_. Additionally, this eliminates a diacritic letter, which is beneficial as _ç_ is frequently incorrectly typed as _c_.
-*	_**ç**farë_ (~_**sh**farë_) → _**ch**farɛ_
+*	_**ç**farë_ (~_**ç**ar_) → _**ch**farɛ_
 *	_**ç**aj_ → _**ch**aj_
 
 ## _ȷ_ introduced
