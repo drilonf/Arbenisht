@@ -67,7 +67,7 @@ In addition, 4 new spellings have been introduced that are not considered separa
 3. Kȷ kȷ /kʎ/. Variant of Kj
 4. Ŋ ƞ /n~ɾ/. Variant of N
 
-Ɉ and Ŋ do not occur word-initially, whilst Gȷ and Kȷ can. In all cases, these letters come alphabetically directly after their parent letter.
+_Ɉ_ and _Ŋ_ do not occur word-initially, whilst _Gȷ_ and _Kȷ_ can. In all cases, these letters come alphabetically directly after their parent letter.
 
 The capital form of _Ŋ ƞ_ should be **_N_** with a vertical descending line from its right leg, rather than a leftward descending hook. However, there is no Unicode symbol for such a symbol, so the similar **_Ŋ_** has been chosen.
 
@@ -76,20 +76,20 @@ Overall, this proposal contains 24 of the 26 ISO Latin characters (_Qq_ and _Ww_
 # Spelling Changes
 ## _ç_ replaced by _ch_
 
-I propose replacing ç with ch. This matches with existing _-h_ pattern of digraphs in Albanian, such as for: _d_ → _dh_, _s_ → _sh_, _t_ → _th_, _x_ → _xh_, _z_ → _zh_. So, _c_ → _ch_ logically follows, moreso than the existing c → ç. Additionally, this eliminates a diacritic letter, which is beneficial as _ç_ is frequently incorrectly typed as _c_.
+This reform proposes replacing _ç_ with _ch_. This matches with the existing _-h_ pattern of digraphs in Albanian, such as for: _d_ → _dh_, _s_ → _sh_, _t_ → _th_, _x_ → _xh_, _z_ → _zh_. So, _c_ → _ch_ logically follows, moreso than the existing _c_ → _ç_. Additionally, this eliminates a diacritic letter, which is beneficial as _ç_ is frequently incorrectly typed as _c_.
 *	_**ç**farë_ (~_**sh**farë_) → _**ch**farë_
 *	_**ç**aj_ → _**ch**aj_
 
 ## _ȷ_ introduced
 
-In a some cases, Proto-Albanian and Old Albanian medial /l/ evolved via a historical /ʎ/ intermediary to /j/. However, some Gheg & Tosk dialects retained the original /l/ or intermediary /ʎ/. These cases are marked _ȷ_.
+In a some cases, Proto-Albanian and Old Albanian medial /l/ evolved via a historical /ʎ/ intermediary to /j/. However, some Gheg & Tosk dialects retained the original /l/ or intermediary /ʎ/. In these cases, Standard _j_ is replaced by _ȷ_, which can be pronounced /j/, /l/, or /ʎ/, depending on the dialect.
 *	_u**j**k_ (\~_u**l**k_\~_uk_) → _u**ȷ**k_
 *	_go**j**ë_ (\~_go**l**ë_) → _go**ȷ**ë_
 *	_bi**j**ë_ (\~_bi**l**ë_\~_bi**lj**ë_) → _bi**ȷ**ë_
 
-This historic /ʎ/ is theorised by Dedvukaj & Ndoci (2023) to be the precursor of the _l_ in Old Albanian _gl_ and _kl_, which developed to modern _gj_ and _q_, respectively, in most dialects.
+This historic /ʎ/ is theorised by Dedvukaj & Ndoci (2023) to be the precursor of the _l_ in Old Albanian _gl_ and _kl_. Proto-Albanian /gʎ/ and /kʎ/ eventually developed to modern _gj_ and _q_ in most dialects, _g(i)_ and _k(i)_ in Northern Gheg, and _gl(j)_ and _kl(j)_ in Southern Tosk. This is discussed further below.
 
-Note - this respelling does not include cases where some dialects have /ʎ/ in place of /l/. In these cases, /ʎ/ is considered an alternative pronunciation of _l_ and is not marked. e.g. _lule_ is /lulɛ/ in most Gheg & Tosk dialects, but /ʎuʎɛ/ in some Northwestern Gheg and Southern Tosk dialects.
+Note - this respelling does not include cases where some dialects have /ʎ/ in place of Standard /l/. In these cases, /ʎ/ is considered an alternative pronunciation of _l_ and is not marked. e.g. _lule_ is /lulɛ/ in most Gheg & Tosk dialects, but /ʎuʎɛ/ in some Northwestern Gheg and Southern Tosk dialects.
 
 ## _gj_ replaced by _gj_, _gȷ_
 
