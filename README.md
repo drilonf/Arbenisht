@@ -151,9 +151,9 @@ Gheg nasals are likely more conservative than Tosk's oral equivalents. Literary 
 *	_**a**në_ (\~_**â**në_) → _**a**nɛ_
 *	_v**e**nd_ (\~_v**ê**nd_\~_v**ë**nd_) → _v**e**nd_
 *	_br**e**j_ (\~_br**ê**j_\~_br**e**nj_) → _br**e**nj_
-*	_k**ë**mbë_ (\~_k**â**m(b)ë_\~_k**ô**m(b)ë_) → _k**a**mbɛ_
+*	_k**ë**mbë_ (\~_k**â**mbë_\~_k**ô**mbë_) → _k**a**mbɛ_
 *	_br**i**_ (\~_br**î**_) → _br**i**_
-*	_h**u**ndë_ (\~_h**û**n(d)ë_) → _h**u**ndɛ_
+*	_h**u**ndë_ (\~_h**û**ndë_) → _h**u**ndɛ_
 *	_s**y**_ (\~_s**ŷ**_) → _s**y**_
 
 
