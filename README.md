@@ -35,7 +35,7 @@ The table below shows all letters and variants, new Standard pronunciation (base
 | 10 | G | g | /g/ | | | |
 | 11 | Gj | gj | /d͡ʑ/ | [d͡ʑ\~d͡ʒ] | [ɟ\~ɟ͡ʝ] | |
 | -- | Gȷ | gȷ | /gʎ/ | [d͡ʑ\~d͡ʒ\~gʲ\~g] | [ɟ\~ɟ͡ʝ\~gl\~gʎ] | Variant of _Gj_ |
-| 12 | H | h | /h/ | | | [h\~ɦ\~x\~ç] | 
+| 12 | H | h | /h/ | | [h\~ɦ\~x\~ç] | 
 | 13 | I | i | /i, ĩ/ | [i\~ɪ, ĩ] | [i, i] | Includes nasal form |
 | 14 | J | j | /j/ | | | |
 | -- | Ɉ | ȷ | /ʎ/ | [j\~l\~ʎ] | [j\~l\~ʎ] | Variant of _J_ |
