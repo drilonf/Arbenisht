@@ -30,7 +30,7 @@ The table below shows all letters and variants, new Standard pronunciation (base
 | 5 | D | d | /d/ | | | |
 | 6 | Dh | dh | /ð/ | [ð\~θ\~ɫ] | [ð\~ɫ] | |
 | 7 | E | e | /ɛ, ɛ̃/ | [ɛ\~e, ɛ̃\~æ̃] | [ɛ, ɛ\~ə] | Includes nasal form |
-| 8 | Ɛ | ɛ | /ə/ | [ə\~ɜ]~∅ | [ə\~ɜ]~∅ | Replaces _ë_ |
+| 8 | Ɛ | ɛ | /ə/ | [ə]~∅ | [ə\~ɜ]~∅ | Replaces _ë_ |
 | 9 | F | f | /f/ | | | |
 | 10 | G | g | /g/ | | | |
 | 11 | Gj | gj | /d͡ʑ/ | [d͡ʑ\~d͡ʒ] | [ɟ\~ɟ͡ʝ] | |
