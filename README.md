@@ -15,7 +15,7 @@ The Arbɛƞisht alphabet.
 
 * Letters with changes to usage only are in Light Green
 * Letters with changes to spelling are in Dark Green
-* Pronunciation shown is (mostly) that of Elbasanisht
+* Pronunciation shown is that of Elbasanisht
 
 This is mostly the same as the current alphabet, consisting of 36 main letters - along with 4 new additional variants that are not full letters. These variant forms come alphabetically immediately after their main forms.
 
