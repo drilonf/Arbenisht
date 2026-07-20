@@ -18,53 +18,51 @@ The Arbɛƞisht alphabet.
 * Pronunciation shown is (mostly) that of Elbasanisht
 
 This is mostly the same as the current alphabet, consisting of 36 main letters - along with 4 new additional variants that are not full letters. These variant forms come alphabetically immediately after their main forms.
-<details>
-  <summary>Letter table</summary>
-  
-| No. | Capital | Lowercase | IPA Standard | IPA Alternate | Notes |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| 1 | A | a | /ä, ɑ̃/ | /æ, ɒ̃\~ɔ̃̃\~ə/ | Includes nasal form |
-| 2 | B | b | /b/ | | |
-| 3 | C | c | /t͡s/ | | |
-| 4 | Ch | ch | /t͡ʃ/ | | Replaces _ç_ |
-| 5 | D | d | /d/ | | |
-| 6 | Dh | dh | /ð/ | | |
-| 7 | E | e | /ɛ, ɛ̃/ | | Includes nasal form |
-| 8 | Ɛ | ɛ | /ə/ | | Replaces _ë_ |
-| 9 | F | f | /f/ | | |
-| 10 | G | g | /g/ | | |
-| 11 | Gj | gj | /d͡ʑ/ | | |
-| -- | Gȷ | gȷ | /gʎ/ | | Variant of _Gj_ |
-| 12 | H | h | /h/ | | |
-| 13 | I | i | /i, ĩ/ | | Includes nasal form |
-| 14 | J | j | /j/ | | |
-| -- | Ɉ | ȷ | /ʎ/ | | Variant of _J_ |
-| 15 | K | k | /k/ | | |
-| 16 | Kj | kj | /t͡ɕ/ | | Replaces _Q_ |
-| -- | Kȷ | kȷ | /kʎ/ | | Variant of _Kj_ |
-| 17 | L | l | /l/ | | |
-| 18 | Ll | ll | /ɫ/ | | |
-| 19 | M | m | /m/ | | |
-| 20 | N | n | /n, ŋ/ | | |
-| -- | Ŋ | ƞ | /n~ɾ/ | | Variant of _N_ |
-| 21 | Nj | nj | /ɲ, j/ | | |
-| 22 | O | o | /ɔ/ | | |
-| 23 | P | p | /p/ | | |
-| 24 | R | r | /ɾ/ | | |
-| 25 | Rr | rr | /r/ | | |
-| 26 | S | s | /s/ | | |
-| 27 | Sh | sh | /ʃ/ | | |
-| 28 | T | t | /t/ | | |
-| 29 | Th | th | /θ/ | | |
-| 30 | U | u | /u, ũ/ | | Includes nasal form |
-| 31 | V | v | /v/ | | |
-| 32 | X | x | /d͡z/ | | |
-| 33 | Xh | xh | /d͡ʒ/ | | |
-| 34 | Y | y | /y, ỹ/ | | Includes nasal form |
-| 35 | Z | z | /z/ | | |
-| 36 | Zh | zh | /ʒ/ | | |
 
-</details>
+The table below shows all letters and variants, new Standard pronunciation (based on Elbasanisht), and pronunciations in Gheg & Tosk, if different to the Standard.
+
+| No. | Capital | Lowercase | IPA Standard | IPA Gheg | IPA Tosk | Notes |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| 1 | A | a | /ä, ɑ̃/ | [ä\~æ, ɑ̃\~ɒ̃\~ɔ̃] | [ä, a\~ə] | Includes nasal form |
+| 2 | B | b | /b/ | | | |
+| 3 | C | c | /t͡s/ | | | |
+| 4 | Ch | ch | /t͡ʃ/ | [t͡ʃ\~ʃ\~ʒ] | | Replaces _ç_ |
+| 5 | D | d | /d/ | | | |
+| 6 | Dh | dh | /ð/ | [ð\~θ\~ɫ] | [ð\~ɫ] | |
+| 7 | E | e | /ɛ, ɛ̃/ | [ɛ\~e, ɛ̃\~æ̃] | [ɛ, ɛ\~ə] | Includes nasal form |
+| 8 | Ɛ | ɛ | /ə/ | [ə\~ɜ]~∅ | [ə\~ɜ]~∅ | Replaces _ë_ |
+| 9 | F | f | /f/ | | | |
+| 10 | G | g | /g/ | | | |
+| 11 | Gj | gj | /d͡ʑ/ | [d͡ʑ\~d͡ʒ] | [ɟ\~ɟ͡ʝ] | |
+| -- | Gȷ | gȷ | /gʎ/ | [d͡ʑ\~d͡ʒ\~gʲ\~g] | [ɟ\~ɟ͡ʝ\~gl\~gʎ] | Variant of _Gj_ |
+| 12 | H | h | /h/ | | | [h\~ɦ\~x\~ç] | 
+| 13 | I | i | /i, ĩ/ | [i\~ɪ, ĩ] | [i, i] | Includes nasal form |
+| 14 | J | j | /j/ | | | |
+| -- | Ɉ | ȷ | /ʎ/ | [j\~l\~ʎ] | [j\~l\~ʎ] | Variant of _J_ |
+| 15 | K | k | /k/ | | | |
+| 16 | Kj | kj | /t͡ɕ/ | [t͡ɕ\~t͡ʃ] | [c\~c͡ç] | Replaces _Q_ |
+| -- | Kȷ | kȷ | /kʎ/ | [t͡ɕ\~t͡ʃ\~kʲ\~k] | [c\~c͡ç\~kl\~kʎ] | Variant of _Kj_ |
+| 17 | L | l | /l/ | [l~ʎ] | [l~ʎ] | |
+| 18 | Ll | ll | /ɫ/ | | | |
+| 19 | M | m | /m/ | | | |
+| 20 | N | n | /n, ŋ/ | | | |
+| -- | Ŋ | ƞ | /n/ | [n] | [ɾ\~ɽ] | Variant of _N_ |
+| 21 | Nj | nj | /ɲ, j/ | [ɲ\~nʲ], [j\~jn] | [ɲ], [ɲ\~j] | | Syllable-initially /ɲ/, otherwise /j/
+| 22 | O | o | /ɔ/ | /ɔ\~o/ | | |
+| 23 | P | p | /p/ | | | |
+| 24 | R | r | /ɾ/ | /ɾ\~ɹ/ | [ɾ\~ɽ] | |
+| 25 | Rr | rr | /r/ | | [r\~ɾ\~ɽ] | |
+| 26 | S | s | /s/ | | | |
+| 27 | Sh | sh | /ʃ/ | | | |
+| 28 | T | t | /t/ | | | |
+| 29 | Th | th | /θ/ | | | |
+| 30 | U | u | /u, ũ/ | | /u, u/ | Includes nasal form |
+| 31 | V | v | /v/ | | | |
+| 32 | X | x | /d͡z/ | [d͡z\~d͡ʒ] | | |
+| 33 | Xh | xh | /d͡ʒ/ | [d͡ʒ\~ʒ] | | |
+| 34 | Y | y | /y, ỹ/ | [y\~i\~aj], [ỹ\~ĩ] | [y\~i], [y\~i] | Includes nasal form |
+| 35 | Z | z | /z/ | | | |
+| 36 | Zh | zh | /ʒ/ | | | |
 
 The capital form of _Ŋ ƞ_ should be **_N_** with a vertical descending line from its right leg, rather than a leftward descending hook. However, there is no Unicode symbol for such a symbol, so the similar **_Ŋ_** has been chosen.
 
