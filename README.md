@@ -130,7 +130,7 @@ This also applies to historical _n_ where Gheg dropped the sound entirely but To
 Old Gheg & Old Tosk both used medial & final _nj_ in verbs. Gheg and a few Tosk dialects dropped this, but most other Tosk dialects retain this. Also, this often helps mark Gheg nasalisation.
 *	_nda**j**_ (\~_dâ**j**_\~_nda**nj**_) → _da**nj**_
 *	_gje**j**_ (\~_gjê**j**_\~_gjë**nj**_) → _gje**nj**_
-*	_mbi**j**_ (\~_m(b)î**j**_\~_mbi**nj**_) → _mbi**nj**_
+*	_mbi**j**_ (\~_mbî**j**_\~_mbi**nj**_) → _mbi**nj**_
 *	_shko**j**_ (\~_shko**nj**_) → _shko**nj**_
 
 This has already been preserved in some Standard words (that aren't verbs).
