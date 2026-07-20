@@ -34,19 +34,19 @@ The table below shows all letters and variants, new Standard pronunciation (base
 | 9 | F | f | /f/ | | | |
 | 10 | G | g | /g/ | | | |
 | 11 | Gj | gj | /d͡ʑ/ | [d͡ʑ\~d͡ʒ] | [ɟ\~ɟ͡ʝ] | |
-| -- | Gȷ | gȷ | /gʎ/ | [d͡ʑ\~d͡ʒ\~gʲ\~g] | [ɟ\~ɟ͡ʝ\~gl\~gʎ] | Variant of _Gj_ |
+| -- | Gȷ | gȷ | /d͡ʑ/ | [d͡ʑ\~d͡ʒ\~gʲ\~g] | [ɟ\~ɟ͡ʝ\~gl\~gʎ] | Variant of _Gj_, named /gʎə/ |
 | 12 | H | h | /h/ | | [h\~ɦ\~x\~ç] | 
 | 13 | I | i | /i, ĩ/ | [i\~ɪ, ĩ] | [i, i] | Includes nasal form |
 | 14 | J | j | /j/ | | | |
-| -- | Ɉ | ȷ | /ʎ/ | [j\~l\~ʎ] | [j\~l\~ʎ] | Variant of _J_ |
+| -- | Ɉ | ȷ | /j/ | [j\~l\~ʎ] | [j\~l\~ʎ] | Variant of _J_, named /ʎə/ |
 | 15 | K | k | /k/ | | | |
 | 16 | Kj | kj | /t͡ɕ/ | [t͡ɕ\~t͡ʃ] | [c\~c͡ç] | Replaces _Q_ |
-| -- | Kȷ | kȷ | /kʎ/ | [t͡ɕ\~t͡ʃ\~kʲ\~k] | [c\~c͡ç\~kl\~kʎ] | Variant of _Kj_ |
+| -- | Kȷ | kȷ | /t͡ɕ/ | [t͡ɕ\~t͡ʃ\~kʲ\~k] | [c\~c͡ç\~kl\~kʎ] | Variant of _Kj_, named /kʎə/ |
 | 17 | L | l | /l/ | [l~ʎ] | [l~ʎ] | |
 | 18 | Ll | ll | /ɫ/ | | | |
 | 19 | M | m | /m/ | | | |
 | 20 | N | n | /n, ŋ/ | | | |
-| -- | Ŋ | ƞ | /n/ | | [ɾ\~ɽ] | Variant of _N_ |
+| -- | Ŋ | ƞ | /n/ | | [ɾ\~ɽ] | Variant of _N_, named /nəɾə/ |
 | 21 | Nj | nj | /ɲ, j/ | [ɲ\~nʲ, j\~jn] | [ɲ, ɲ\~j] | Includes non-initial form | 
 | 22 | O | o | /ɔ/ | [ɔ\~o] | | |
 | 23 | P | p | /p/ | | | |
