@@ -17,52 +17,52 @@ The Arbɛƞisht alphabet.
 * Letters with changes to spelling are in Dark Green
 * Pronunciation shown is (mostly) that of Elbasanisht
 
-This is mostly the same as the current alphabet, consisting of 36 main letters - along with 4 new additional variant letters not part of the main alphabet. These variant letters come alphabetically immediately after their main forms.
+This is mostly the same as the current alphabet, consisting of 36 main letters - along with 4 new additional variants that are not full letters. These variant forms come alphabetically immediately after their main forms.
 <details>
   <summary>Letter table</summary>
   
-| Capital | Lowercase | Pronunciation | Notes |
-| :---: | :---: | :---: | :---: |
-| A | a | /ä, ɑ̃/ | Includes nasal form |
-| B | b | /b/ | | 
-| C | c | /t͡s/ | |
-| Ch | ch | /t͡ʃ/ | Replaces _ç_ |
-| D | d | /d/ | |
-| Dh | dh | /ð/ | |
-| E | e | /ɛ, ɛ̃/ | Includes nasal form |
-| Ɛ | ɛ | /ə/ | Replaces _ë_ |
-| F | f | /f/ | |
-| G | g | /g/ | |
-| Gj | gj | /d͡ʑ/ | |
-| Gȷ | gȷ | /gʎ/ | Variant of _Gj_, not a full letter |
-| H | h | /h/ | |
-| I | i | /i, ĩ/ | Includes nasal form |
-| J | j | /j/ | |
-| Ɉ | ȷ | /ʎ/ | Variant of _J_, not a full letter |
-| K | k | /k/ | |
-| Kj | kj | /t͡ɕ/ | Replaces _Q_
-| Kȷ | kȷ | /kʎ/ | Variant of _Kj_, not a full letter
-| L | l | /l/ | |
-| Ll | ll | /ɫ/ | |
-| M | m | /m/ | |
-| N | n | /n, ŋ/ | |
-| Ŋ | ƞ | /n~ɾ/ | | Variant of _N_, not a full letter
-| Nj | nj | /ɲ, j/ | |
-| O | o | /ɔ/ | |
-| P | p | /p/ | |
-| R | r | /ɾ/ | |
-| Rr | rr | /r/ | |
-| S | s | /s/ | |
-| Sh | sh | /ʃ/ | |
-| T | t | /t/ | |
-| Th | th | /θ/ | |
-| U | u | /u, ũ/ | Includes nasal form |
-| V | v | /v/ | |
-| X | x | /d͡z/ | |
-| Xh | xh | /d͡ʒ/ | |
-| Y | y | /y, ỹ/ | Includes nasal form |
-| Z | z | /z/ | |
-| Zh | zh | /ʒ/ | |
+| No. | Capital | Lowercase | IPA Standard | IPA Alternate | Notes |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 1 | A | a | /ä, ɑ̃/ | /æ, ɒ̃\~ɔ̃̃\~ə/ | Includes nasal form |
+| 2 | B | b | /b/ | | |
+| 3 | C | c | /t͡s/ | | |
+| 4 | Ch | ch | /t͡ʃ/ | | Replaces _ç_ |
+| 5 | D | d | /d/ | | |
+| 6 | Dh | dh | /ð/ | | |
+| 7 | E | e | /ɛ, ɛ̃/ | | Includes nasal form |
+| 8 | Ɛ | ɛ | /ə/ | | Replaces _ë_ |
+| 9 | F | f | /f/ | | |
+| 10 | G | g | /g/ | | |
+| 11 | Gj | gj | /d͡ʑ/ | | |
+| -- | Gȷ | gȷ | /gʎ/ | | Variant of _Gj_ |
+| 12 | H | h | /h/ | | |
+| 13 | I | i | /i, ĩ/ | | Includes nasal form |
+| 14 | J | j | /j/ | | |
+| -- | Ɉ | ȷ | /ʎ/ | | Variant of _J_ |
+| 15 | K | k | /k/ | | |
+| 16 | Kj | kj | /t͡ɕ/ | | Replaces _Q_ |
+| -- | Kȷ | kȷ | /kʎ/ | | Variant of _Kj_ |
+| 17 | L | l | /l/ | | |
+| 18 | Ll | ll | /ɫ/ | | |
+| 19 | M | m | /m/ | | |
+| 20 | N | n | /n, ŋ/ | | |
+| -- | Ŋ | ƞ | /n~ɾ/ | | Variant of _N_ |
+| 21 | Nj | nj | /ɲ, j/ | | |
+| 22 | O | o | /ɔ/ | | |
+| 23 | P | p | /p/ | | |
+| 24 | R | r | /ɾ/ | | |
+| 25 | Rr | rr | /r/ | | |
+| 26 | S | s | /s/ | | |
+| 27 | Sh | sh | /ʃ/ | | |
+| 28 | T | t | /t/ | | |
+| 29 | Th | th | /θ/ | | |
+| 30 | U | u | /u, ũ/ | | Includes nasal form |
+| 31 | V | v | /v/ | | |
+| 32 | X | x | /d͡z/ | | |
+| 33 | Xh | xh | /d͡ʒ/ | | |
+| 34 | Y | y | /y, ỹ/ | | Includes nasal form |
+| 35 | Z | z | /z/ | | |
+| 36 | Zh | zh | /ʒ/ | | |
 
 </details>
 
