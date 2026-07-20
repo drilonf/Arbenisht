@@ -46,7 +46,7 @@ The table below shows all letters and variants, new Standard pronunciation (base
 | 18 | Ll | ll | /ɫ/ | | | |
 | 19 | M | m | /m/ | | | |
 | 20 | N | n | /n, ŋ/ | | | |
-| -- | Ŋ | ƞ | /n/ | | [ɾ\~ɽ] | Variant of _N_, named /nəɾə/ |
+| -- | И | ƞ | /n/ | | [ɾ\~ɽ] | Variant of _N_, named /nəɾə/ |
 | 21 | Nj | nj | /ɲ, j/ | [ɲ\~nʲ, j\~jn] | [ɲ, ɲ\~j] | Includes non-initial form | 
 | 22 | O | o | /ɔ/ | [ɔ\~o] | | |
 | 23 | P | p | /p/ | | | |
@@ -64,9 +64,7 @@ The table below shows all letters and variants, new Standard pronunciation (base
 | 35 | Z | z | /z/ | | | |
 | 36 | Zh | zh | /ʒ/ | | | |
 
-The capital form of _ƞ_ should be **_N_** with a vertical descending line from its right leg, rather than a leftward descending hook. However, there is no Unicode for such a symbol, so the similar **_Ŋ_** has been chosen.
-
-This proposed alphabet (with variants) contains 24 of the 26 ISO Latin characters (_Qq_ and _Ww_ are not used), and 3 additional characters (_Ɛɛ_, _Ɉȷ_, and _Ŋƞ_).
+This proposed alphabet (with variants) contains 24 of the 26 ISO Latin characters (_Qq_ and _Ww_ are not used), and 3 additional characters (_Ɛɛ_, _Ɉȷ_, and _Иƞ_).
 
 # Spelling Changes
 
@@ -222,4 +220,4 @@ Old Gheg and Old Tosk both used _ë_ word-finally. These were dropped in Gheg bu
 *	_burr**ë**_ (\~_burr**ë̆**_) → _burr**ɛ**_
 
 # Suggestions for typing
-In regards to keyboard typing, it is proposed that _W_ is replaced with _Ɛ_ on Albanian keyboards, as _W_ is not used in Albanian, besides in recent unassimilated loanwords, whilst _Ɛ_ is extremely common. Additional characters could then be produced by pressing Alt and selecting _Vv_ (for _Ww_), _Jj_ (for _Ɉȷ_), or _Nn_ (for _Ŋƞ_). Alternatively, and for mobiles, _W_, _Ɉ_, and _Ŋ_ can be placed at the top-right corner of the keyboard, as Albanian currently does (for _Ç_ and _Ë_), and many other languages currently do for their own non-standard characters.
+In regards to keyboard typing, it is proposed that _W_ is replaced with _Ɛ_ on Albanian keyboards, as _W_ is not used in Albanian, besides in recent unassimilated loanwords, whilst _Ɛ_ is extremely common. Additional characters could then be produced by pressing Alt and selecting _Vv_ (for _Ww_), _Jj_ (for _Ɉȷ_), or _Nn_ (for _Иƞ_). Alternatively, and for mobiles, _W_, _Ɉ_, and _И_ can be placed at the top-right corner of the keyboard, as Albanian currently does (for _Ç_ and _Ë_), and many other languages currently do for their own non-standard characters.
