@@ -189,7 +189,7 @@ In a few words where Old Gheg _n_ has been lost, this is reintroduced to mark Gh
 
 In a few words, Gheg initial _vo_ is likely more conservative than Tosk & Standard _va_.
 *	_**va**tër_ (\~_**vo**tër_) → _**vo**tɛr_
-*	_**va**rfën_ (\~_**vo**rfën_) → _**vo**rfɛn_
+*	_**va**rfër_ (\~_**vo**rfën_) → _**vo**rfɛƞ_
 * _**va**rrë_ (~_**vo**rrë_) → _**vo**rrɛ_
 
 # Spelling Retentions
