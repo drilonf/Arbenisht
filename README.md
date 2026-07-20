@@ -17,57 +17,54 @@ The Arbɛƞisht alphabet.
 * Letters with changes to spelling are in Dark Green
 * Pronunciation shown is (mostly) that of Elbasanisht
 
-This is mostly the same as the current alphabet, consisting of 36 letters.
+This is mostly the same as the current alphabet, consisting of 36 main letters - along with 4 new additional variant letters not part of the main alphabet. These variant letters come alphabetically immediately after their main forms.
 <details>
-  <summary>Letter list</summary>
-
-  1. A a /ä, ɑ̃/
-  2. B b /b/
-  3. C c /ts/
-  4. Ch ch /tʃ/
-  5. D d /d/
-  6. Dh dh /ð/
-  7. E e /ɛ, ɛ̃/
-  8. Ɛ ɛ /ə/
-  9. F f /f/
-  10. G g /g/
-  11. Gj gj /dʑ/
-  12. H h /h/
-  13. I i /i, ĩ/
-  14. J j /j/
-  15. K k /k/
-  16. Kj kj /tɕ/
-  17. L l /l/
-  18. Ll ll /ɫ/
-  19. M m /m/
-  20. N n /n, ŋ/
-  21. Nj nj /ɲ, j/
-  22. O o /ɔ/
-  23. P p /p/
-  24. R r /ɾ/
-  25. Rr rr /r/
-  26. S s /s/
-  27. Sh sh /ʃ/
-  28. T t /t/
-  29. Th th /θ/
-  30. U u /u, ũ/
-  31. V v /v/
-  32. X x /dz/
-  33. Xh xh /dʒ/
-  34. Y y /y, ỹ/
-  35. Z z /z/
-  36. Zh zh /ʒ/
+  <summary>Letter table</summary>
+  
+| Capital | Lowercase | Pronunciation | Notes |
+| :---: | :---: | :---: | :---: |
+| A | a | /ä, ɑ̃/ | Includes nasal form |
+| B | b | /b/ | | 
+| C | c | /t͡s/ | |
+| Ch | ch | /t͡ʃ/ | Replaces _ç_ |
+| D | d | /d/ | |
+| Dh | dh | /ð/ | |
+| E | e | /ɛ, ɛ̃/ | Includes nasal form |
+| Ɛ | ɛ | /ə/ | Replaces _ë_ |
+| F | f | /f/ | |
+| G | g | /g/ | |
+| Gj | gj | /d͡ʑ/ | |
+| Gȷ | gȷ | /gʎ/ | Variant of _Gj_, not a full letter |
+| H | h | /h/ | |
+| I | i | /i, ĩ/ | Includes nasal form |
+| J | j | /j/ | |
+| Ɉ | ȷ | /ʎ/ | Variant of _J_, not a full letter |
+| K | k | /k/ | |
+| Kj | kj | /t͡ɕ/ | Replaces _Q_
+| Kȷ | kȷ | /kʎ/ | Variant of _Kj_, not a full letter
+| L | l | /l/ | |
+| Ll | ll | /ɫ/ | |
+| M | m | /m/ | |
+| N | n | /n, ŋ/ | |
+| Ŋ | ƞ | /n~ɾ/ | | Variant of _N_, not a full letter
+| Nj | nj | /ɲ, j/ | |
+| O | o | /ɔ/ | |
+| P | p | /p/ | |
+| R | r | /ɾ/ | |
+| Rr | rr | /r/ | |
+| S | s | /s/ | |
+| Sh | sh | /ʃ/ | |
+| T | t | /t/ | |
+| Th | th | /θ/ | |
+| U | u | /u, ũ/ | Includes nasal form |
+| V | v | /v/ | |
+| X | x | /d͡z/ | |
+| Xh | xh | /d͡ʒ/ | |
+| Y | y | /y, ỹ/ | Includes nasal form |
+| Z | z | /z/ | |
+| Zh | zh | /ʒ/ | |
 
 </details>
-
-In addition, 4 new spellings have been introduced that are not considered separate letters but variants:
-
-1. Ɉ ȷ /ʎ/. Variant of J j /j/
-2. Gȷ gȷ /gʎ/. Variant of Gj gj /dʑ/
-3. Kȷ kȷ /kʎ/. Variant of Kj kj /tɕ/
-4. Ŋ ƞ /n~ɾ/. Variant of N n /n/
-
-_Ɉ_ and _Ŋ_ do not occur word-initially, whilst _Gȷ_ and _Kȷ_ can. In all cases, these letters come alphabetically directly after their parent letter.
 
 The capital form of _Ŋ ƞ_ should be **_N_** with a vertical descending line from its right leg, rather than a leftward descending hook. However, there is no Unicode symbol for such a symbol, so the similar **_Ŋ_** has been chosen.
 
