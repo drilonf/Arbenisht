@@ -71,9 +71,9 @@ This proposed alphabet (with variants) contains 24 of the 26 ISO Latin character
 # Spelling Changes
 
 ## _ë_ replaced by _ɛ_
-This reform proposes replacing _ë_ with _ɛ_ so as to eliminate a diacritic letter, which clutter orthographies, so as to assign each sound a unique letter (or digraph) without diacritics. _ɛ_ was chosen as I believe it's the best aesthetic choice available, and it has some historical basis, having been previously used by the Stamboll Alphabet. Additionally, since _ë_ is such a commonly occuring letter, its replacement with _ɛ_ would quickly signify to the user that the new spelling standard is being used, even in short text.
+This reform proposes replacing _ë_ with _ɛ_ so as to eliminate a diacritic letter, which clutter orthographies, so as to assign each sound a unique letter (or digraph) without diacritics. _ɛ_ was chosen as I believe it's the best aesthetic alternative to _ë_; it has some historical basis, having been previously used by the Stamboll Alphabet; it is quicker to handwrite; and it is arguably more distinctive from _e_ than _ë_ is. Additionally, since _ë_ is such a commonly occuring letter, its replacement with _ɛ_ would quickly signify to the user that the new spelling standard is being used, even in short text.
 
-Note - unlike the rest of the proposal, this is simply an stylistic choice and is not an important part of the proposal. _ë_ continuing to be used instead would not an issue at all.
+Note - unlike the rest of the proposal, this is simply an stylistic choice and is not an important part of the proposal. _ë_ continuing to be used instead would not hinder the proposal at all.
 
 ## _ç_ replaced by _ch_
 
