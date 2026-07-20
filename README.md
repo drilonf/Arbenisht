@@ -46,7 +46,7 @@ The table below shows all letters and variants, new Standard pronunciation (base
 | 18 | Ll | ll | /ɫ/ | | | |
 | 19 | M | m | /m/ | | | |
 | 20 | N | n | /n, ŋ/ | | | |
-| -- | Ŋ | ƞ | /n/ | [n] | [ɾ\~ɽ] | Variant of _N_ |
+| -- | Ŋ | ƞ | /n/ | | [ɾ\~ɽ] | Variant of _N_ |
 | 21 | Nj | nj | /ɲ, j/ | [ɲ\~nʲ], [j\~jn] | [ɲ], [ɲ\~j] | | Syllable-initially /ɲ/, otherwise /j/
 | 22 | O | o | /ɔ/ | /ɔ\~o/ | | |
 | 23 | P | p | /p/ | | | |
