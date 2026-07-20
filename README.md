@@ -21,7 +21,7 @@ This is mostly the same as the current alphabet, consisting of 36 main letters -
 
 The table below shows all letters and variants, new Standard pronunciation (based on Elbasanisht), and pronunciations in Gheg & Tosk, if different to the Standard.
 
-| No. | Capital | Lowercase | IPA Standard | IPA Gheg | IPA Tosk | Notes |
+| No. | Capital | Lowercase | IPA Standard | IPA Gheg | IPA Tosk | Changes |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | A | a | /ä, ɑ̃/ | [ä\~æ, ɑ̃\~ɒ̃\~ɔ̃] | [ä, ä\~ə] | Includes nasal form |
 | 2 | B | b | /b/ | | | |
