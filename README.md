@@ -71,15 +71,18 @@ This proposed alphabet (with variants) contains 24 of the 26 ISO Latin character
 # Spelling Changes
 
 ## _ë_ replaced by _ɛ_
-This reform proposes replacing _ë_ with _ɛ_ so as to eliminate a diacritic letter, which clutter orthographies, and rather assign each sound a unique letter (or digraph) without diacritics. _ɛ_ was chosen as I believe it's the best aesthetic choice available, and it has some historical basis, having been previously used by the Stamboll Alphabet. Additionally, since _ë_ is such a commonly occuring letter, its replacement with _ɛ_ would quickly signify to the user that the new spelling standard is being used, even in short text.
+This reform proposes replacing _ë_ with _ɛ_ so as to eliminate a diacritic letter, which clutter orthographies, so as to assign each sound a unique letter (or digraph) without diacritics. _ɛ_ was chosen as I believe it's the best aesthetic choice available, and it has some historical basis, having been previously used by the Stamboll Alphabet. Additionally, since _ë_ is such a commonly occuring letter, its replacement with _ɛ_ would quickly signify to the user that the new spelling standard is being used, even in short text.
 
-Note - unlike the rest of the proposal, this is simply an stylistic choice and is not an important part of the proposal. _ë_ continuing to be used instead would not a problem at all.
+Note - unlike the rest of the proposal, this is simply an stylistic choice and is not an important part of the proposal. _ë_ continuing to be used instead would not an issue at all.
 
 ## _ç_ replaced by _ch_
 
 This reform proposes replacing _ç_ with _ch_. This matches with the existing _-h_ pattern of digraphs in Albanian, such as for: _d_ → _dh_, _s_ → _sh_, _t_ → _th_, _x_ → _xh_, _z_ → _zh_. So, _c_ → _ch_ logically follows, moreso than the existing _c_ → _ç_. Additionally, this eliminates a diacritic letter, which is beneficial as _ç_ is frequently incorrectly typed as _c_.
 *	_**ç**farë_ (~_**ç**ar_) → _**ch**farɛ_
 *	_**ç**aj_ → _**ch**aj_
+*	_**ç**liroj_ → _**ch**liroj_
+*	_di**ç**ka_ → _di**ch**ka_
+*	_gjith**ç**ka_ → _gjithɛ**ch**ka_
 
 ## _ȷ_ introduced
 
