@@ -277,7 +277,7 @@
 | 15 dhe unë do të kujtohem për besëlidhjen time midis meje dhe jush si dhe me çdo gjallesë të çfarëdo lloji mishi, dhe ujërat nuk do të shndërrohen më në një përmbytje për të shkatërruar çfarëdo lloj mishi. | 15 dhe unɛ do tɛ kujtohem pɛr besɛlidhjen time midis meje dhe jush si dhe me chdo gjallesɛ tɛ chfarɛdo lloji mishi, dhe ujɛƞat nuk do tɛ shndɛrrohen ma nɛ nji pɛrmbytje pɛr me shkatɛrruo chfarɛdo lloj mishi. |
 | 16 Harku, pra, do të ndodhet në retë dhe unë do ta shikoj për të kujtuar besëlidhjen e përjetshme midis Perëndisë dhe çdo gjallese të çfarëdo mishi që ndodhet mbi tokë". | 16 Harku, pra, do tɛ ndodhet nɛ retɛ dhe unɛ do ta shikonj pɛr me kujtuo besɛlidhjen e pɛrjetshme midis Perɛndisɛ dhe chdo gjallese tɛ chfarɛdo mishi kjɛ ndodhet mbi tokɛ". |
 | 17 Dhe Perëndia i tha Noeut: "Kjo është shenja e besëlidhjes që unë kam caktuar midis meje dhe çfarëdo mishi që është mbi tokë". | 17 Dhe Perɛndia i tha Noeut: "Kɛjo anshtɛ shenja e besɛlidhjes kjɛ unɛ kam caktuo midis meje dhe chfarɛdo mishi kjɛ anshtɛ mbi tokɛ". |
-| 18 Dhe bijtë e Noeut që dolën nga arka qenë Semi, Kami dhe Jafeti; Kami është babai i Kanaanit. | 18 Dhe bijtɛ e Noeut kjɛ dolɛn nga arka kȷanɛ Semi, Kami dhe Jafeti; Kami anshtɛ babai i Kana’anit. |
+| 18 Dhe bijtë e Noeut që dolën nga arka qenë Semi, Kami dhe Jafeti; Kami është babai i Kanaanit. | 18 Dhe bijtɛ e Noeut kjɛ dolɛn nga arka kȷenɛ Semi, Kami dhe Jafeti; Kami anshtɛ babai i Kana’anit. |
 | 19 Këta janë tre bijtë e Noeut, dhe ata populluan tërë tokën. | 19 Kɛta janɛ tre bijtɛ e Noeut, dhe ata populluon taƞɛ tokɛn. |
 | 20 Më vonë Noeu, që ishte bujk, filloi të mbjellë një vresht; | 20 Ma vonɛ Noeu, kjɛ ishte bujk, filloi tɛ mbjellɛ njɛ veƞɛsht; |
 | 21 dhe piu verë e u deh, dhe u zhvesh në mes të çadrës së tij. | 21 dhe piu veƞɛ e u deh, dhe u zhvesh nɛ mes tɛ chadrɛs sɛ tij. |
@@ -296,11 +296,11 @@
 |---|---|
 | 1 Këta janë pasardhësit e bijve të Noeut: Semit, Kamit dhe Jafetit; mbas përmbytjes, atyre u lindën fëmijë. | 1 Kɛta janɛ mbasardhɛsit e bijve tɛ Noeut: Semit, Kamit dhe Jafetit; mbas pɛrmbytjes, atyƞe u lindɛn cullɛ. |
 | 2 Jafeti pati si bij: Gomerin, Magogun, Madainin, Javanin, Tubalin, Meshekun dhe Tirasin. | 2 Jafeti pati si bij: Gomerin, Magogun, Madainin, Javanin, Tubalin, Meshekun dhe Tirasin. |
-| 3 Bijtë e Gomerit qenë: Ashkenazi, Rifathi dhe Togarmahu. | 3 Bijtɛ e Gomerit kȷanɛ: Ashkenazi, Rifathi dhe Togarmahu. |
-| 4 Bijtë e Javanit qenë: Elishami, Tarshishi, Kitimi dhe Dodanimi. | 4 Bijtɛ e Javanit kȷanɛ: Elishami, Tarshishi, Kitimi dhe Dodanimi. |
+| 3 Bijtë e Gomerit qenë: Ashkenazi, Rifathi dhe Togarmahu. | 3 Bijtɛ e Gomerit kȷenɛ: Ashkenazi, Rifathi dhe Togarmahu. |
+| 4 Bijtë e Javanit qenë: Elishami, Tarshishi, Kitimi dhe Dodanimi. | 4 Bijtɛ e Javanit kȷenɛ: Elishami, Tarshishi, Kitimi dhe Dodanimi. |
 | 5 Prej tyre rrjedhin popujt e shpërndarë në ishujt e kombeve, në vendet e tyre të ndryshme, secili simbas gjuhës së vet, simbas familjeve të tyre dhe kombeve të tyre. | 5 Prej tyƞe rrjedhin popujt e shpɛrndam nɛ ishujt e kombeve, nɛ vendet e tyƞe tɛ ndryshme, secili simbas gȷuhɛs sɛ vet, simbas tymɛƞave tɛ tyƞe dhe kombeve tɛ tyƞe. |
-| 6 Bijtë e Kamit qenë: Kushi, Mitsraimi, Puti dhe Kanaani. | 6 Bijtɛ e Kamit kȷanɛ: Kushi, Mitsraimi, Puti dhe Kana’ani. |
-| 7 Bijtë e Kushit qenë: Seba, Havilahu, Sabtahu, Raamahu dhe Sabtekahu; dhe bijtë e Raamahut qenë: Sheba dhe Dedani. | 7 Bijtɛ e Kushit kȷanɛ: Seba, Havilahu, Sabtahu, Ra’amahu dhe Sabtekahu; dhe bijtɛ e Ra’amahut kȷanɛ: Sheba dhe Dedani. |
+| 6 Bijtë e Kamit qenë: Kushi, Mitsraimi, Puti dhe Kanaani. | 6 Bijtɛ e Kamit kȷenɛ: Kushi, Mitsraimi, Puti dhe Kana’ani. |
+| 7 Bijtë e Kushit qenë: Seba, Havilahu, Sabtahu, Raamahu dhe Sabtekahu; dhe bijtë e Raamahut qenë: Sheba dhe Dedani. | 7 Bijtɛ e Kushit kȷenɛ: Seba, Havilahu, Sabtahu, Ra’amahu dhe Sabtekahu; dhe bijtɛ e Ra’amahut kȷenɛ: Sheba dhe Dedani. |
 | 8 Kushit i lindi Nimrodi, që filloi të jetë një njeri i fuqishëm mbi tokë. | 8 Kushit i lindi Nimrodi, kjɛ filloi tɛ jetɛ njɛ njeri i fukjishɛm mbi tokɛ. |
 | 9 Ai qe një gjahtar i fuqishëm para Zotit; prandaj thuhet: "Si Nimrodi, gjahtari i fuqishëm para Zotit". | 9 Ai kȷe njɛ gjahtar i fukjishɛm para Zotit; prandaj thuhet: "Si Nimrodi, gjahtari i fukjishɛm para Zotit". |
 | 10 Dhe fillimi i mbretërimit të tij qe Babeli, Ereku, Akadi dhe Kalmehu në vendin e Shinarit. | 10 Dhe fillimi i mbretɛƞimit tɛ tij kȷe Babeli, Ereku, Akadi dhe Kalmehu nɛ vendin e Shinarit. |
@@ -315,14 +315,14 @@
 | 19 Dhe kufijtë e Kanaanëve shkuan nga Sidoni, në drejtim të Gerarit, deri në Gaza; dhe në drejtim të Sodomës, Gomorës, Admës dhe Ceboimoit deri në Lesha. | 19 Dhe kufinjtɛ e Kana’anɛve shkuon nga Sidoni, nɛ drejtim tɛ Gerarit, deri nɛ Gaza; dhe nɛ drejtim tɛ Sodomɛs, Gomorɛs, Admɛs dhe Ceboimoit deri nɛ Lesha. |
 | 20 Këta janë bijtë e Kamit, simbas familjeve të tyre, simbas gjuhëve të tyre, në vendet e tyre, në kombet e tyre. | 20 Kɛta janɛ bijtɛ e Kamit, simbas tymɛƞave tɛ tyƞe, simbas gȷuhɛve tɛ tyƞe, nɛ vendet e tyƞe, nɛ kombet e tyƞe. |
 | 21 Edhe Semit, babai i të gjithë fëmijëve të Eberit dhe vëlla madhor i Jafetit, i lindën bij. | 21 Edhe Semit, babai i tɛ gjithɛ cullɛve tɛ Eberit dhe vɛlla madhuor i Jafetit, i lindɛn bij. |
-| 22 Bijtë e Semit qenë: Elami, Asuri, Arpakshadi, Ludi dhe Arami. | 22 Bijtɛ e Semit kȷanɛ: Elami, Asuri, Arpakshadi, Ludi dhe Arami. |
-| 23 Bijtë e Aramit qenë: Uzi, Huli, Getheri dhe Mashi. | 23 Bijtɛ e Aramit kȷanɛ: Uzi, Huli, Getheri dhe Mashi. |
+| 22 Bijtë e Semit qenë: Elami, Asuri, Arpakshadi, Ludi dhe Arami. | 22 Bijtɛ e Semit kȷenɛ: Elami, Asuri, Arpakshadi, Ludi dhe Arami. |
+| 23 Bijtë e Aramit qenë: Uzi, Huli, Getheri dhe Mashi. | 23 Bijtɛ e Aramit kȷenɛ: Uzi, Huli, Getheri dhe Mashi. |
 | 24 Nga Arpakshadi lindi Shelahu dhe nga Shelahu Eberi. | 24 Nga Arpakshadi lindi Shelahu dhe nga Shelahu Eberi. |
 | 25 Eberit i lindën dy bij; emri i njërit prej tyre ishte Peleg, sepse në ditët e tij toka u nda, dhe emri i të vëllait ishte Joktan. | 25 Eberit i lindɛn dy bij; emɛƞi i njaƞit prej tyƞe ishte Peleg, sepse nɛ ditɛt e tij toka u da, dhe emɛƞi i tɛ vɛllait ishte Joktan. |
 | 26 Nga Joktani lindën Almodadi, Shelefi, Hatsarmavethi dhe Jerahu, | 26 Nga Joktani lindɛn Almodadi, Shelefi, Hatsarmavethi dhe Jerahu, |
 | 27 Hadorami, Uzali, Diklahu, | 27 Hadorami, Uzali, Dikhlahu, |
 | 28 Obali, Abimaeli, Sheba, | 28 Obali, Abimaeli, Sheba, |
-| 29 Ofiri, Havilahu dhe Jobabi. Tërë këta qenë bij të Joktanit. | 29 Ofiri, Havilahu dhe Jobabi. Taƞɛ kɛta kȷanɛ bij tɛ Joktanit. |
+| 29 Ofiri, Havilahu dhe Jobabi. Tërë këta qenë bij të Joktanit. | 29 Ofiri, Havilahu dhe Jobabi. Taƞɛ kɛta kȷenɛ bij tɛ Joktanit. |
 | 30 Dhe vendbanimi i tyre qe mali lindor, nga Mesha deri në Sefar. | 30 Dhe vendbanimi i tyƞe kȷe mali lindor, nga Mesha deri nɛ Sefar. |
 | 31 Këta janë bijtë e Semit, simbas familjeve të tyre, simbas gjuhëve të tyre, në vendet e tyre simbas kombëve të tyre. | 31 Kɛta janɛ bijtɛ e Semit, simbas tymɛƞave tɛ tyƞe, simbas gȷuhɛve tɛ tyƞe, nɛ vendet e tyƞe simbas kombɛve tɛ tyƞe. |
 | 32 Këto janë familjet e bijve të Noeut, simbas brezave të tyre, në kombet e tyre; dhe prej tyre dolën kombet që u shpërndanë në tokë mbas përmbytjes. | 32 Kɛto janɛ tymɛƞat e bijve tɛ Noeut, simbas brezave tɛ tyƞe, nɛ kombet e tyƞe; dhe prej tyƞe dolɛn kombet kjɛ u shpɛrndanɛ nɛ tokɛ mbas pɛrmbytjes. |
@@ -368,6 +368,6 @@
 
 | Term | Description |
 |---|---|
-| \*kȷenoj<br>\*kȷenuoni | \*kȷenoj is a coined Arbënisht verb meaning “to exist”.<br><br>Coined from Albanian qenë (Arbëreshë klënë), the participle of “to be”.<br><br>Replaces Albanian ekzistoj (internationalism, perhaps from French).<br><br>Modern Albanian spelling of the word would be \*qenonte, and of the verb lemma would be \*qenoj. |
+| \*kȷanoj<br>\*kȷanuoni | \*kȷenoj is a coined Arbënisht verb meaning “to exist”.<br><br>Coined from Albanian qenë (Arbëreshë klënë), the participle of “to be”.<br><br>Replaces Albanian ekzistoj (internationalism, perhaps from French).<br><br>Modern Albanian spelling of the word would be \*qenonte, and of the verb lemma would be \*qenoj. |
 | \*shperk | Coined Arbënisht noun, meaning “feather”.<br><br>Coined from perk, meaning “bird.”, an Old Albanian word preserved in Northwest Gheg.<br><br>Albanian formed the word for “feather”, shpend, from the word for bird, pendë.<br><br>Therefore, this coined word copies the same evolution<br><br>Favoured over shpend (Latin).<br><br>Albanian spelling of the word would be \*shperk |
 | \*shtatmadh | \*shtatmadh is a coined Arbënisht noun meaning “giant”. Derived from the Albanian adjective shtatmadh, meaning “gigantic” or “large-bodied”.<br><br>Replaces trupmadh (trup is of Slavic origin) and is favoured over gjigant (Latin origin).<br><br>Albanian spelling of the lemma would be \*shtatmadh. |
