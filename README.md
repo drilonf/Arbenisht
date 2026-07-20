@@ -64,9 +64,9 @@ The table below shows all letters and variants, new Standard pronunciation (base
 | 35 | Z | z | /z/ | | | |
 | 36 | Zh | zh | /ʒ/ | | | |
 
-The capital form of _Ŋ ƞ_ should be **_N_** with a vertical descending line from its right leg, rather than a leftward descending hook. However, there is no Unicode symbol for such a symbol, so the similar **_Ŋ_** has been chosen.
+The capital form of _ƞ_ should be **_N_** with a vertical descending line from its right leg, rather than a leftward descending hook. However, there is no Unicode symbol for such a symbol, so the similar **_Ŋ_** has been chosen.
 
-Overall, this proposal contains 24 of the 26 ISO Latin characters (_Qq_ and _Ww_ are not used) and 3 additional characters (_Ɛɛ_, _Ɉȷ_, and _Ŋƞ_).
+This proposed alphabet (with variants) contains 24 of the 26 ISO Latin characters (_Qq_ and _Ww_ are not used), and 3 additional characters (_Ɛɛ_, _Ɉȷ_, and _Ŋƞ_).
 
 # Spelling Changes
 
