@@ -227,3 +227,16 @@ Literary Gheg has already adopted this.
 
 # Suggestions for typing
 In regards to keyboard typing, it is proposed that _W_ is replaced with _Ɛ_ on Albanian keyboards, as _W_ is not used in Albanian, besides in recent unassimilated loanwords, whilst _Ɛ_ is extremely common. Additional characters could then be produced by pressing Alt and selecting _Vv_ (for _Ww_), _Jj_ (for _Ɉȷ_), or _Nn_ (for _Иƞ_). Alternatively, and for mobiles, _W_, _Ɉ_, and _И_ can be placed at the top-right corner of the keyboard, as Albanian currently does (for _Ç_ and _Ë_), and many other languages currently do for their own non-standard characters.
+
+# Sample text
+> Atɛherɛ Zoti Perɛndi i tha gjarpɛƞit: "Me kȷanɛ se baƞe kɛtɛ gja, kȷofsh i mallkuom ndɛr gjithɛ kafshɛt dhe taƞɛ bishat e fushave! Ti do tɛ ecɛsh mbi barkun tand dhe do tɛ hash pluhuƞ gjithɛ ditɛt e jetɛs sate.
+>
+> Dhe unɛ do tɛ shtie armikjɛsi midis teje dhe gruos, midis farɛs sate dhe farɛs sɛ saj; fara e saj do tɛ shtypɛ kreun tande, dhe ti do tɛ plagosɛsh thembrɛn e farɛs sɛ saj".
+>
+> Gruos i tha: "Unɛ do tɛ shumɛzonj nɛ masɛ tɛ madhe vuojtjet e tuo dhe barrɛt e tuo; me vuojtje do tɛ lindɛsh cullɛ; dɛshirat e tuo do tɛ drejtohen danj burrit tand dhe ai do tɛ zotɛƞonjɛ mbi ty".
+>
+> Mbasandaj i tha Adamit: "Me kȷanɛ se ndɛgȷove zaƞin e gruos sate dhe hangre nga pema pɛr tɛ cilɛn tɛ kisha urdhɛƞuo tuke thanɛ: "Mos ha prej saj," toka do tɛ jetɛ e mallkuom pɛr shkakun tand, ti do tɛ hash frutin e saj me mund taƞɛ ditɛt e jetɛs sate.
+>
+> Ajo do tɛ prodhonjɛ gȷemba dhe bimɛ gȷembuore, dhe ti do tɛ hash barin e fushave; do tɛ hash bukɛn me djersɛn e ballit, deri sa tɛ kthehesh pɛrsɛri nɛ dhe sepse nga ai ke dalɛ; sepse ti je pluhuƞ dhe nɛ pluhuƞ do tɛ kthehesh pɛrsɛri".
+
+> Kɛshtu ai e dɛboi njeriun; dhe vendosi nɛ lindje tɛ kopshtit tɛ Edenit kerubinɛt kjɛ vɛrtisnin nga chdo anɛ nji shpatɛ flakɛƞuose pɛr me ruojtuƞ udhɛn e pemɛs sɛ jetɛs.
