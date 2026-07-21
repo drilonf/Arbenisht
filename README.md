@@ -144,7 +144,7 @@ This has already been preserved in some Standard words (that aren't verbs).
 
 ## Most _ua_ replaced by _uo_
 
-Modern _ua_ often corresponds to Old Gheg _uo_ and Old Tosk _ua_. Both are theorised to descend from Proto-Albanian *_uo_ ← *_ō_. Although _uo_ is largely extinct today, in this proposal it serves to unify Gheg _ue_, _ū_, and Tosk _ua_. Standard Albanian uses both Tosk (_ua_, _or)_ and Gheg (_ues_) forms.
+Modern _ua_ often corresponds to Old Gheg _uo_ and Old Tosk _ua_. Both are theorised to descend from Proto-Albanian *_uo_ ← *_ō_. Although _uo_ is largely extinct today, in this proposal it serves to unify Gheg _ue_, _ū_, and Tosk _ua_. Standard Albanian currently uses both Tosk (_ua_, _uar_, _or)_ and Gheg (_ues_) forms.
 *	_m**ua**_ (\~_m**ue**_\~_m**ū**_) → _m**uo**_
 *	_mës**ua**r_ (\~_mës**ue**_\~_mës**ū**_) → _mɛs**uo**_
 *	_mës**ue**s_ (\~_mës**ū**s_\~_mës**ua**s_\~_mësonjës_) → _mɛs**uo**s_
