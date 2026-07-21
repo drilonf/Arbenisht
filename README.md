@@ -58,7 +58,7 @@ The table below shows all letters and variants, new Standard pronunciation (base
 | 29 | Th | th | /θ/ | | | |
 | 30 | U | u | /u, ũ/ | | /u, u/ | Includes nasal form |
 | 31 | V | v | /v/ | | | |
-| 32 | X | x | /d͡z/ | [d͡z\~d͡ʒ] | | |
+| 32 | X | x | /d͡z/ | | | |
 | 33 | Xh | xh | /d͡ʒ/ | [d͡ʒ\~ʒ] | | |
 | 34 | Y | y | /y, ỹ/ | [y\~i\~äj, ỹ\~ĩ] | [y\~i\~u, y\~i\~u] | Includes nasal form |
 | 35 | Z | z | /z/ | | | |
