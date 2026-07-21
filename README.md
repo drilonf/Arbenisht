@@ -219,7 +219,7 @@ Old Gheg and Old Tosk both used _mb_, _nd_ clusters. These simplified to _m_, _n
 Literary Gheg has already adopted this.
 ## Word-final _ɛ_ preserved
 
-Old Gheg and Old Tosk both used _ë_ word-finally. These were dropped in Gheg but not in Tosk. _ë_ is still useful for Gheg as it indicates noun gender, conjugations & declensions, and lengthening of the penultimate vowel.
+Old Gheg and Old Tosk both used _ë_ word-finally. These have been dropped in Gheg and increasingly in some Tosk dialects, but preserved in other Tosk dialects. _ë_ is still useful for Gheg however as it indicates noun gender, conjugations & declensions, and lengthening of the penultimate vowel.
 *	_shum**ë**_ (\~_shum**ë̆**_) → _shum**ɛ**_
 *	_burr**ë**_ (\~_burr**ë̆**_) → _burr**ɛ**_
 
