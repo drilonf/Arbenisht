@@ -213,11 +213,14 @@ Old Gheg and Old Tosk both used _mb_, _nd_ clusters. These simplified to _m_, _n
 *	_**mb**ush_ (\~_**mb̆**ush_) → _**mb**ush_
 *	_**nd**er_ (\~_**nd̆**êr_) → _**nd**er_
 
+Literary Gheg has already adopted this.
 ## Word-final _ɛ_ preserved
 
 Old Gheg and Old Tosk both used _ë_ word-finally. These were dropped in Gheg but not in Tosk. _ë_ is still useful for Gheg as it indicates noun gender, conjugations & declensions, and lengthening of the penultimate vowel.
 *	_shum**ë**_ (\~_shum**ë̆**_) → _shum**ɛ**_
 *	_burr**ë**_ (\~_burr**ë̆**_) → _burr**ɛ**_
+
+Literary Gheg has already adopted this.
 
 # Suggestions for typing
 In regards to keyboard typing, it is proposed that _W_ is replaced with _Ɛ_ on Albanian keyboards, as _W_ is not used in Albanian, besides in recent unassimilated loanwords, whilst _Ɛ_ is extremely common. Additional characters could then be produced by pressing Alt and selecting _Vv_ (for _Ww_), _Jj_ (for _Ɉȷ_), or _Nn_ (for _Иƞ_). Alternatively, and for mobiles, _W_, _Ɉ_, and _И_ can be placed at the top-right corner of the keyboard, as Albanian currently does (for _Ç_ and _Ë_), and many other languages currently do for their own non-standard characters.
