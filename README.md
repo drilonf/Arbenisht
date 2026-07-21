@@ -8,6 +8,15 @@ In cases where competing Old Albanian forms of words exist, then the form used b
 
 With that said, this reform has been designed with the principle of "one spellings, many pronunciations" - meaning that it aims to encourage speakers to write uniformly but pronunce words as they would in their own dialect. This is a similar approach to Nynorsk for Norwegian. Such a pan-dialectal language reform would be able to better integrate Gheg & Southern Tosk speakers (including the Arbëresh of Greece & Italy) without eroding their dialects.
 
+# Principles
+The following principles were followed when creating this proposal:
+* Spellings must be consistent with the current Albanian alphabet and not contradict existing spellings
+* Diacritics should be eliminated and avoided
+* Letters can take on different sounds across dialects without requiring words to be respelled
+* Standard pronunciation should be based on Elbasanisht, but dialectal pronunciations should not be considered as "incorrect"
+* If a form exists in both Old Gheg & Old Tosk, and survives today (either in the Modern Standard or dialectally), it should be chosen to be the Standard form
+* When Old Gheg & Old Tosk forms conflict, hybrid forms and compromises should be chosen to orthographically unify the dialects. If this is not possible, then the form used in Elbasanisht should be chosen
+* Proto-Albanian should not consulted as it is a speculative reconstructed language. Instead, Old Gheg & Old Tosk writings should be used
 
 # Arbɛƞisht Alphabet
 <img src="https://github.com/drilonf/Arbenisht/blob/main/Alphabet.jpg?raw=true"/>
