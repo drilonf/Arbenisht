@@ -94,7 +94,11 @@ This reform proposes replacing _ç_ with _ch_. This matches with the existing _-
 ## _ȷ_ introduced
 
 In some cases, Proto-Albanian and Old Albanian medial /l/ evolved via a historical /ʎ/ intermediary to /j/. However, some Gheg & Tosk dialects retained the original /l/ or intermediary /ʎ/. In these cases, Standard _j_ is replaced by _ȷ_, which can be pronounced /j/, /l/, or /ʎ/, depending on the dialect.
-*	_u**j**k_ (\~_u**l**k_\~_uk_) → _u**ȷ**k_
+
+| Modern Standard | Gheg | Tosk | Arbënisht |
+| :---: | :---: | :---: | :---: |
+_u**j**k_ | ujk, uk | ujk, ulk | uȷk
+
 *	_go**j**ë_ (\~_go**l**ë_) → _go**ȷ**ɛ_
 *	_bi**j**ë_ (\~_bi**l**ë_\~_bi**lj**ë_) → _bi**ȷ**ɛ_
 
