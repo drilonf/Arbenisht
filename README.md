@@ -95,10 +95,7 @@ This reform proposes replacing _ç_ with _ch_. This matches with the existing _-
 
 In some cases, Proto-Albanian and Old Albanian medial /l/ evolved via a historical /ʎ/ intermediary to /j/. However, some Gheg & Tosk dialects retained the original /l/ or intermediary /ʎ/. In these cases, Standard _j_ is replaced by _ȷ_, which can be pronounced /j/, /l/, or /ʎ/, depending on the dialect.
 
-| Modern Standard | Gheg | Tosk | Arbënisht |
-| :---: | :---: | :---: | :---: |
-_u**j**k_ | ujk, uk | ujk, ulk | uȷk
-
+* _u**j**k_ (\~_(h)u**j**k_\~_(h)uk_\~_u**l**k_) → _u**ȷ**k_
 *	_go**j**ë_ (\~_go**l**ë_) → _go**ȷ**ɛ_
 *	_bi**j**ë_ (\~_bi**l**ë_\~_bi**lj**ë_) → _bi**ȷ**ɛ_
 
@@ -244,3 +241,10 @@ In regards to keyboard typing, it is proposed that _W_ is replaced with _Ɛ_ on 
 > Ajo do tɛ prodhonjɛ gȷemba dhe bimɛ gȷembuore, dhe ti do tɛ hash barin e fushave; do tɛ hash bukɛn me djersɛn e ballit, deri sa tɛ kthehesh pɛrsɛri nɛ dhe sepse nga ai ke dalɛ; sepse ti je pluhuƞ dhe nɛ pluhuƞ do tɛ kthehesh pɛrsɛri".
 
 > Kɛshtu ai e dɛboi njeriun; dhe vendosi nɛ lindje tɛ kopshtit tɛ Edenit kerubinɛt kjɛ vɛrtisnin nga chdo anɛ nji shpatɛ flakɛƞuose pɛr me ruojtuƞ udhɛn e pemɛs sɛ jetɛs.
+
+# Dictionary
+Old forms (not attested after 1900) are marked in italics.
+
+| Modern Standard | Gheg (_Old_) | Tosk (_Old_) | Arbɛƞisht |
+| :---: | :---: | :---: | :---: |
+ujk | _hujk_, _huk_, ujk, uk | ujk, ulk | uȷk
