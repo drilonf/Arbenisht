@@ -241,10 +241,3 @@ In regards to keyboard typing, it is proposed that _W_ is replaced with _Ɛ_ on 
 > Ajo do tɛ prodhonjɛ gȷemba dhe bimɛ gȷembuore, dhe ti do tɛ hash barin e fushave; do tɛ hash bukɛn me djersɛn e ballit, deri sa tɛ kthehesh pɛrsɛri nɛ dhe sepse nga ai ke dalɛ; sepse ti je pluhuƞ dhe nɛ pluhuƞ do tɛ kthehesh pɛrsɛri".
 
 > Kɛshtu ai e dɛboi njeriun; dhe vendosi nɛ lindje tɛ kopshtit tɛ Edenit kerubinɛt kjɛ vɛrtisnin nga chdo anɛ nji shpatɛ flakɛƞuose pɛr me ruojtuƞ udhɛn e pemɛs sɛ jetɛs.
-
-# Dictionary
-Old forms (not attested after 1900) are marked in italics.
-
-| Modern Standard | Gheg (_Old_) | Tosk (_Old_) | Arbɛƞisht |
-| :---: | :---: | :---: | :---: |
-ujk | _hujk_, _huk_, ujk, uk | ujk, ulk | uȷk
