@@ -10,7 +10,7 @@
 
 # Shkrimi i Shenjtë ~ Shkrimi i Shenjtɛ
 
-## Zanafilla 1 ~ Zäƞafilla 1
+## Zanafilla 1 ~ Zaƞafilla 1
 
 | në Shqip                                                                                                                                                                                                                                   | nɛ Arbɛƞisht                                                                                                                                                                                                                                            |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -46,7 +46,7 @@
 | 30 Dhe çdo kafshe të tokës, çdo zogu të qiellit dhe çdo gjëje që lëviz mbi tokë dhe ka në vetvete një frymë jete, unë i jap çdo bar të gjelbër si ushqim". Dhe kështu u bë.                                                                | 30 Dhe chdo kafshe tɛ tokɛs, chdo zogu tɛ kjiellit dhe chdo gjäje kjɛ lɛviz mbi tokɛ dhe ka nɛ vetvete nji frymɛ jete, unɛ i ap chdo bar tɛ gjelbɛƞ si ushkjim". Dhe kɛshtu u bä.                                                                       |
 | 31 Atëherë Perëndia shikoi të gjitha ato që kishte bërë, dhe ja, ishte shumë mirë. Kështu erdhi mbrëmja dhe pastaj erdhi mëngjesi: dita e gjashtë.                                                                                         | 31 Atɛherɛ Perɛndia shikoi tɛ gjitha ato kjɛ kishte bäƞɛ, dhe ja, ishte shumɛ mirɛ. Kɛshtu erdhi mbrämja dhe mbasandaj erdhi mɛngjesi: dita e gjashtɛ.                                                                                                  |
 
-## Zanafilla 2 ~ Zäƞafilla 2
+## Zanafilla 2 ~ Zaƞafilla 2
 
 | në Shqip                                                                                                                                                                                                                            | nɛ Arbɛƞisht                                                                                                                                                                                                                           |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
