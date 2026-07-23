@@ -51,8 +51,8 @@ The table below shows all letters and variants, new Standard pronunciation (base
 | 15 | K | k | /k/ | | | |
 | 16 | Kj | kj | /t͡ɕ/ | [t͡ɕ\~t͡ʃ] | [c\~c͡ç] | Replaces _Q_ |
 | -- | Kȷ | kȷ | /t͡ɕ/ | [t͡ɕ\~t͡ʃ\~kʲ\~k] | [c\~c͡ç\~kl\~kʎ] | Variant of _Kj_, named /kʎə/ |
-| 17 | L | l | /l/ | [l~ʎ] | [l~ʎ] | |
-| 18 | Ll | ll | /ɫ/ | | | |
+| 17 | L | l | /l/ | [l\~ʎ] | [l\~ʎ] | |
+| 18 | Ll | ll | /ɫ/ | | | [ɫ\~ð] |
 | 19 | M | m | /m/ | | | |
 | 20 | N | n | /n, ŋ/ | | | |
 | -- | И | ƞ | /n/ | | [ɾ\~ɽ] | Variant of _N_, named /nəɾə/ |
@@ -69,7 +69,7 @@ The table below shows all letters and variants, new Standard pronunciation (base
 | 31 | V | v | /v/ | | | |
 | 32 | X | x | /d͡z/ | | | |
 | 33 | Xh | xh | /d͡ʒ/ | [d͡ʒ\~ʒ] | | |
-| 34 | Y | y | /y, ỹ/ | [y\~i\~äj, ỹ\~ĩ] | [y\~i\~u, y\~i\~u] | Includes nasal form |
+| 34 | Y | y | /y, ỹ/ | [y\~i\~äj~ɛj\, ỹ\~ĩ] | [y\~i\~u, y\~i\~u] | Includes nasal form |
 | 35 | Z | z | /z/ | | | |
 | 36 | Zh | zh | /ʒ/ | | | |
 
