@@ -187,10 +187,10 @@ Vowel pronunciation guide:
 
 A more comprehensive vowel system could have been implemented, by implementing one or more of the following:
 * Marking all Gheg nasals with _â_, _ê_, _î_, _û_, _ŷ_, or _ã_, _ẽ_, _ĩ_, _ũ_, _ỹ_
-* Marking Gheg nasals vowels that reduce to schwa in Tosk with _ă_, _ĕ_
-* Marking long Gheg vowels with _ā_, _ē_, _ī_, _ō_, _ū_, _ȳ_
+* Marking Gheg nasals vowels that reduce to schwa in Tosk with _ä_, _ë_ or _ă_, _ĕ_
+* Marking long Gheg vowels with _ā_, _ē_, _ī_, _ō_, _ū_, _ȳ_, or _aa_, _ee_, _ii_, _oo_, _uu_, _yy_
 
-However, these were avoided so as to not overcomplicate the orthography with diacritics.
+However, these were avoided so as to not overcomplicate the orthography with diacritics. Dialectally, these can be implemented. e.g. Gheg dialects can mark nasalisation with _â_, _ê_, _î_, _û_, _ŷ_, and Tosk dialects can mark vowel reduction with _ä_, _ë_.
 
 Additionally, nasalisation is not consistent across Gheg dialects, and so marking nasal vowels would bias certain Gheg subdialects over others. The previously described markers of nasalisation (and therefore of Tosk vowel reduction) should be enough for readers to figure out the pronunciation of words in their dialect.
 
