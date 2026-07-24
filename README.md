@@ -230,6 +230,8 @@ Literary Gheg has already adopted this.
 In regards to keyboard typing, it is proposed that _W_ is replaced with _Ɛ_ on Albanian keyboards, as _W_ is not used in Albanian, besides in recent unassimilated loanwords, whilst _Ɛ_ is extremely common. Additional characters could then be produced by pressing Alt and selecting _Vv_ (for _Ww_), _Jj_ (for _Ɉȷ_), or _Nn_ (for _Иƞ_). Alternatively, and for mobiles, _W_, _Ɉ_, and _И_ can be placed at the top-right corner of the keyboard, as Albanian currently does (for _Ç_ and _Ë_), and many other languages currently do for their own non-standard characters.
 
 # Sample text
+
+With _ë_ > _ɛ_:
 > Atɛherɛ Zoti Perɛndi i tha gjarpɛƞit: "Me kȷanɛ se baƞe kɛtɛ gja, kȷofsh i mallkuom ndɛr gjithɛ kafshɛt dhe taƞɛ bishat e fushave! Ti do tɛ ecɛsh mbi barkun tand dhe do tɛ hash pluhuƞ gjithɛ ditɛt e jetɛs sate.
 >
 > Dhe unɛ do tɛ shtie armikjɛsi midis teje dhe gruos, midis farɛs sate dhe farɛs sɛ saj; fara e saj do tɛ shtypɛ kreun tande, dhe ti do tɛ plagosɛsh thembrɛn e farɛs sɛ saj".
@@ -241,3 +243,16 @@ In regards to keyboard typing, it is proposed that _W_ is replaced with _Ɛ_ on 
 > Ajo do tɛ prodhonjɛ gȷemba dhe bimɛ gȷembuore, dhe ti do tɛ hash barin e fushave; do tɛ hash bukɛn me djersɛn e ballit, deri sa tɛ kthehesh pɛrsɛri nɛ dhe sepse nga ai ke dalɛ; sepse ti je pluhuƞ dhe nɛ pluhuƞ do tɛ kthehesh pɛrsɛri".
 
 > Kɛshtu ai e dɛboi njeriun; dhe vendosi nɛ lindje tɛ kopshtit tɛ Edenit kerubinɛt kjɛ vɛrtisnin nga chdo anɛ nji shpatɛ flakɛƞuose pɛr me ruojtuƞ udhɛn e pemɛs sɛ jetɛs.
+
+With _ë_ retained:
+> Atëherë Zoti Perëndi i tha gjarpëƞit: "Me kȷanë se baƞe këtë gja, kȷofsh i mallkuom ndër gjithë kafshët dhe taƞë bishat e fushave! Ti do të ecësh mbi barkun tand dhe do të hash pluhuƞ gjithë ditët e jetës sate.
+>
+> Dhe unë do të shtie armikjësi midis teje dhe gruos, midis farës sate dhe farës së saj; fara e saj do të shtypë kreun tande, dhe ti do të plagosësh thembrën e farës së saj".
+>
+> Gruos i tha: "Unë do të shumëzonj në masë të madhe vuojtjet e tuo dhe barrët e tuo; me vuojtje do të lindësh cullë; dëshirat e tuo do të drejtohen danj burrit tand dhe ai do të zotëƞonjë mbi ty".
+>
+> Mbasandaj i tha Adamit: "Me kȷanë se ndëgȷove zaƞin e gruos sate dhe hangre nga pema për të cilën të kisha urdhëƞuo tuke thanë: "Mos ha prej saj," toka do të jetë e mallkuom për shkakun tand, ti do të hash frutin e saj me mund taƞë ditët e jetës sate.
+>
+> Ajo do të prodhonjë gȷemba dhe bimë gȷembuore, dhe ti do të hash barin e fushave; do të hash bukën me djersën e ballit, deri sa të kthehesh përsëri në dhe sepse nga ai ke dalë; sepse ti je pluhuƞ dhe në pluhuƞ do të kthehesh përsëri".
+
+> Kështu ai e dëboi njeriun; dhe vendosi në lindje të kopshtit të Edenit kerubinët kjë vërtisnin nga chdo anë nji shpatë flakëƞuose për me ruojtuƞ udhën e pemës së jetës.
