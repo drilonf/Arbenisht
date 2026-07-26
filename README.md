@@ -78,7 +78,7 @@ This proposed alphabet (with variants) contains 24 of the 26 ISO Latin character
 # Spelling Changes
 
 ## _ë_ replaced by _ɛ_
-This reform proposes replacing _ë_ with _ɛ_ so as to eliminate a diacritic letter, which clutter orthographies, so as to assign each sound a unique letter (or digraph) without diacritics. _ɛ_ was chosen as I believe it's the best aesthetic alternative to _ë_; it has some historical basis, having been previously used by the Stamboll Alphabet; it is quicker to handwrite; and it is arguably more distinctive from _e_ than _ë_ is. Additionally, since _ë_ is such a commonly occuring letter, its replacement with _ɛ_ would quickly signify to the user that the new spelling standard is being used, even in short text.
+This reform proposes replacing _ë_ with _ɛ_ so as to eliminate a diacritic letter, which clutter orthographies, so as to assign each sound a unique letter (or digraph) without diacritics. _ɛ_ was chosen as I believe it's the best aesthetic alternative to _ë_; it has some historical basis, having been previously used by the Frashëri Alphabet; it is quicker to handwrite; and it is arguably more distinctive from _e_ than _ë_ is. Additionally, since _ë_ is such a commonly occuring letter, its replacement with _ɛ_ would quickly signify to the user that the new spelling standard is being used, even in short text.
 
 Note - unlike the rest of the proposal, this is simply an stylistic choice and is not an important part of the proposal. _ë_ continuing to be used instead would not hinder the proposal at all.
 
@@ -141,6 +141,11 @@ This also applies to historical _n_ where Gheg dropped the sound entirely but To
 *	_krye**r**_ (\~_krye_) → _krye**ƞ**_
 *	_pa**r**ë_ (\~_pa_) → _pa**ƞ**ɛ_
 
+Note - the aim is for this letter to be represented by "N with long left leg", which looks like a flipped ƞ. The reason for this is that it visually appears as a combination of a long r (**ɼ**) and the letter **n**. This does not currently exist in Unicode, and so "N with long right leg", ie ƞ, was chosen instead, which is almost identical to Greek eta. However, a recent proposal to Unicode has been made to include letters from the Frashëri alphabet:
+https://www.unicode.org/L2/L2026/26175-albanian-frasheri.pdf
+
+One of the letter proposed to be added is the Frashëri Lower Case P, which is identitical in form to the envisioned "N with long left leg". If and when this proposal is implemented, I will update this proposal to include that letter.
+
 ## Syllable-final _j_ often replaced by _nj_
 
 Old Gheg & Old Tosk both used medial & final _nj_ in verbs. Gheg and a few Tosk dialects dropped this, but most other Tosk dialects retain this. Also, this often helps mark Gheg nasalisation.
@@ -172,7 +177,6 @@ Gheg nasals are likely more conservative than Tosk's oral equivalents. Literary 
 *	_h**u**ndë_ (\~_h**û**ndë_) → _h**u**ndɛ_
 *	_s**y**_ (\~_s**ŷ**_) → _s**y**_
 
-
 Vowel pronunciation guide:
 
 | Vowel | Oral form <br> (Gheg , Tosk) | Nasal form <br> (Gheg) | De-nasalised form <br> (Tosk)
@@ -190,9 +194,9 @@ A more comprehensive vowel system could have been implemented, by implementing o
 * Marking Gheg nasals vowels that reduce to schwa in Tosk with _ä_, _ë_ or _ă_, _ĕ_
 * Marking long Gheg vowels with _ā_, _ē_, _ī_, _ō_, _ū_, _ȳ_, or _aa_, _ee_, _ii_, _oo_, _uu_, _yy_
 
-However, these were avoided so as to not overcomplicate the orthography with diacritics. Dialectally, these can be implemented. e.g. Gheg dialects can mark nasalisation with _â_, _ê_, _î_, _û_, _ŷ_, and Tosk dialects can mark vowel reduction with _ä_, _ë_.
+However, these were avoided so as to not overcomplicate the orthography with diacritics. Dialectally, these can be implemented.
 
-Additionally, nasalisation is not consistent across Gheg dialects, and so marking nasal vowels would bias certain Gheg subdialects over others. The previously described markers of nasalisation (and therefore of Tosk vowel reduction) should be enough for readers to figure out the pronunciation of words in their dialect.
+Additionally, nasalisation is not fully consistent across Gheg dialects, and so marking nasal vowels would bias certain Gheg subdialects over others. The previously described markers of nasalisation (and therefore of Tosk vowel reduction) should be enough for readers to understand the pronunciation of words in their dialect.
 
 ## Silent _n_ introduced
 
