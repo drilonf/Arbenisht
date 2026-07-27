@@ -38,7 +38,7 @@ The table below shows all letters and variants, new Standard pronunciation (base
 | 4 | Ch | ch | /t͡ʃ/ | [t͡ʃ\~ʃ\~ʒ] | | Replaces _ç_ |
 | 5 | D | d | /d/ | | | |
 | 6 | Dh | dh | /ð/ | [ð\~θ\~ɫ] | [ð\~ɫ] | |
-| 7 | E | e | /ɛ, ɛ̃/ | [ɛ\~e, ɛ̃\~æ̃] | [ɛ, ɛ\~ə] | Includes nasal form |
+| 7 | E | e | /ɛ/ <br> ɛ̃/ | [ɛ\~e] <br> [ɛ̃\~æ̃] | [ɛ] <br> [ɛ\~ə] | Includes nasal form |
 | 8 | Ɛ | ɛ | /ə/ | [ə]~∅ | [ə\~ɜ]~∅ | Replaces _ë_ |
 | 9 | F | f | /f/ | | | |
 | 10 | G | g | /g/ | | | |
@@ -65,11 +65,11 @@ The table below shows all letters and variants, new Standard pronunciation (base
 | 27 | Sh | sh | /ʃ/ | | | |
 | 28 | T | t | /t/ | | | |
 | 29 | Th | th | /θ/ | | | |
-| 30 | U | u | /u, ũ/ | | /u, u/ | Includes nasal form |
+| 30 | U | u | /u/ <br> /ũ/ | | /u/ <br> /u/ | Includes nasal form |
 | 31 | V | v | /v/ | | | |
 | 32 | X | x | /d͡z/ | | | |
 | 33 | Xh | xh | /d͡ʒ/ | [d͡ʒ\~ʒ] | | |
-| 34 | Y | y | /y, ỹ/ | [y\~i\~äj~ɛj\, ỹ\~ĩ] | [y\~i\~u, y\~i\~u] | Includes nasal form |
+| 34 | Y | y | /y/ <br> /ỹ/ | [y\~i\~äj~ɛj] <br> [ỹ\~ĩ] | [y\~i\~u] <br> [y\~i\~u] | Includes nasal form |
 | 35 | Z | z | /z/ | | | |
 | 36 | Zh | zh | /ʒ/ | | | |
 
