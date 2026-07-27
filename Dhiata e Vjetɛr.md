@@ -197,7 +197,7 @@
 | 18 Por unë do të caktoj besëlidhjen time me ty dhe ti do të futesh në arkën: ti, fëmijët e tu, gruaja jote dhe gratë e bijve të tu. | 18 Por unɛ do tɛ caktonj besɛlidhjen time me ty dhe ti do tɛ futesh nɛ arkɛn: ti, cullɛt e tu, gruoja jote dhe gratɛ e bijve tɛ tu. |
 | 19 Dhe nga çdo gjë që jeton prej çdo lloj mishi fut në arkë dy nga çdo lloj, për t’i ruajtur me vete gjallë bashkë me ty; dhe të jenë mashkull dhe femër. | 19 Dhe nga chdo gja kjɛ jeton prej chdo lloj mishi fut nɛ arkɛ dy nga chdo lloj, pɛr me i  ruojtuƞ me vete gjallɛ bashkɛ me ty; dhe tɛ jenɛ mashkull dhe femɛƞɛ. |
 | 20 Nga zogjtë, nga bagëtia dhe të gjithë rrëshqanorët e tokës simbas llojit të tyre, dy nga çdo lloj do të vijnë te ti, që të ruhen gjallë. | 20 Nga zogjtɛ, nga bagɛtia dhe tɛ gjithɛ rrɛshkjanuorɛt e tokɛs simbas llojit tɛ tyƞe, dy nga chdo lloj do tɛ vijnɛ te ti, kjɛ tɛ ruhen gjallɛ. |
-| 21 Dhe merr për vete nga çdo ushqim që hahet, grumbulloje dhe ruaje, në mënyrë që të shërbejë si ushqim për ty dhe për ata". | 21 Dhe merr pɛr vete nga chdo ushkjim kjɛ hahet, grumbullonje dhe ruonje, nɛ mɛnyrɛ  |
+| 21 Dhe merr për vete nga çdo ushqim që hahet, grumbulloje dhe ruaje, në mënyrë që të shërbejë si ushqim për ty dhe për ata". | 21 Dhe merr pɛr vete nga chdo ushkjim kjɛ hahet, grumbullonje dhe ruonje, nɛ mɛnyrɛ kjɛ tɛ shɛrbenjɛ si ushkjim pɛr ty dhe pɛr ata".  |
 | 22 Dhe Noeu veproi ashtu, bëri pikërisht të gjitha ato që Perëndia i kishte urdhëruar. | 22 Dhe Noeu veproi ashtu, baƞi pikɛƞisht tɛ gjitha ato kjɛ Perɛndia i kishte urdhɛƞuo. |
 
 ## Zanafilla 7 ~ Zaƞafilla 7
