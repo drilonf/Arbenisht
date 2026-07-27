@@ -32,7 +32,7 @@ The table below shows all letters and variants, new Standard pronunciation (base
 
 | No. | Capital | Lowercase | IPA Standard | IPA Gheg | IPA Tosk | Changes |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1 | A | a | /ä, ɑ̃/ | [ä\~æ, ɑ̃\~ɒ̃\~ɔ̃] | [ä, ä\~ə] | Includes nasal form |
+| 1 | A | a | /ä/ <br> /ɑ̃/ | [ä\~æ] <br> [ɑ̃\~ɒ̃\~ɔ̃] | [ä] <br> [ä\~ə] | Includes nasal form |
 | 2 | B | b | /b/ | | | |
 | 3 | C | c | /t͡s/ | | | |
 | 4 | Ch | ch | /t͡ʃ/ | [t͡ʃ\~ʃ\~ʒ] | | Replaces _ç_ |
