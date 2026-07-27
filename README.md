@@ -38,14 +38,14 @@ The table below shows all letters and variants, new Standard pronunciation (base
 | 4 | Ch | ch | /t͡ʃ/ | [t͡ʃ\~ʃ\~ʒ] | | Replaces _ç_ |
 | 5 | D | d | /d/ | | | |
 | 6 | Dh | dh | /ð/ | [ð\~θ\~ɫ] | [ð\~ɫ] | |
-| 7 | E | e | /ɛ/ <br> ɛ̃/ | [ɛ\~e] <br> [ɛ̃\~æ̃] | [ɛ] <br> [ɛ\~ə] | Includes nasal form |
+| 7 | E | e | /ɛ/ <br> /ɛ̃/ | [ɛ\~e] <br> [ɛ̃\~æ̃] | [ɛ] <br> [ɛ\~ə] | Includes nasal form |
 | 8 | Ɛ | ɛ | /ə/ | [ə]~∅ | [ə\~ɜ]~∅ | Replaces _ë_ |
 | 9 | F | f | /f/ | | | |
 | 10 | G | g | /g/ | | | |
 | 11 | Gj | gj | /d͡ʑ/ | [d͡ʑ\~d͡ʒ] | [ɟ\~ɟ͡ʝ] | |
 | -- | Gȷ | gȷ | /d͡ʑ/ | [d͡ʑ\~d͡ʒ\~gʲ\~g] | [ɟ\~ɟ͡ʝ\~gl\~gʎ] | Variant of _Gj_, named /gʎə/ |
 | 12 | H | h | /h/ | [h\~f] | [h\~ɦ\~x\~ç] | 
-| 13 | I | i | /i, ĩ/ | [i\~ɪ, ĩ] | [i, i] | Includes nasal form |
+| 13 | I | i | /i/ <br> /ĩ/ | [i\~ɪ] <br> [ĩ] | [i] <br> [i] | Includes nasal form |
 | 14 | J | j | /j/ | | | |
 | -- | Ɉ | ȷ | /j/ | [j\~l\~ʎ] | [j\~l\~ʎ] | Variant of _J_, named /ʎə/ |
 | 15 | K | k | /k/ | | | |
