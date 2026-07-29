@@ -1,5 +1,5 @@
 # Introduction
-Arbënisht (Arbɛƞisht), or New Arbënisht (Arbɛƞishtja e Re), is a language reform proposal for the Albanian language. It aims to produce a standard language which is etymological and pan-dialectal.
+Arbënisht (Arbëƞisht), or New Arbënisht (Arbëƞishtja e Re), is a language reform proposal for the Albanian language. It aims to produce a standard language which is etymological and pan-dialectal.
 <br>
 
 The current standard language is largely based on Northern Tosk, and as a result excludes many Gheg and Southern Tosk features, even when these features are more conservative. This proposed standard aims to not be biased towards any one dialect (besides to an extent Elbasanisht) but rather favours forms that have been used by Old Albanian writers cross-dialectally for hundreds of years. Conservative forms are chosen regardless of which dialect they are preserved in today. Features lost in all dialects are not re-instituted. <br>
@@ -18,9 +18,9 @@ The following principles were followed when creating this proposal:
 * When Old Gheg & Old Tosk forms conflict, hybrid forms and compromises should be chosen to orthographically unify the dialects. If this is not possible, then the form used in Elbasanisht should be chosen
 * Proto-Albanian should not consulted as it is a speculative reconstructed language. Instead, Old Gheg & Old Tosk writings should be used
 
-# Arbɛƞisht Alphabet
+# Arbëƞisht Alphabet
 <img src="https://github.com/drilonf/Arbenisht/blob/main/Alphabet.jpg?raw=true"/>
-The Arbɛƞisht alphabet.
+The Arbëƞisht alphabet.
 
 * Letters with changes to usage only are in Light Green
 * Letters with changes to spelling are in Dark Green
@@ -39,7 +39,7 @@ The table below shows all letters and variants, new Standard pronunciation (base
 | 5 | D | d | /d/ | | | |
 | 6 | Dh | dh | /ð/ | [ð\~θ\~ɫ] | [ð\~ɫ] | |
 | 7 | E | e | /ɛ/ <br> /ɛ̃/ | [ɛ\~e] <br> [ɛ̃\~æ̃] | [ɛ] <br> [ɛ\~ə] | Includes nasal form |
-| 8 | Ɛ | ɛ | /ə/ | [ə]~∅ | [ə\~ɜ]~∅ | Replaces _ë_ |
+| 8 | Ë | ë | /ə/ | [ə]~∅ | [ə\~ɜ]~∅ | |
 | 9 | F | f | /f/ | | | |
 | 10 | G | g | /g/ | | | |
 | 11 | Gj | gj | /d͡ʑ/ | [d͡ʑ\~d͡ʒ] | [ɟ\~ɟ͡ʝ] | |
@@ -73,31 +73,26 @@ The table below shows all letters and variants, new Standard pronunciation (base
 | 35 | Z | z | /z/ | | | |
 | 36 | Zh | zh | /ʒ/ | | | |
 
-This proposed alphabet (with variants) contains 24 of the 26 ISO Latin characters (_Qq_ and _Ww_ are not used), and 3 additional characters (_Ɛɛ_, _Ɉȷ_, and _Иƞ_).
+This proposed alphabet (with variants) contains 24 of the 26 ISO Latin characters (_Qq_ and _Ww_ are not used), and 3 additional characters (_Ëë_, _Ɉȷ_, and _Иƞ_).
 
 # Spelling Changes
-
-## _ë_ replaced by _ɛ_
-This reform proposes replacing _ë_ with _ɛ_ so as to eliminate a diacritic letter, which clutter orthographies, and therefore to assign each sound a unique letter (or digraph) without diacritics. _ɛ_ was chosen as I believe it's the best aesthetic alternative to _ë_; it has some historical basis, having been previously used by the Frashëri Alphabet; it is quicker to handwrite; and it is arguably more distinctive from _e_ than _ë_ is. Additionally, since _ë_ is such a commonly occuring letter, its replacement with _ɛ_ would quickly signify to the user that the new spelling standard is being used, even in short text.
-
-Note - unlike the rest of the proposal, this is simply an aesthetic choice and is not an important part of the proposal. _ë_ continuing to be used instead would not hinder the proposal at all.
 
 ## _ç_ replaced by _ch_
 
 This reform proposes replacing _ç_ with _ch_. This matches with the existing _-h_ pattern of digraphs in Albanian, such as for: _d_ → _dh_, _s_ → _sh_, _t_ → _th_, _x_ → _xh_, _z_ → _zh_. So, _c_ → _ch_ logically follows, moreso than the existing _c_ → _ç_. Additionally, this eliminates a diacritic letter, which is beneficial as _ç_ is frequently incorrectly typed as _c_.
-*	_**ç**farë_ (~_**ç**ar_) → _**ch**farɛ_
+*	_**ç**farë_ (~_**ç**ar_) → _**ch**farë_
 *	_**ç**aj_ → _**ch**aj_
 *	_**ç**liroj_ → _**ch**liroj_
 *	_di**ç**ka_ → _di**ch**ka_
-*	_gjith**ç**ka_ → _gjithɛ**ch**ka_
+*	_gjith**ç**ka_ → _gjithë**ch**ka_
 
 ## _ȷ_ introduced
 
 In some cases, Proto-Albanian and Old Albanian medial /l/ evolved via a historical /ʎ/ intermediary to /j/. However, some Gheg & Tosk dialects retained the original /l/ or intermediary /ʎ/. In these cases, Standard _j_ is replaced by _ȷ_, which can be pronounced /j/, /l/, or /ʎ/, depending on the dialect.
 
 * _u**j**k_ (\~_(h)u**j**k_\~_(h)uk_\~_u**l**k_) → _u**ȷ**k_
-*	_go**j**ë_ (\~_go**l**ë_) → _go**ȷ**ɛ_
-*	_bi**j**ë_ (\~_bi**l**ë_\~_bi**lj**ë_) → _bi**ȷ**ɛ_
+*	_go**j**ë_ (\~_go**l**ë_) → _go**ȷ**ë_
+*	_bi**j**ë_ (\~_bi**l**ë_\~_bi**lj**ë_) → _bi**ȷ**ë_
 
 This historic /ʎ/ is theorised by Dedvukaj & Ndoci (2023) to be the precursor of the _l_ in Old Albanian _gl_ and _kl_. Proto-Albanian /gʎ/ and /kʎ/ eventually developed to modern _gj_ and _q_ in most dialects, _g(i)_ and _k(i)_ in Northern Gheg, and _gl(j)_ and _kl(j)_ in Southern Tosk. This is discussed further below.
 
@@ -108,12 +103,12 @@ Note - this respelling does not include cases where some dialects have /ʎ/ in p
 Old Gheg & Old Tosk _gl_ is is preserved as _gl\~glj_ /gl\~gʎ/ in some Tosk dialects, realised as _gi\~g_ /gʲ\~g/ in some Gheg dialects, and merged with _gj_ /dʑ/ (and similar) in the rest. Standard Albanian also merges this sound with _gj_. This reform proposes replacing these cases, where _gj_ descends from _gl_, with _gȷ_, which can be pronounced as /ɟ\~dʑ\~ɟʝ\~dʒ/, /gʲ\~g/, or /gl\~gʎ/, depending on the dialect.
 
 * _**gj**eth_ → _**gj**eth_
-* _**gj**erë_ (\~_**gj**ânë_\~_**gj**ërë_) → _**gj**aƞɛ_
+* _**gj**erë_ (\~_**gj**ânë_\~_**gj**ërë_) → _**gj**aƞë_
 * _**gj**ak_ → _**gj**ak_
 * _**gj**i_ (\~_**gj**î_) → _**gj**i_
 * _**gj**u_ (\~_**g**û_\~_**gi**û_\~_**gl**u_) → _**gȷ**u_
-* _**gj**atë_ (\~_**g**âtë_\~_**g**ôtë_\~_**gl**atë_) → _**gȷ**atɛ_
-* _**gj**uhë_ (\~_**g**uhë_\~_**gi**uhë_\~_**gl**uhë_\~_**glj**uhë_) → _**gȷ**uhɛ_
+* _**gj**atë_ (\~_**g**âtë_\~_**g**ôtë_\~_**gl**atë_) → _**gȷ**atë_
+* _**gj**uhë_ (\~_**g**uhë_\~_**gi**uhë_\~_**gl**uhë_\~_**glj**uhë_) → _**gȷ**uhë_
 
 ## _q_ replaced by _kj_, _kȷ_
 
@@ -122,7 +117,7 @@ Old Gheg & Old Tosk _kl_ is preserved as _kl\~klj_ /kl\~kʎ/ in some Tosk dialec
 *	_**q**en_ → _**kj**en_
 *	_pesh**q**it_ → _pesh**kj**it_
 *	_**q**aj_ (\~_**k**aj_\~_**ki**aj_\~_**q**anj_\~_**kl**anj_) → _**kȷ**anj_
-*	_**q**enë_ (\~_**k**ânë_\~_**k**ênë_\~_**q**ânë_\~_**q**ënë_\~_**kl**ënë_) → _**kȷ**anɛ_
+*	_**q**enë_ (\~_**k**ânë_\~_**k**ênë_\~_**q**ânë_\~_**q**ënë_\~_**kl**ënë_) → _**kȷ**anë_
 *	_**q**ep_ (\~_**k**ep_\~_**kl**ep_) → _**kȷ**ep_
 
 There are currently a few words in Albanian containing _kj_ /k.j/. These would be changed to _ki_ to avoid confusion with the _kj_ digraph.
@@ -134,12 +129,12 @@ A similar change was made in Standard Albanian previously for _gj_, where words 
 ## _ƞ_ introduced
 
 Tosk _r_ often corresponds to Gheg _n_ medially and finally. The Gheg form is more conservative, observable from Latin loans; although, Tosk rhoticisation is very old, predating written works. In these cases, _ƞ_ will be used instead of Standard _r_. This new letter helps unify the dialects, and often helps mark Gheg nasalisation.
-*	_a**r**mik_ (\~_â**n**mik_) → _a**ƞ**ɛmik_
-*	_emë**r**_ (\~_êmë**n**_) → _emɛ**ƞ**_
+*	_a**r**mik_ (\~_â**n**mik_) → _a**ƞ**ëmik_
+*	_emë**r**_ (\~_êmë**n**_) → _emë**ƞ**_
 
 This also applies to historical _n_ where Gheg dropped the sound entirely but Tosk retained a rhoticised form.
 *	_krye**r**_ (\~_krye_) → _krye**ƞ**_
-*	_pa**r**ë_ (\~_pa_) → _pa**ƞ**ɛ_
+*	_pa**r**ë_ (\~_pa_) → _pa**ƞ**ë_
 
 Note - the aim is for this letter to be represented by "N with long left leg", which looks like a flipped ƞ. The reason for this is that it visually appears as a combination of a long r (**ɼ**) and the letter **n**. This does not currently exist in Unicode, and so "N with long right leg", ie ƞ, was chosen instead, which is almost identical to Greek eta. However, a recent proposal to Unicode has been made to include letters from the Frashëri alphabet:
 https://www.unicode.org/L2/L2026/26175-albanian-frasheri.pdf
@@ -155,26 +150,26 @@ Old Gheg & Old Tosk both used medial & final _nj_ in verbs. Gheg and a few Tosk 
 *	_shko**j**_ (\~_shko**nj**_) → _shko**nj**_
 
 This has already been preserved in some Standard words (that aren't verbs).
-*	_mëdhe**nj**_ (\~_mëdhê**j**_) → _mɛdhe**nj**_
-*	_bri**nj**ë_ (\~_brî**j**ë_) → _bri**nj**ɛ_
+*	_mëdhe**nj**_ (\~_mëdhê**j**_) → _mëdhe**nj**_
+*	_bri**nj**ë_ (\~_brî**j**ë_) → _bri**nj**ë_
 
 ## Most _ua_ replaced by _uo_
 
 Modern _ua_ often corresponds to Old Gheg _uo_ and Old Tosk _ua_. Both are theorised to descend from Proto-Albanian *_uo_ ← *_ō_. Although _uo_ is largely extinct today, in this proposal it serves to unify Gheg _ue_, _ū_, and Tosk _ua_. Standard Albanian currently uses both Tosk (_ua_, _uar_, _or)_ and Gheg (_ues_) forms.
 *	_m**ua**_ (\~_m**ue**_\~_m**ū**_) → _m**uo**_
-*	_mës**ua**r_ (\~_mës**ue**_\~_mës**ū**_) → _mɛs**uo**_
-*	_mës**ue**s_ (\~_mës**ū**s_\~_mës**ua**s_\~_mësonjës_) → _mɛs**uo**s_
+*	_mës**ua**r_ (\~_mës**ue**_\~_mës**ū**_) → _mës**uo**_
+*	_mës**ue**s_ (\~_mës**ū**s_\~_mës**ua**s_\~_mësonjës_) → _mës**uo**s_
 *	_fjal**o**r_ (\~_fjal**ue**r_\~_fjal**ū**r_) → _fjal**uo**r_
 
 ## Nasal pronunciations introduced
 
 Gheg nasals are likely more conservative than Tosk's oral equivalents. Literary Gheg’s 5 nasal vowels (_â_/_ô_, _ê_, _î_, _û_, _ŷ_) are adopted without diacritics (_a_, _e_, _i_, _u_, _y_). Nasal forms in this proposal are not written but implied by appearing before _m_, _n_, _ƞ_, _nj_, and word-finally. Gheg nasal vowels correspond to Tosk oral (and sometimes reduced) vowels.
-*	_**a**në_ (\~_**â**në_) → _**a**nɛ_
+*	_**a**në_ (\~_**â**në_) → _**a**në_
 *	_v**e**nd_ (\~_v**ê**nd_\~_v**ë**nd_) → _v**e**nd_
 *	_br**e**j_ (\~_br**ê**j_\~_br**e**nj_) → _br**e**nj_
-*	_k**ë**mbë_ (\~_k**â**mbë_\~_k**ô**mbë_) → _k**a**mbɛ_
+*	_k**ë**mbë_ (\~_k**â**mbë_\~_k**ô**mbë_) → _k**a**mbë_
 *	_br**i**_ (\~_br**î**_) → _br**i**_
-*	_h**u**ndë_ (\~_h**û**ndë_) → _h**u**ndɛ_
+*	_h**u**ndë_ (\~_h**û**ndë_) → _h**u**ndë_
 *	_s**y**_ (\~_s**ŷ**_) → _s**y**_
 
 A more comprehensive vowel system could have been implemented, by implementing one or more of the following:
@@ -189,9 +184,9 @@ Additionally, nasalisation is not fully consistent across Gheg dialects, and so 
 ## Silent _n_ introduced
 
 In a few words where Old Gheg _n_ has been lost, this is reintroduced to mark Gheg nasal vowels.
-*	_është_ (\~_âsht_\~_ôsht_) → _a**n**shtɛ_
-*	_pesë_ (\~_pêsë_) → _pe**n**sɛ_
-*	_bëftë_ (\~_bâftë_\~_bôftë_) → _ba**n**ftɛ_
+*	_është_ (\~_âsht_\~_ôsht_) → _a**n**shtë_
+*	_pesë_ (\~_pêsë_) → _pe**n**së_
+*	_bëftë_ (\~_bâftë_\~_bôftë_) → _ba**n**ftë_
 
 # Spelling Retentions
 
@@ -210,33 +205,19 @@ Old Gheg and Old Tosk both used _mb_, _nd_ clusters. These simplified to _m_, _n
 *	_**nd**er_ (\~_**nd̆**êr_) → _**nd**er_
 
 Literary Gheg has already adopted this.
-## Word-final _ɛ_ preserved
+## Word-final _ë_ preserved
 
 Old Gheg and Old Tosk both used _ë_ word-finally. These have been dropped in Gheg and increasingly in some Tosk dialects, but preserved in other Tosk dialects. _ë_ is still useful for Gheg however as it indicates noun gender, conjugations & declensions, and lengthening of the penultimate vowel.
-*	_shum**ë**_ (\~_shum**ë̆**_) → _shum**ɛ**_
-*	_burr**ë**_ (\~_burr**ë̆**_) → _burr**ɛ**_
+*	_shum**ë**_ (\~_shum**ë̆**_) → _shum**ë**_
+*	_burr**ë**_ (\~_burr**ë̆**_) → _burr**ë**_
 
 Literary Gheg has already adopted this.
 
 # Suggestions for typing
-In regards to keyboard typing, it is proposed that _W_ is replaced with _Ɛ_ on Albanian keyboards, as _W_ is not used in Albanian, besides in recent unassimilated loanwords, whilst _Ɛ_ is extremely common. Additional characters could then be produced by pressing Alt and selecting _Vv_ (for _Ww_), _Jj_ (for _Ɉȷ_), or _Nn_ (for _Иƞ_). Alternatively, and for mobiles, _W_, _Ɉ_, and _И_ can be placed at the top-right corner of the keyboard, as Albanian currently does (for _Ç_ and _Ë_), and many other languages currently do for their own non-standard characters.
+In regards to keyboard typing, it is proposed that _W_ is replaced with _Ë_ on Albanian keyboards, as _W_ is not used in Albanian, besides in recent unassimilated loanwords, whilst _Ë_ is extremely common. Additional characters could then be produced by pressing Alt and selecting _Vv_ (for _Ww_), _Jj_ (for _Ɉȷ_), or _Nn_ (for _Иƞ_). Alternatively, and for mobiles, _W_, _Ɉ_, and _И_ can be placed at the top-right corner of the keyboard, as Albanian currently does (for _Ç_ and _Ë_), and many other languages currently do for their own non-standard characters.
 
 # Sample text
 
-With _ë_ > _ɛ_:
-> Atɛherɛ Zoti Perɛndi i tha gjarpɛƞit: "Me kȷanɛ se baƞe kɛtɛ gja, kȷofsh i mallkuom ndɛr gjithɛ kafshɛt dhe taƞɛ bishat e fushave! Ti do tɛ ecɛsh mbi barkun tand dhe do tɛ hash pluhuƞ gjithɛ ditɛt e jetɛs sate.
->
-> Dhe unɛ do tɛ shtie armikjɛsi midis teje dhe gruos, midis farɛs sate dhe farɛs sɛ saj; fara e saj do tɛ shtypɛ kreun tande, dhe ti do tɛ plagosɛsh thembrɛn e farɛs sɛ saj".
->
-> Gruos i tha: "Unɛ do tɛ shumɛzonj nɛ masɛ tɛ madhe vuojtjet e tuo dhe barrɛt e tuo; me vuojtje do tɛ lindɛsh cullɛ; dɛshirat e tuo do tɛ drejtohen danj burrit tand dhe ai do tɛ zotɛƞonjɛ mbi ty".
->
-> Mbasandaj i tha Adamit: "Me kȷanɛ se ndɛgȷove zaƞin e gruos sate dhe hangre nga pema pɛr tɛ cilɛn tɛ kisha urdhɛƞuo tuke thanɛ: "Mos ha prej saj," toka do tɛ jetɛ e mallkuom pɛr shkakun tand, ti do tɛ hash frutin e saj me mund taƞɛ ditɛt e jetɛs sate.
->
-> Ajo do tɛ prodhonjɛ gȷemba dhe bimɛ gȷembuore, dhe ti do tɛ hash barin e fushave; do tɛ hash bukɛn me djersɛn e ballit, deri sa tɛ kthehesh pɛrsɛri nɛ dhe sepse nga ai ke dalɛ; sepse ti je pluhuƞ dhe nɛ pluhuƞ do tɛ kthehesh pɛrsɛri".
-
-> Kɛshtu ai e dɛboi njeriun; dhe vendosi nɛ lindje tɛ kopshtit tɛ Edenit kerubinɛt kjɛ vɛrtisnin nga chdo anɛ nji shpatɛ flakɛƞuose pɛr me ruojtuƞ udhɛn e pemɛs sɛ jetɛs.
-
-With _ë_ retained:
 > Atëherë Zoti Perëndi i tha gjarpëƞit: "Me kȷanë se baƞe këtë gja, kȷofsh i mallkuom ndër gjithë kafshët dhe taƞë bishat e fushave! Ti do të ecësh mbi barkun tand dhe do të hash pluhuƞ gjithë ditët e jetës sate.
 >
 > Dhe unë do të shtie armikjësi midis teje dhe gruos, midis farës sate dhe farës së saj; fara e saj do të shtypë kreun tande, dhe ti do të plagosësh thembrën e farës së saj".
