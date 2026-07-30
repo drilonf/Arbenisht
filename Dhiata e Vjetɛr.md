@@ -8,7 +8,7 @@
 * ⟨r⟩ 	→ 	⟨r ɲ⟩
 * ⟨ua⟩ 	→ 	⟨uo⟩
 
-# Shkrimi i Shenjtë ~ Shkrimi i Shenjtë
+# Shkrimi i Shenjtë
 
 ## Zanafilla 1 ~ Zaɲafilla 1
 
