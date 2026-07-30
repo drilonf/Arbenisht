@@ -77,7 +77,7 @@ This proposed alphabet (with variants) contains 24 of the 26 ISO Latin character
 
 # Spelling Changes
 
-## _ç_ replaced by _ch_
+## ç replaced by ch
 
 This reform proposes replacing _ç_ with _ch_. This matches with the existing _-h_ pattern of digraphs in Albanian, such as for: _d_ → _dh_, _s_ → _sh_, _t_ → _th_, _x_ → _xh_, _z_ → _zh_. So, _c_ → _ch_ logically follows, moreso than the existing _c_ → _ç_. Additionally, this eliminates a diacritic letter, which is beneficial as _ç_ is frequently incorrectly typed as _c_.
 *	_**ç**farë_ (~_**ç**ar_) → _**ch**farë_
@@ -86,7 +86,7 @@ This reform proposes replacing _ç_ with _ch_. This matches with the existing _-
 *	_di**ç**ka_ → _di**ch**ka_
 *	_gjith**ç**ka_ → _gjithë**ch**ka_
 
-## _ȷ_ introduced
+## ȷ introduced
 
 In some cases, Proto-Albanian and Old Albanian medial /l/ evolved via a historical /ʎ/ intermediary to /j/. However, some Gheg & Tosk dialects retained the original /l/ or intermediary /ʎ/. In these cases, Standard _j_ is replaced by _ȷ_, which can be pronounced /j/, /l/, or /ʎ/, depending on the dialect.
 
@@ -98,7 +98,7 @@ This historic /ʎ/ is theorised by Dedvukaj & Ndoci (2023) to be the precursor o
 
 Note - this respelling does not include cases where some dialects have /ʎ/ in place of Standard /l/. In these cases, /ʎ/ is considered an alternative pronunciation of _l_ and is not marked. e.g. _lule_ is /lulɛ/ in most Gheg & Tosk dialects, but /ʎuʎɛ/ in some Northwestern Gheg and Southern Tosk dialects.
 
-## _gj_ replaced by _gj_, _gȷ_
+## gj replaced by gj, gȷ
 
 Old Gheg & Old Tosk _gl_ is is preserved as _gl\~glj_ /gl\~gʎ/ in some Tosk dialects, realised as _gi\~g_ /gʲ\~g/ in some Gheg dialects, and merged with _gj_ /dʑ/ (and similar) in the rest. Standard Albanian also merges this sound with _gj_. This reform proposes replacing these cases, where _gj_ descends from _gl_, with _gȷ_, which can be pronounced as /ɟ\~dʑ\~ɟʝ\~dʒ/, /gʲ\~g/, or /gl\~gʎ/, depending on the dialect.
 
@@ -110,7 +110,7 @@ Old Gheg & Old Tosk _gl_ is is preserved as _gl\~glj_ /gl\~gʎ/ in some Tosk dia
 * _**gj**atë_ (\~_**g**âtë_\~_**g**ôtë_\~_**gl**atë_) → _**gȷ**atë_
 * _**gj**uhë_ (\~_**g**uhë_\~_**gi**uhë_\~_**gl**uhë_\~_**glj**uhë_) → _**gȷ**uhë_
 
-## _q_ replaced by _kj_, _kȷ_
+## q replaced by kj, kȷ
 
 This reform proposes replacing _q_ with _kj_. This matches with the existing _-j_ pattern to mark palatal consonants: _g_ → _gj_, _n_ → _nj_. So, _k_ → _kj_ logically follows, moreso than the existing _k_ → _q_. _kj_ also matches with historical spellings of this phoneme (_ci_, _chi_, _ki_, _kj_ in Old Albanian).<br>
 Old Gheg & Old Tosk _kl_ is preserved as _kl\~klj_ /kl\~kʎ/ in some Tosk dialects, realised as _ki\~k_ /kʲ\~k/ in some Gheg dialects, and merged with _q_ /tɕ/ (and similar) in the rest. Standard Albanian also merges this sound with _q_. This reform proposes replacing these cases, where _q_ descends from _kl_, with _kȷ_, which can be pronounced as /c\~tɕ\~cç\~tʃ/, /kʲ\~k/, or /kl\~kʎ/, depending on the dialect.
@@ -126,7 +126,7 @@ There are currently a few words in Albanian containing _kj_ /k.j/. These would b
 
 A similar change was made in Standard Albanian previously for _gj_, where words like _dje**gj**e_ were respelled _dje**gi**e_ to avoid confusion with the _gj_ digraph.
 
-## _ƞ_ introduced
+## ƞ introduced
 
 Tosk _r_ often corresponds to Gheg _n_ medially and finally. The Gheg form is more conservative, observable from Latin loans; although, Tosk rhoticisation is very old, predating written works. In these cases, _ƞ_ will be used instead of Standard _r_. This new letter helps unify the dialects, and often helps mark Gheg nasalisation.
 *	_a**r**mik_ (\~_â**n**mik_) → _a**ƞ**ëmik_
@@ -141,7 +141,7 @@ https://www.unicode.org/L2/L2026/26175-albanian-frasheri.pdf
 
 One of the letter proposed to be added is the Frashëri Lower Case P, which is identitical in form to the envisioned "N with long left leg". If and when this proposal is implemented, I will update this proposal to include that letter.
 
-## Syllable-final _j_ often replaced by _nj_
+## Syllable-final j often replaced by nj
 
 Old Gheg & Old Tosk both used medial & final _nj_ in verbs. Gheg and a few Tosk dialects dropped this, but most other Tosk dialects retain this. Also, this often helps mark Gheg nasalisation.
 *	_nda**j**_ (\~_dâ**j**_\~_nda**nj**_) → _da**nj**_
@@ -153,7 +153,7 @@ This has already been preserved in some Standard words (that aren't verbs).
 *	_mëdhe**nj**_ (\~_mëdhê**j**_) → _mëdhe**nj**_
 *	_bri**nj**ë_ (\~_brî**j**ë_) → _bri**nj**ë_
 
-## Most _ua_ replaced by _uo_
+## Most ua replaced by uo
 
 Modern _ua_ often corresponds to Old Gheg _uo_ and Old Tosk _ua_. Both are theorised to descend from Proto-Albanian *_uo_ ← *_ō_. Although _uo_ is largely extinct today, in this proposal it serves to unify Gheg _ue_, _ū_, and Tosk _ua_. Standard Albanian currently uses both Tosk (_ua_, _uar_, _or)_ and Gheg (_ues_) forms.
 *	_m**ua**_ (\~_m**ue**_\~_m**ū**_) → _m**uo**_
@@ -181,7 +181,7 @@ However, these were avoided so as to not overcomplicate the orthography with dia
 
 Additionally, nasalisation is not fully consistent across Gheg dialects, and so marking nasal vowels would bias certain Gheg subdialects over others. The previously described markers of nasalisation (and therefore of Tosk vowel reduction) should be enough for readers to understand the pronunciation of words in their dialect.
 
-## Silent _n_ introduced
+## Silent n introduced
 
 In a few words where Old Gheg _n_ has been lost, this is reintroduced to mark Gheg nasal vowels.
 *	_është_ (\~_âsht_\~_ôsht_) → _a**n**shtë_
@@ -190,7 +190,7 @@ In a few words where Old Gheg _n_ has been lost, this is reintroduced to mark Gh
 
 # Spelling Retentions
 
-## Syllable-final _h_ preserved
+## Syllable-final h preserved
 
 Old Gheg and Old Tosk both used syllable-final _h_. This changed to _f_ in Gheg but not in Tosk.
 *	_fto**h**_ (\~_fto**f**_) → _fto**h**_
@@ -198,14 +198,14 @@ Old Gheg and Old Tosk both used syllable-final _h_. This changed to _f_ in Gheg 
 *	_njo**h**_ (\~_njo**f**_) → _njo**h**_
 *	_sho**h**_ (\~_sho**f**_) → _sho**h**_
 
-## _mb_, _nd_ clusters preserved
+## mb, nd clusters preserved
 
 Old Gheg and Old Tosk both used _mb_, _nd_ clusters. These simplified to _m_, _n_ in Gheg but not in Tosk.
 *	_**mb**ush_ (\~_**mb̆**ush_) → _**mb**ush_
 *	_**nd**er_ (\~_**nd̆**êr_) → _**nd**er_
 
 Literary Gheg has already adopted this.
-## Word-final _ë_ preserved
+## Word-final ë preserved
 
 Old Gheg and Old Tosk both used _ë_ word-finally. These have been dropped in Gheg and increasingly in some Tosk dialects, but preserved in other Tosk dialects. _ë_ is still useful for Gheg however as it indicates noun gender, conjugations & declensions, and lengthening of the penultimate vowel.
 *	_shum**ë**_ (\~_shum**ë̆**_) → _shum**ë**_
