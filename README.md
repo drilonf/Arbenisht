@@ -19,6 +19,7 @@ The following principles were followed when creating this proposal:
 * Proto-Albanian should not consulted as it is a speculative reconstructed language. Instead, Old Gheg & Old Tosk writings should be used
 
 # Arbëɲisht Alphabet
+![alt text](https://raw.githubusercontent.com/drilonf/Arbenisht/refs/heads/main/Alphabet.jpg)
 The Arbëɲisht alphabet.
 
 * Letters with changes to usage only are in Light Green
