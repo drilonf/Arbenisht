@@ -136,11 +136,6 @@ This also applies to historical _n_ where Gheg dropped the sound entirely but To
 *	_krye**r**_ (\~_krye_) → _krye**ɲ**_
 *	_pa**r**ë_ (\~_pa_) → _pa**ɲ**ë_
 
-Note - the aim is for this letter to be represented by "N with long left leg", which looks like a flipped ƞ. The reason for this is that it visually appears as a combination of a long r (**ɼ**) and the letter **n**. This does not currently exist in Unicode, and so "N with left hook", ie ɲ, was chosen instead. However, a recent proposal to Unicode has been made to include letters from the Frashëri alphabet:
-https://www.unicode.org/L2/L2026/26175-albanian-frasheri.pdf
-
-One of the letter proposed to be added is the Frashëri Lower Case P, which is identitical in form to the envisioned "N with long left leg". If and when this proposal is implemented, I will update this proposal to include that letter.
-
 ## Syllable-final j often replaced by nj
 
 Old Gheg & Old Tosk both used medial & final _nj_ in verbs. Gheg and a few Tosk dialects dropped this, but most other Tosk dialects retain this. Also, this often helps mark Gheg nasalisation.
